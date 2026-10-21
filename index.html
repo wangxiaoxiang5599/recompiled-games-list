@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Recompiled Games List: Open Data</title>
+<meta name="description" content="Open list of 179 fan projects that turn console games into native PC programs (static recompilations, decompilations and game-specific runtimes), with status checked daily. JSON and CSV, CC BY 4.0.">
+<style>
+:root{--bg:#f7f6f2;--card:#fff;--ink:#1b1d22;--muted:#5d626d;--line:#e3e0d8;--accent:#1c7ed6;--bar:#c5dcf3}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1115;--card:#171a20;--ink:#e9eaee;--muted:#a0a5b0;--line:#2a2e37;--accent:#4dabf7;--bar:#1f3a55}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:860px;margin:0 auto;padding:40px 16px 64px}
+a{color:var(--accent)}
+h1{font-size:clamp(1.7rem,4vw,2.4rem);line-height:1.15;margin:0 0 12px}
+h2{font-size:1.2rem;margin:40px 0 12px}
+.lead{color:var(--muted);margin:0 0 24px;max-width:62ch}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.stat b{display:block;font-size:1.6rem;line-height:1.2}
+.stat span{color:var(--muted);font-size:.85rem}
+.bars{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px}
+.bar{display:grid;grid-template-columns:minmax(110px,190px) 1fr 3ch;gap:10px;align-items:center;padding:4px 0;font-size:.92rem}
+.bar i{display:block;height:10px;border-radius:6px;background:var(--bar)}
+.bar i span{display:block;height:100%;border-radius:6px;background:var(--accent)}
+ul.latest{list-style:none;margin:0;padding:0;background:var(--card);border:1px solid var(--line);border-radius:12px}
+ul.latest li{padding:12px 16px;border-top:1px solid var(--line)}
+ul.latest li:first-child{border-top:0}
+ul.latest small{display:block;color:var(--muted)}
+pre{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;overflow-x:auto;font-size:.85rem}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.dl{display:flex;flex-wrap:wrap;gap:10px}
+.dl a{display:inline-block;padding:8px 14px;border-radius:999px;border:1px solid var(--line);background:var(--card);text-decoration:none;color:var(--ink)}
+footer{margin-top:48px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:.85rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>Recompiled games: open data</h1>
+<p class="lead">Fan projects that turn old console games into native PC programs instead of running them in an emulator: static recompilations, decompilations, game-specific runtimes and single-game emulator forks. This is the data behind the <a href="https://portedgames.com/recompiled-games/">PortedGames recompiled games list</a>, where every project is listed with its status and what you need to run it. Re-checked daily; last update Oct 21, 2026.</p>
+
+<div class="stats">
+<div class="stat"><b>179</b><span>projects across 12 platforms</span></div>
+<div class="stat"><b>57</b><span>marked working, plus 91 in beta</span></div>
+<div class="stat"><b>Xbox 360</b><span>most projects (58)</span></div>
+<div class="stat"><b>169 / 114 / 70</b><span>build for Windows / Linux / macOS</span></div>
+</div>
+
+<h2>By console</h2>
+<div class="bars">
+<div class="bar"><span><a href="https://portedgames.com/recompiled-games/xbox-360/">Xbox 360</a></span><i><span style="width:100%"></span></i><span>58</span></div>
+<div class="bar"><span><a href="https://portedgames.com/recompiled-games/n64/">N64</a></span><i><span style="width:43%"></span></i><span>25</span></div>
+<div class="bar"><span><a href="https://portedgames.com/recompiled-games/ps1/">PS1</a></span><i><span style="width:28%"></span></i><span>16</span></div>
+<div class="bar"><span><a href="https://portedgames.com/recompiled-games/ps4/">PS4</a></span><i><span style="width:28%"></span></i><span>16</span></div>
+<div class="bar"><span><a href="https://portedgames.com/recompiled-games/">Other</a></span><i><span style="width:24%"></span></i><span>14</span></div>
+<div class="bar"><span><a href="https://portedgames.com/recompiled-games/xbox/">Xbox</a></span><i><span style="width:24%"></span></i><span>14</span></div>
+<div class="bar"><span><a href="https://portedgames.com/recompiled-games/gamecube/">GameCube</a></span><i><span style="width:17%"></span></i><span>10</span></div>
+<div class="bar"><span><a href="https://portedgames.com/recompiled-games/">PS2</a></span><i><span style="width:12%"></span></i><span>7</span></div>
+<div class="bar"><span><a href="https://portedgames.com/recompiled-games/">Switch</a></span><i><span style="width:12%"></span></i><span>7</span></div>
+<div class="bar"><span><a href="https://portedgames.com/recompiled-games/ps3/">PS3</a></span><i><span style="width:10%"></span></i><span>6</span></div>
+<div class="bar"><span><a href="https://portedgames.com/recompiled-games/">Wii</a></span><i><span style="width:9%"></span></i><span>5</span></div>
+<div class="bar"><span><a href="https://portedgames.com/recompiled-games/">Wii U</a></span><i><span style="width:2%"></span></i><span>1</span></div>
+</div>
+
+<h2>By method</h2>
+<div class="bars">
+<div class="bar"><span>Static recompilation</span><i><span style="width:100%"></span></i><span>136</span></div>
+<div class="bar"><span>Decompilation</span><i><span style="width:20%"></span></i><span>27</span></div>
+<div class="bar"><span>Game-specific runtime</span><i><span style="width:10%"></span></i><span>13</span></div>
+<div class="bar"><span>Emulator fork</span><i><span style="width:2%"></span></i><span>3</span></div>
+</div>
+<p>Static recompilation translates the console's machine code into C or C++ ahead of time (N64Recomp, XenonRecomp, ReXGlue). Decompilation rebuilds readable source that compiles back into the game. PS4 projects mostly run the game's own x86-64 code with a runtime written for that one game. How each method works: <a href="https://portedgames.com/how-it-works/">how fan ports work</a>.</p>
+
+<h2>By status</h2>
+<div class="bars">
+<div class="bar"><span>Working</span><i><span style="width:63%"></span></i><span>57</span></div>
+<div class="bar"><span>Beta</span><i><span style="width:100%"></span></i><span>91</span></div>
+<div class="bar"><span>Early</span><i><span style="width:32%"></span></i><span>29</span></div>
+<div class="bar"><span>Offline</span><i><span style="width:2%"></span></i><span>2</span></div>
+</div>
+
+<h2>Newest projects</h2>
+<ul class="latest">
+<li><a href="https://github.com/some-scurvy-dog/banjo-tooie-scurvy-dog-port">Banjo-Tooie</a><small>N64 · Banjo-Tooie: Scurvy Dog Port · Static recompilation · Beta · added Oct 21, 2026</small></li>
+<li><a href="https://portedgames.com/bayonetta-2-pc/">Bayonetta 2</a><small>Switch · B2recomp · Static recompilation · Early · added Oct 21, 2026</small></li>
+<li><a href="https://portedgames.com/burnout-3-pc/">Burnout 3: Takedown</a><small>Xbox · Takedawn · Static recompilation · Working · added Oct 21, 2026</small></li>
+<li><a href="https://github.com/sp00nznet/burnout3">Burnout 3: Takedown</a><small>Xbox · burnout3 (xboxrecomp) · Static recompilation · Early · added Oct 21, 2026</small></li>
+<li><a href="https://github.com/shipa-2/Xerenge">Burnout Revenge</a><small>Xbox 360 · Xerenge · Static recompilation · Working · added Oct 21, 2026</small></li>
+<li><a href="https://github.com/crazyriddler/FinestHourRemastered">Call of Duty: Finest Hour</a><small>Xbox · Finest Hour Remastered · Static recompilation · Working · added Oct 21, 2026</small></li>
+<li><a href="https://portedgames.com/conkers-bad-fur-day-pc/">Conker's Bad Fur Day</a><small>N64 · Conker's Bad Fur Day: Recompiled · Static recompilation · Working · added Oct 21, 2026</small></li>
+<li><a href="https://github.com/DahSidiAbdallah/ConkerBFDReloaded">Conker's Bad Fur Day</a><small>N64 · Conker's Bad Fur Day: Reloaded · Static recompilation · Working · added Oct 21, 2026</small></li>
+<li><a href="https://github.com/Unowa001/crackdown-recomp">Crackdown</a><small>Xbox 360 · Crackdown Recomp · Static recompilation · Working · added Oct 21, 2026</small></li>
+<li><a href="https://portedgames.com/crash-bandicoot-pc/">Crash Bandicoot</a><small>PS1 · Crash Bandicoot Launcher · Static recompilation · Beta · added Oct 21, 2026</small></li>
+</ul>
+<p><a href="https://portedgames.com/recompiled-games/">All 179 projects on PortedGames →</a></p>
+
+<h2>Download</h2>
+<div class="dl">
+<a href="https://raw.githubusercontent.com/wangxiaoxiang5599/recompiled-games-list/main/data/recompiled-games.json">recompiled-games.json</a>
+<a href="https://raw.githubusercontent.com/wangxiaoxiang5599/recompiled-games-list/main/data/recompiled-games.csv">recompiled-games.csv</a>
+<a href="https://github.com/wangxiaoxiang5599/recompiled-games-list">Repository on GitHub</a>
+</div>
+
+<h2>Use it</h2>
+<pre><code>// JavaScript
+const rows = await (await fetch('https://raw.githubusercontent.com/wangxiaoxiang5599/recompiled-games-list/main/data/recompiled-games.json')).json();
+const working = rows.filter((r) =&gt; r.stage === 'Working');</code></pre>
+<pre><code># Python
+import pandas as pd
+df = pd.read_csv('https://raw.githubusercontent.com/wangxiaoxiang5599/recompiled-games-list/main/data/recompiled-games.csv', parse_dates=['added', 'lastChecked'])
+df.groupby(['console', 'method']).size()</code></pre>
+<p>Each row has the game, the console, the project and its official repository, the method, the status, the PC platforms it builds for, a short note, the dates it was added and last checked, and sources. Field descriptions are in the <a href="https://github.com/wangxiaoxiang5599/recompiled-games-list#fields">README</a>.</p>
+
+<h2>Scope</h2>
+<p>A project is listed when it produces a program that runs a console game natively on PC and has a public repository or official page. Every project needs files from your own copy of the game: none of them ship it, and no game files, ROMs or ISOs are hosted or linked here. Missing a project or a status is wrong? <a href="https://github.com/wangxiaoxiang5599/recompiled-games-list/issues">Open an issue</a>.</p>
+
+<footer>
+Data: CC BY 4.0. Please credit <a href="https://portedgames.com/">PortedGames</a>, a directory of fan and AI ports of classic games with their status checked daily, and link to <a href="https://portedgames.com/recompiled-games/">https://portedgames.com/recompiled-games/</a>. Related dataset: <a href="https://wangxiaoxiang5599.github.io/fan-port-takedowns/">fan and AI game port takedowns</a>.
+</footer>
+</div>
+</body>
+</html>

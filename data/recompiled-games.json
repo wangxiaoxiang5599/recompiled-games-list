@@ -1,0 +1,4259 @@
+[
+  {
+    "id": "xerenge-burnout-revenge",
+    "game": "Burnout Revenge",
+    "console": "Xbox 360",
+    "project": "Xerenge",
+    "url": "https://github.com/shipa-2/Xerenge",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "note": "ReXGlue recomp with its own plume renderer; races, Crash mode, audio and videos work, plus online play. Installer needs your own EU or US disc image.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Xerenge README (checked 2026-10-21)",
+        "url": "https://github.com/shipa-2/Xerenge"
+      }
+    ]
+  },
+  {
+    "id": "mw2-recompiled",
+    "game": "Call of Duty: Modern Warfare 2",
+    "console": "Xbox 360",
+    "project": "MW2 Recompiled",
+    "url": "https://github.com/PaulCombal/mw2-recompiled",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "XenonRecomp build of the 360 version: campaign, multiplayer, split screen, private matches over Steam or LAN. Needs a v1.0.557 disc; no public matchmaking.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/modern-warfare-2-xbox-360-recomp/",
+    "sources": [
+      {
+        "label": "PaulCombal/mw2-recompiled README (checked 2026-10-20)",
+        "url": "https://github.com/PaulCombal/mw2-recompiled"
+      }
+    ]
+  },
+  {
+    "id": "nocturne-recomp",
+    "game": "Castlevania: Symphony of the Night (Xbox Live Arcade)",
+    "console": "Xbox 360",
+    "project": "NocturneRecomp",
+    "url": "https://github.com/birabittoh/NocturneRecomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "Recompiles the 2007 XBLA release with the ReXGlue SDK, not the PS1 original. v1.4.5 (Aug 2026), with title-update builds and Linux ARM64. Needs your own dumped XBLA package.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "NocturneRecomp README (checked 2026-10-20)",
+        "url": "https://github.com/birabittoh/NocturneRecomp"
+      },
+      {
+        "label": "Time Extension, 2026-07-01",
+        "url": "https://www.timeextension.com/news/2026/07/xbla-version-of-castlevania-symphony-of-the-night-gets-the-recompilation-treatment"
+      }
+    ]
+  },
+  {
+    "id": "crackdown-recomp",
+    "game": "Crackdown",
+    "console": "Xbox 360",
+    "project": "Crackdown Recomp",
+    "url": "https://github.com/Unowa001/crackdown-recomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "ReXGlue port of the 2007 game: 60 fps, up to 4K, ultrawide, mouse and keyboard, System Link co-op. Launcher installs from your own disc dump; Crackdown 2 support in beta.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "crackdown-recomp README (checked 2026-10-21)",
+        "url": "https://github.com/Unowa001/crackdown-recomp"
+      }
+    ]
+  },
+  {
+    "id": "dead-rising-2-case-west-recomp",
+    "game": "Dead Rising 2: Case West",
+    "console": "Xbox 360",
+    "project": "Dead Rising 2: Case West Native PC Port",
+    "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "XenonRecomp port, playable start to finish; online co-op via the XenonLive launcher. v1.1.2 is the author's final build. Needs your own XBLA package.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Dead_Rising_2_Case_West_Xenon_Recomp README (checked 2026-10-21)",
+        "url": "https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp"
+      }
+    ]
+  },
+  {
+    "id": "casezero-recomp",
+    "game": "Dead Rising 2: Case Zero",
+    "console": "Xbox 360",
+    "project": "Case Zero Recomp",
+    "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "XenonRecomp port of the XBLA prologue, completed start to finish solo and in online co-op. v1.1.3 is the final release; the author has stopped work. Needs your own package.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Dead_Rising_2_Case_Zero_Xenon_Recomp README (checked 2026-10-21)",
+        "url": "https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp"
+      }
+    ]
+  },
+  {
+    "id": "sdoj-recomp",
+    "game": "DoDonPachi SaiDaiOuJou",
+    "console": "Xbox 360",
+    "project": "SDOJ-Recomp",
+    "url": "https://github.com/eandis/SDOJ-Recomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "ReXGlue recomp with input-lag patches (3 to 1 frame), arcade-tuned slowdown and a boss training mode. Needs your own disc or GoD ISO plus Title Update 1.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "SDOJ-Recomp README (checked 2026-10-21)",
+        "url": "https://github.com/eandis/SDOJ-Recomp"
+      }
+    ]
+  },
+  {
+    "id": "dbz-budokai-3-hd-recomp",
+    "game": "Dragon Ball Z: Budokai 3 HD Collection",
+    "console": "Xbox 360",
+    "project": "DBZ Budokai 3 HD Collection (NovaPowers)",
+    "url": "https://github.com/novapowers0/DBZ-Budokai-3-HD-Collection",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "ReXGlue port with its own launcher, mod kit, online versus (beta) and extra modes. Needs your own default.xex and region data or the full ISO; several new modes are still beta.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "DBZ-Budokai-3-HD-Collection README (checked 2026-10-21)",
+        "url": "https://github.com/novapowers0/DBZ-Budokai-3-HD-Collection"
+      }
+    ]
+  },
+  {
+    "id": "skate3recomp",
+    "game": "Skate 3",
+    "console": "Xbox 360",
+    "project": "Skate 3 Recomp",
+    "url": "https://github.com/mchughalex/skate3recomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Native recompilation with its own D3D12 / Vulkan renderer since v2.0 (more than twice the frame rate of the emulated renderer, per README). Needs your own Xbox 360 copy.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "skate3recomp README (checked 2026-10-17)",
+        "url": "https://github.com/mchughalex/skate3recomp#readme"
+      }
+    ]
+  },
+  {
+    "id": "unleashedrecomp",
+    "game": "Sonic Unleashed",
+    "console": "Xbox 360",
+    "project": "Unleashed Recompiled",
+    "url": "https://github.com/hedge-dev/UnleashedRecomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "The first XenonRecomp port: high resolution and frame rates, ultrawide, mod loader. Stable 1.0.x releases. Unofficial Android port by SansNope (APK, Adreno GPUs).",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/sonic-unleashed-pc/",
+    "sources": [
+      {
+        "label": "UnleashedRecomp README (checked 2026-10-17)",
+        "url": "https://github.com/hedge-dev/UnleashedRecomp"
+      },
+      {
+        "label": "SansNope/UnleashedRecomp-Android README (checked 2026-10-21)",
+        "url": "https://github.com/SansNope/UnleashedRecomp-Android"
+      }
+    ]
+  },
+  {
+    "id": "edgeoftimerecompiled",
+    "game": "Spider-Man: Edge of Time",
+    "console": "Xbox 360",
+    "project": "EdgeOfTimeRecompiled",
+    "url": "https://github.com/goliathret/EdgeOfTimeRecomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "note": "Unofficial port of the Xbox 360 version with graphics settings, native mouse and keyboard aiming, and wide controller support. v1.0.0 is out. Bring your own game files.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "EdgeOfTimeRecomp README (checked 2026-10-17)",
+        "url": "https://github.com/goliathret/EdgeOfTimeRecomp"
+      }
+    ]
+  },
+  {
+    "id": "tekken6-native-online",
+    "game": "Tekken 6",
+    "console": "Xbox 360",
+    "project": "Tekken 6 Native Online",
+    "url": "https://github.com/Ekspym/Tekken6-native-online",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "ReXGlue recomp built from your own USA/Europe Rev 1 disc image, with GGPO rollback, ranked lobbies and practice mode. Versus only; based on mahmoud-mess/tekken6-recomp.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/tekken-6-pc/",
+    "sources": [
+      {
+        "label": "Tekken6-native-online README (checked 2026-10-20)",
+        "url": "https://github.com/Ekspym/Tekken6-native-online"
+      }
+    ]
+  },
+  {
+    "id": "wwe-svr2011-pc",
+    "game": "WWE SmackDown vs. Raw 2011",
+    "console": "Xbox 360",
+    "project": "WWE SmackDown vs. Raw 2011 PC Port",
+    "url": "https://github.com/KaikoClanworth1/wwe-svr2011-pc",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "note": "ReXGlue port up to 4K/60 with ultrawide, custom entrance music and movies, a Mod Maker and an Android build. Installs from your own Xbox 360 disc image.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "wwe-svr2011-pc README (checked 2026-10-21)",
+        "url": "https://github.com/KaikoClanworth1/wwe-svr2011-pc"
+      }
+    ]
+  },
+  {
+    "id": "ac6recomp",
+    "game": "Ace Combat 6: Fires of Liberation",
+    "console": "Xbox 360",
+    "project": "AC6Recomp",
+    "url": "https://github.com/sal063/AC6_recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "ReXGlue-based port with 60 FPS, resolution scaling, ultrawide and mouse controls. Beta releases; README warns of bugs and crashes. US version of the game only.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "AC6_recomp README (checked 2026-10-17)",
+        "url": "https://github.com/sal063/AC6_recomp"
+      }
+    ]
+  },
+  {
+    "id": "renut-nuts-and-bolts",
+    "game": "Banjo-Kazooie: Nuts & Bolts",
+    "console": "Xbox 360",
+    "project": "reNut",
+    "url": "https://github.com/masterspike52/reNut",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "ReXGlue recompilation with a native renderer and online play through Epic Online Services. Releases are still betas; leaderboards don't work and Linux builds are untested.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "reNut README (checked 2026-10-17)",
+        "url": "https://github.com/masterspike52/reNut"
+      }
+    ]
+  },
+  {
+    "id": "cod3recomp",
+    "game": "Call of Duty 3",
+    "console": "Xbox 360",
+    "project": "CoD3Recomp",
+    "url": "https://github.com/FrankHUN88453/CoD3Recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Never on PC. XenonRecomp with its own D3D11 renderer; all 15 levels play, unlocked fps, mouse and keyboard. Pre-release, campaign only.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/call-of-duty-3-pc/",
+    "sources": [
+      {
+        "label": "CoD3Recomp README and STATUS (checked 2026-10-20)",
+        "url": "https://github.com/FrankHUN88453/CoD3Recomp"
+      }
+    ]
+  },
+  {
+    "id": "project-1944-cod3",
+    "game": "Call of Duty 3",
+    "console": "Xbox 360",
+    "project": "Project 1944",
+    "url": "https://github.com/zenit2893-cmyk/project-1944",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Second CoD3 port, ReXGlue and D3D12. v2.0 adds recompiled multiplayer with system link and a server list; README says only the first mission was verified.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/call-of-duty-3-pc/",
+    "sources": [
+      {
+        "label": "project-1944 README and v2.0 notes (checked 2026-10-20)",
+        "url": "https://github.com/zenit2893-cmyk/project-1944"
+      }
+    ]
+  },
+  {
+    "id": "condemned-2-recomp",
+    "game": "Condemned 2: Bloodshot",
+    "console": "Xbox 360",
+    "project": "Condemned2Recomp",
+    "url": "https://github.com/psxrestore/Condemned2Recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "ReXGlue recompilation with keyboard and mouse controls. The README says it is playable but a work in progress, so expect bugs and crashes.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Condemned2Recomp README (checked 2026-10-17)",
+        "url": "https://github.com/psxrestore/Condemned2Recomp"
+      }
+    ]
+  },
+  {
+    "id": "hells-gate-dantes-inferno",
+    "game": "Dante's Inferno",
+    "console": "Xbox 360",
+    "project": "Hell's Gate",
+    "url": "https://github.com/florinp93/hells-gate-recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "ReXGlue port with its own Vulkan renderer; README says fully playable start to finish, with DLC and up to 240 fps. Beta releases for Windows; Linux via source or Proton. Own ISO needed.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/dantes-inferno-pc/",
+    "sources": [
+      {
+        "label": "hells-gate-recomp README (checked 2026-10-21)",
+        "url": "https://github.com/florinp93/hells-gate-recomp"
+      }
+    ]
+  },
+  {
+    "id": "dbz-burst-limit-recompiled",
+    "game": "Dragon Ball Z: Burst Limit",
+    "console": "Xbox 360",
+    "project": "DBZ: Burst Limit Recompiled",
+    "url": "https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "US (NTSC-U) release only. Installs from your own ISO; ultrawide, up to unlocked fps, DLSS/FSR, in-game settings and online lobby. Linux package runs the Windows build through Wine.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "DBZ-Burst-Limit-Recompiled README (checked 2026-10-21)",
+        "url": "https://github.com/iExplosiveRage/DBZ-Burst-Limit-Recompiled"
+      }
+    ]
+  },
+  {
+    "id": "earthworm-jim-hd-recompiled",
+    "game": "Earthworm Jim HD",
+    "console": "Xbox 360",
+    "project": "Earthworm Jim HD: PC Port",
+    "url": "https://github.com/TekRantGaming/earthworm-jim-hd-recompiled",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "ReXGlue port with the TRG launcher (display, graphics, controls, achievements, cheats). Installs from your own XBLA package, exact xex 1.0.0.11 only.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "earthworm-jim-hd-recompiled README (checked 2026-10-21)",
+        "url": "https://github.com/TekRantGaming/earthworm-jim-hd-recompiled"
+      }
+    ]
+  },
+  {
+    "id": "eternal-sonata-reprise",
+    "game": "Eternal Sonata",
+    "console": "Xbox 360",
+    "project": "Eternal Sonata Reprise",
+    "url": "https://github.com/birabittoh/EternalSonataReprise",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "note": "Prebuilt releases play with your own Xbox 360 or PS3 copy, any region; building it yourself needs the Xbox 360 PAL version. Mod manager and overlays. Same author as NocturneRecomp.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "EternalSonataReprise README (checked 2026-10-21)",
+        "url": "https://github.com/birabittoh/EternalSonataReprise"
+      }
+    ]
+  },
+  {
+    "id": "fable-2-recomp-himdo",
+    "game": "Fable II",
+    "console": "Xbox 360",
+    "project": "Fable 2 ReXGlue Recompiled",
+    "url": "https://github.com/himdo/Fable-2-Recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "ReXGlue recompilation of the GOTY release that can be played to the end. Has a launcher, uncapped frame rate and keyboard/mouse. Higher resolution, Vulkan and Linux are still to come.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Fable-2-Recomp README (checked 2026-10-17)",
+        "url": "https://github.com/himdo/Fable-2-Recomp"
+      }
+    ]
+  },
+  {
+    "id": "restreet-fifa-street",
+    "game": "FIFA Street (2012)",
+    "console": "Xbox 360",
+    "project": "ReStreet",
+    "url": "https://github.com/samuelit0davila/fifa-street-pc-port",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "ReXGlue recompile; 2.0 renderer based on AnDr3zF's Deck port (D3D12/Vulkan). Free online beta on community servers (EU/SA). Needs your own Xbox 360 ISO.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/fifa-street-pc/",
+    "sources": [
+      {
+        "label": "ReStreet README (checked 2026-10-17)",
+        "url": "https://github.com/samuelit0davila/fifa-street-pc-port#readme"
+      }
+    ]
+  },
+  {
+    "id": "forza-horizon-reimagined",
+    "game": "Forza Horizon",
+    "console": "Xbox 360",
+    "project": "Forza Horizon 1: ReImagined",
+    "url": "https://github.com/Dyotson/ForzaHorizon1-ReImagined",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Linux",
+      "Windows"
+    ],
+    "note": "Launcher builds the game from your own copy (GoD package or disc 1 ISO). Single player played through; self-hostable online server. Windows build only tested under Proton.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "ForzaHorizon1-ReImagined README (checked 2026-10-21)",
+        "url": "https://github.com/Dyotson/ForzaHorizon1-ReImagined"
+      }
+    ]
+  },
+  {
+    "id": "pinyon-shift",
+    "game": "Forza Horizon",
+    "console": "Xbox 360",
+    "project": "Pinyon Shift",
+    "url": "https://github.com/arcanite24/pinyon-shift",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Playable preview built on your PC from your own disc (USA release only); rendering bugs, AMD and Intel GPUs not qualified.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/forza-horizon-pc/",
+    "sources": [
+      {
+        "label": "Pinyon Shift README (checked 2026-10-17)",
+        "url": "https://github.com/arcanite24/pinyon-shift"
+      }
+    ]
+  },
+  {
+    "id": "forza-motorsport-2-native",
+    "game": "Forza Motorsport 2",
+    "console": "Xbox 360",
+    "project": "Forza Motorsport 2 Native (hl360-Forza2)",
+    "url": "https://github.com/0herculabs/hl360-Forza2",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Vulkan recomp with launcher; races hold 60 fps (120 optional) and System Link online works. Career and split-screen need more testing. Needs your own EU or US disc image.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "hl360-Forza2 README (checked 2026-10-21)",
+        "url": "https://github.com/0herculabs/hl360-Forza2"
+      }
+    ]
+  },
+  {
+    "id": "hl360-forza3",
+    "game": "Forza Motorsport 3",
+    "console": "Xbox 360",
+    "project": "Forza Motorsport 3 Native PC Recompilation (hl360-forza3)",
+    "url": "https://github.com/0herculabs/hl360-forza3",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "ReXGlue port of the Ultimate Collection (USA): menus, Free Play and races at 60 FPS; full career untested, no Xbox Live. Launcher installs from your own two discs.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "hl360-forza3 README (checked 2026-10-21)",
+        "url": "https://github.com/0herculabs/hl360-forza3"
+      }
+    ]
+  },
+  {
+    "id": "fm4-recomp",
+    "game": "Forza Motorsport 4",
+    "console": "Xbox 360",
+    "project": "FM4-Recomp (Alexbeav)",
+    "url": "https://github.com/Alexbeav/fm4-recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Experimental alpha built with a ReXGlue fork: menus, races, saves and early career work; stutter and rendering issues.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/forza-motorsport-4-pc/",
+    "sources": [
+      {
+        "label": "fm4-recomp README and STATUS (checked 2026-10-17)",
+        "url": "https://github.com/Alexbeav/fm4-recomp"
+      }
+    ]
+  },
+  {
+    "id": "hl360-forza4",
+    "game": "Forza Motorsport 4",
+    "console": "Xbox 360",
+    "project": "FM4 Native PC Recompilation (hl360-forza4)",
+    "url": "https://github.com/0herculabs/hl360-forza4",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "ReXGlue port with a launcher for both discs, Project Forza Plus 4 support and experimental wheel force feedback. Menus and races work; career untested. Needs your own USA Rev 1 discs.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "hl360-forza4 README (checked 2026-10-21)",
+        "url": "https://github.com/0herculabs/hl360-forza4"
+      }
+    ]
+  },
+  {
+    "id": "theft4-gta-iv-ios",
+    "game": "Grand Theft Auto IV (Xbox 360 version)",
+    "console": "Xbox 360",
+    "project": "Theft4",
+    "url": "https://github.com/KoreanSeats1/Theft4",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "iOS",
+      "iPadOS"
+    ],
+    "note": "AOT recompilation for ARM64 iPhone and iPad with a direct Metal renderer; no JIT needed. Unsigned IPA for sideloading. Needs your own USA retail copy plus Title Update 8.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Theft4 README (checked 2026-10-21)",
+        "url": "https://github.com/KoreanSeats1/Theft4"
+      }
+    ]
+  },
+  {
+    "id": "re-wor",
+    "game": "Guitar Hero: Warriors of Rock",
+    "console": "Xbox 360",
+    "project": "re-wor",
+    "url": "https://github.com/ronniecloud/re-wor",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "ReXGlue recomp based on re-gh2; XInput guitars work. Test version with audio lag and 720p lock; no updates since March 2026.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/guitar-hero-warriors-of-rock-pc/",
+    "sources": [
+      {
+        "label": "ronniecloud/re-wor README (checked 2026-10-20)",
+        "url": "https://github.com/ronniecloud/re-wor"
+      }
+    ]
+  },
+  {
+    "id": "dimensionsrecomp-lego-dimensions",
+    "game": "LEGO Dimensions",
+    "console": "Xbox 360",
+    "project": "Dimensions Recompiled",
+    "url": "https://github.com/NeverCookFirst/DimensionsRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Recomp of TU23 with a Windows installer that needs your own extracted disc and TU23 file; DLC and real or emulated Toy Pad supported. Public beta, D3D12 only.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "DimensionsRecomp README (checked 2026-10-21)",
+        "url": "https://github.com/NeverCookFirst/DimensionsRecomp"
+      }
+    ]
+  },
+  {
+    "id": "lost-odyssey-recomp",
+    "game": "Lost Odyssey",
+    "console": "Xbox 360",
+    "project": "Lost Odyssey Recomp",
+    "url": "https://github.com/freefrank/LostOdysseyRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "note": "Self-described experimental native port. Imports your own four-disc set, with disc swapping, HDR, upscalers and frame-rate options. Ships no game data.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "LostOdysseyRecomp README (checked 2026-10-17)",
+        "url": "https://github.com/freefrank/LostOdysseyRecomp"
+      }
+    ]
+  },
+  {
+    "id": "larecomp",
+    "game": "Midnight Club: Los Angeles",
+    "console": "Xbox 360",
+    "project": "LARecomp",
+    "url": "https://github.com/mzzvxm/LARecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Separate ReXGlue project for the Complete Edition: menus, free roam and races work, correct physics above 30 FPS. No releases; build it yourself with your own extracted game.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "LARecomp README (checked 2026-10-21)",
+        "url": "https://github.com/mzzvxm/LARecomp"
+      }
+    ]
+  },
+  {
+    "id": "mcla-recomp",
+    "game": "Midnight Club: Los Angeles",
+    "console": "Xbox 360",
+    "project": "MCLA (mcla-recomp)",
+    "url": "https://github.com/holdmysocks/mcla-recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "Complete Edition only. Recompiled code is generated on your machine by a build script. Career and races play on D3D12. Vulkan is barely tested.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "mcla-recomp README (checked 2026-10-17)",
+        "url": "https://github.com/holdmysocks/mcla-recomp"
+      }
+    ]
+  },
+  {
+    "id": "naruto-storm-generations-native",
+    "game": "Naruto Shippuden: Ultimate Ninja Storm Generations",
+    "console": "Xbox 360",
+    "project": "Naruto Storm Generations Port Nativo",
+    "url": "https://github.com/Masterllgod/naruto-storm-generations-port-nativo",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Android",
+      "Windows"
+    ],
+    "note": "Closed-source XenonRecomp port aimed at phones (Mali/Adreno, Vulkan), fights at 30 fps; also a Windows build. Needs your own US disc files with the exact default.xex.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "naruto-storm-generations-port-nativo README (checked 2026-10-21)",
+        "url": "https://github.com/Masterllgod/naruto-storm-generations-port-nativo"
+      }
+    ]
+  },
+  {
+    "id": "naruto-rise-recomp",
+    "game": "Naruto: Rise of a Ninja",
+    "console": "Xbox 360",
+    "project": "Naruto: Rise of a Ninja Recomp",
+    "url": "https://github.com/jorjbarbosa/naruto-rise-recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "ReXGlue port with a native D3D12 renderer at 60/120 fps, DLC support and a launcher. Work in progress: bugs and crashes expected. Installer imports your own Xbox 360 ISO.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "naruto-rise-recomp README (checked 2026-10-21)",
+        "url": "https://github.com/jorjbarbosa/naruto-rise-recomp"
+      }
+    ]
+  },
+  {
+    "id": "speedbreaker-nfsmw",
+    "game": "Need for Speed: Most Wanted (2005)",
+    "console": "Xbox 360",
+    "project": "SpeedBreaker",
+    "url": "https://github.com/SpeedBreakerProject/speedbreaker",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "SteamOS",
+      "Linux",
+      "macOS",
+      "iOS"
+    ],
+    "note": "XenonRecomp-based; up to 4K and ultrawide. Needs your own US Xbox 360 disc (not the PC version). Windows coming soon.",
+    "added": "2026-10-19",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/need-for-speed-most-wanted-recomp/",
+    "sources": [
+      {
+        "label": "SpeedBreaker README and releases (checked 2026-10-19)",
+        "url": "https://github.com/SpeedBreakerProject/speedbreaker"
+      }
+    ]
+  },
+  {
+    "id": "king-kong-recompiled",
+    "game": "Peter Jackson's King Kong",
+    "console": "Xbox 360",
+    "project": "King Kong Recompiled",
+    "url": "https://github.com/TekRantGaming/king-kong-recompiled",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Native Windows port with a launcher that installs from your own disc image; up to 8K, 240 fps, FSR/NIS. Gets past the VENTURE freeze that stops Xenia. Linux via Proton only.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "king-kong-recompiled README (checked 2026-10-21)",
+        "url": "https://github.com/TekRantGaming/king-kong-recompiled"
+      }
+    ]
+  },
+  {
+    "id": "pgr4-recomp",
+    "game": "Project Gotham Racing 4",
+    "console": "Xbox 360",
+    "project": "PGR4-Recomp",
+    "url": "https://github.com/beatrixzy/PGR4-Recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "ReXGlue recomp; races, AI and graphics work, but one car freezes the game and Geometry Wars crashes. Run via a .bat pointing at your own extracted disc. v2 planned.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "PGR4-Recomp README (checked 2026-10-21)",
+        "url": "https://github.com/beatrixzy/PGR4-Recomp"
+      }
+    ]
+  },
+  {
+    "id": "ridge-racer-6-recomp",
+    "game": "Ridge Racer 6",
+    "console": "Xbox 360",
+    "project": "Ridge Racer 6 Recomp",
+    "url": "https://github.com/Sirhalo23/RidgeRacer6-Recompilation",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "ReXGlue port with up to 4x resolution and ultrawide. Early test releases, tested on one PC so far; Linux build experimental. Needs your own USA Xbox 360 disc image.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "RidgeRacer6-Recompilation README (checked 2026-10-21)",
+        "url": "https://github.com/Sirhalo23/RidgeRacer6-Recompilation"
+      }
+    ]
+  },
+  {
+    "id": "skate2-recompile-pc",
+    "game": "Skate 2",
+    "console": "Xbox 360",
+    "project": "Skate 2 PC",
+    "url": "https://github.com/christianortel/skate2-recompile-pc",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "ReXGlue port of the Xbox 360 game: Free Skate, career and replays, unlocked FPS, 2x rendering. One game revision only; needs your own extracted files.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/skate-2-pc/",
+    "sources": [
+      {
+        "label": "skate2-recompile-pc README (checked 2026-10-20)",
+        "url": "https://github.com/christianortel/skate2-recompile-pc"
+      }
+    ]
+  },
+  {
+    "id": "free-riders-recompiled",
+    "game": "Sonic Free Riders",
+    "console": "Xbox 360",
+    "project": "Free Riders Recompiled",
+    "url": "https://github.com/YuutaTsubasa/Free-Riders-Recompiled",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android",
+      "macOS",
+      "iOS"
+    ],
+    "note": "Kinect is emulated so a pad works; real Kinect and webcam motion on Windows. Menus and races play, much still untested. Installs from your own USA/EU disc image.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Free-Riders-Recompiled README (checked 2026-10-21)",
+        "url": "https://github.com/YuutaTsubasa/Free-Riders-Recompiled"
+      }
+    ]
+  },
+  {
+    "id": "tekken-tag-tournament-2-pc",
+    "game": "Tekken Tag Tournament 2",
+    "console": "Xbox 360",
+    "project": "Tekken Tag Tournament 2 PC",
+    "url": "https://github.com/shihabal3amri/tekken-tag-tournament-2-pc",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Native Windows port up to 4K/60 with all 59 fighters and online Player Match over Steam (beta). Installer builds it from your own USA/Europe disc image plus Title Update 3.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "tekken-tag-tournament-2-pc README (checked 2026-10-21)",
+        "url": "https://github.com/shihabal3amri/tekken-tag-tournament-2-pc"
+      }
+    ]
+  },
+  {
+    "id": "estacado-the-darkness",
+    "game": "The Darkness",
+    "console": "Xbox 360",
+    "project": "Estacado",
+    "url": "https://github.com/invinceble55-wq/Estacado-The-Darkness-Recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "A separate ReXGlue/XenonRecomp port. 0.9.8 pre-release (12 Oct 2026); README says the whole campaign is playable. USA/Europe disc, no title update. Download includes translated game code.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Estacado-The-Darkness-Recomp README (checked 2026-10-20)",
+        "url": "https://github.com/invinceble55-wq/Estacado-The-Darkness-Recomp"
+      },
+      {
+        "label": "Estacado 0.9.8 pre-release, 12 Oct 2026",
+        "url": "https://github.com/invinceble55-wq/Estacado-The-Darkness-Recomp/releases/tag/v0.9.8"
+      }
+    ]
+  },
+  {
+    "id": "the-darkness-recomp",
+    "game": "The Darkness",
+    "console": "Xbox 360",
+    "project": "The Darkness Recomp",
+    "url": "https://github.com/portingpete/The-Darkness-Recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Native x64 port with a D3D11 renderer. The README reports full gameplay with mouse look, video settings and saves. Releases are still 0.1.x pre-releases.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "The-Darkness-Recomp README (checked 2026-10-17)",
+        "url": "https://github.com/portingpete/The-Darkness-Recomp"
+      }
+    ]
+  },
+  {
+    "id": "simpsons-game-recompiled",
+    "game": "The Simpsons Game",
+    "console": "Xbox 360",
+    "project": "The Simpsons Game Recompiled",
+    "url": "https://github.com/YesterMester/TheSimpsonsGameRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "ReXGlue port that the README calls playable on Linux, Steam Deck and Windows, with Vulkan and D3D12 renderers. Still 0.0.x releases with known issues listed.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "TheSimpsonsGameRecomp README (checked 2026-10-17)",
+        "url": "https://github.com/YesterMester/TheSimpsonsGameRecomp"
+      }
+    ]
+  },
+  {
+    "id": "wwe12-pc",
+    "game": "WWE '12",
+    "console": "Xbox 360",
+    "project": "WWE '12 PC",
+    "url": "https://github.com/iMrBurn/wwe12-pc",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "ReXGlue recompilation with a native Vulkan renderer and a launcher. Matches and entrances run at 60 fps; beta releases with GPU-specific glitches listed in the README.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "wwe12-pc README (checked 2026-10-17)",
+        "url": "https://github.com/iMrBurn/wwe12-pc"
+      }
+    ]
+  },
+  {
+    "id": "wwe2k14-recomp",
+    "game": "WWE 2K14",
+    "console": "Xbox 360",
+    "project": "WWE 2K14 Recomp",
+    "url": "https://github.com/PromethenDev/wwe2k14-recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "ReXGlue port of the Xbox 360 version with a launcher. v1.0.0 out, a few days old, with known lighting and frame-rate issues. Needs your own game plus title update 1.0.3.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "wwe2k14-recomp README (checked 2026-10-17)",
+        "url": "https://github.com/PromethenDev/wwe2k14-recomp"
+      }
+    ]
+  },
+  {
+    "id": "ac6recomp-rapidsamphire",
+    "game": "Ace Combat 6: Fires of Liberation",
+    "console": "Xbox 360",
+    "project": "AC6Recomp (rapidsamphire)",
+    "url": "https://github.com/rapidsamphire/AC6Recomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "Earlier, separate ReXGlue attempt. Gets in-game with likely bugs per README; source only, no releases, no commits since March 2026.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "rapidsamphire/AC6Recomp README (checked 2026-10-17)",
+        "url": "https://github.com/rapidsamphire/AC6Recomp"
+      }
+    ]
+  },
+  {
+    "id": "crackdown-2-recomp",
+    "game": "Crackdown 2",
+    "console": "Xbox 360",
+    "project": "Crackdown2-Recomp",
+    "url": "https://github.com/matty45/Crackdown2-Recomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Bare-bones ReXGlue recompilation, build from source only. The README says it reaches in-game but is not playable yet.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Crackdown2-Recomp README (checked 2026-10-17)",
+        "url": "https://github.com/matty45/Crackdown2-Recomp"
+      }
+    ]
+  },
+  {
+    "id": "fable2recomp-org",
+    "game": "Fable II",
+    "console": "Xbox 360",
+    "project": "Fable2Recomp",
+    "url": "https://github.com/Fable2Recomp/Fable2Recomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "A separate group's ReXGlue project based on GOTY TU1. Source only, with no releases. The README lists goals rather than a playable state.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Fable2Recomp README (checked 2026-10-17)",
+        "url": "https://github.com/Fable2Recomp/Fable2Recomp"
+      }
+    ]
+  },
+  {
+    "id": "fh2-recompiled",
+    "game": "Forza Horizon 2",
+    "console": "Xbox 360",
+    "project": "FH2 Recompiled",
+    "url": "https://github.com/Gabrick75/fh2-recompiled",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Android",
+      "Linux"
+    ],
+    "note": "ReXGlue port aimed at Android phones: boots, menus and races, but frame rate is far below the console's. Preview APKs; reads your own disc image (.iso).",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "fh2-recompiled README (checked 2026-10-21)",
+        "url": "https://github.com/Gabrick75/fh2-recompiled"
+      }
+    ]
+  },
+  {
+    "id": "libertyrecomp",
+    "game": "Grand Theft Auto IV (Xbox 360 version)",
+    "console": "Xbox 360",
+    "project": "LibertyRecomp",
+    "url": "https://github.com/OZORDI/LibertyRecomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "README says early development and not meant for public use. GTA IV also has an official 2008 PC version.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/gta-iv-xbox-360-recomp/",
+    "sources": [
+      {
+        "label": "LibertyRecomp README (checked 2026-10-17)",
+        "url": "https://github.com/OZORDI/LibertyRecomp"
+      }
+    ]
+  },
+  {
+    "id": "naruto-storm-3-full-burst-port",
+    "game": "Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst",
+    "console": "Xbox 360",
+    "project": "Naruto Storm 3 Full Burst Port Nativo",
+    "url": "https://github.com/Masterllgod/naruto-storm-3-full-burst-port-nativo",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Android",
+      "Windows"
+    ],
+    "note": "Closed-source XenonRecomp-based port aimed at Android phones (Vulkan, touch controls), plus a Windows build. Fights at 30 FPS per README. Needs your own NTSC-U copy.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "naruto-storm-3-full-burst-port-nativo README (checked 2026-10-21)",
+        "url": "https://github.com/Masterllgod/naruto-storm-3-full-burst-port-nativo"
+      }
+    ]
+  },
+  {
+    "id": "marathonrecomp-sonic-06",
+    "game": "Sonic the Hedgehog (2006)",
+    "console": "Xbox 360",
+    "project": "Marathon Recompiled",
+    "url": "https://github.com/sonicnext-dev/MarathonRecomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "XenonRecomp/XenosRecomp port of the Xbox 360 game. No releases yet: README says it is not meant for public use until an official release. Needs your own game files.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/sonic-06-pc/",
+    "sources": [
+      {
+        "label": "MarathonRecomp README (checked 2026-10-21)",
+        "url": "https://github.com/sonicnext-dev/MarathonRecomp"
+      }
+    ]
+  },
+  {
+    "id": "ninjas-dawn-ng2",
+    "game": "Ninja Gaiden II",
+    "console": "Xbox 360",
+    "project": "Ninja's Dawn",
+    "url": "https://github.com/TheSaltTrader/Ninja-s-Dawn---A-Ninja-Gaiden-2-Recompilation-Project",
+    "method": "Static recompilation",
+    "stage": "Offline",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "ReXGlue port of the 2008 original by TheSaltTrader, released Sept 2026. The original repository now returns 404; copies by others keep the source but have no release builds.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Original repository TheSaltTrader/Ninja-s-Dawn: 404 when checked 2026-10-20",
+        "url": "https://github.com/TheSaltTrader/Ninja-s-Dawn---A-Ninja-Gaiden-2-Recompilation-Project"
+      },
+      {
+        "label": "Copy of the source at v1.0.20, evil84 (README checked 2026-10-20)",
+        "url": "https://github.com/evil84/Ninja-s-Dawn---A-Ninja-Gaiden-2-Recompilation-Project"
+      },
+      {
+        "label": "DSOGaming: Unofficial PC Version of Ninja Gaiden 2 Released (16 Sept 2026)",
+        "url": "https://www.dsogaming.com/?p=196913"
+      }
+    ]
+  },
+  {
+    "id": "banjorecomp-banjo-kazooie",
+    "game": "Banjo-Kazooie",
+    "console": "N64",
+    "project": "Banjo: Recompiled",
+    "url": "https://github.com/BanjoRecomp/BanjoRecomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "N64Recomp-based native port with RT64 rendering, widescreen, high frame rates and mods; v1.0.x releases. Needs your own copy of the game.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "BanjoRecomp README (checked 2026-10-17)",
+        "url": "https://github.com/BanjoRecomp/BanjoRecomp"
+      }
+    ]
+  },
+  {
+    "id": "cbfd-recompiled",
+    "game": "Conker's Bad Fur Day",
+    "console": "N64",
+    "project": "Conker's Bad Fur Day: Recompiled",
+    "url": "https://github.com/sciaschi/CBFD-Recompiled",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "N64Recomp port on RT64 with widescreen, high frame rates, mouse/gyro aiming and mods. Played through to the end; US ROM only. Ready-made builds need your own ROM.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/conkers-bad-fur-day-pc/",
+    "sources": [
+      {
+        "label": "CBFD-Recompiled README (checked 2026-10-21)",
+        "url": "https://github.com/sciaschi/CBFD-Recompiled"
+      }
+    ]
+  },
+  {
+    "id": "conkerbfdreloaded",
+    "game": "Conker's Bad Fur Day",
+    "console": "N64",
+    "project": "Conker's Bad Fur Day: Reloaded",
+    "url": "https://github.com/DahSidiAbdallah/ConkerBFDReloaded",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "N64Recomp port with Classic and Modern modes: widescreen, high frame rate, free camera, twin-stick aiming. Needs your own US ROM; no macOS build yet.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "ConkerBFDReloaded README (checked 2026-10-21)",
+        "url": "https://github.com/DahSidiAbdallah/ConkerBFDReloaded"
+      }
+    ]
+  },
+  {
+    "id": "dkr-r-diddy-kong-racing",
+    "game": "Diddy Kong Racing",
+    "console": "N64",
+    "project": "DKR-R (Diddy Kong Racing Recompiled)",
+    "url": "https://github.com/ThatGuyMcd/DKR-R",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android",
+      "iOS"
+    ],
+    "note": "Recomp with widescreen, interpolated frame rates, online play, custom tracks and a built-in mod store. Needs your own US v1.0 or Rev A ROM.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/diddy-kong-racing-pc/",
+    "sources": [
+      {
+        "label": "DKR-R README (checked 2026-10-21)",
+        "url": "https://github.com/ThatGuyMcd/DKR-R"
+      }
+    ]
+  },
+  {
+    "id": "dk64-recompiled",
+    "game": "Donkey Kong 64",
+    "console": "N64",
+    "project": "Donkey Kong 64: Recompiled",
+    "url": "https://github.com/Rainchus/Donkey-Kong-64-Recompiled",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "N64Recomp port with the RT64 renderer: widescreen, high frame rates, in-game menus and gyro aim. Not built from the DK64 decomp, though it uses its research. Needs your own copy.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Donkey-Kong-64-Recompiled README (checked 2026-10-17)",
+        "url": "https://github.com/Rainchus/Donkey-Kong-64-Recompiled"
+      }
+    ]
+  },
+  {
+    "id": "goldeneye-pc-port",
+    "game": "GoldenEye 007",
+    "console": "N64",
+    "project": "GoldenEye 007 PC Port",
+    "url": "https://github.com/jkdansereau/goldeneye-pc-port",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Steam Deck"
+    ],
+    "note": "Built from the GoldenEye decompilation. Full solo campaign and 2-4 player split-screen; pre-1.0, US ROM only. AI-assisted per README.",
+    "added": "2026-10-19",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/goldeneye-007-pc/",
+    "sources": [
+      {
+        "label": "goldeneye-pc-port README (checked 2026-10-19)",
+        "url": "https://github.com/jkdansereau/goldeneye-pc-port"
+      }
+    ]
+  },
+  {
+    "id": "mariokart64recomp",
+    "game": "Mario Kart 64",
+    "console": "N64",
+    "project": "MarioKart 64: Recompiled",
+    "url": "https://github.com/sonicdcer/MarioKart64Recomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "N64Recomp port with RT64: widescreen, high frame rates, mods and texture packs. Releases (v0.9.2) are on GitLab; needs your own US ROM.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/mario-kart-64-pc/",
+    "sources": [
+      {
+        "label": "MarioKart64Recomp README (checked 2026-10-21)",
+        "url": "https://github.com/sonicdcer/MarioKart64Recomp"
+      }
+    ]
+  },
+  {
+    "id": "spaghettikart-mario-kart-64",
+    "game": "Mario Kart 64",
+    "console": "N64",
+    "project": "SpaghettiKart",
+    "url": "https://github.com/HarbourMasters/SpaghettiKart",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Switch"
+    ],
+    "note": "HarbourMasters port on libultraship; first stable 1.0.0 release in Feb 2026. Only the US version is supported. Ships no copyrighted assets; you supply your own copy.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "SpaghettiKart README (checked 2026-10-17)",
+        "url": "https://github.com/HarbourMasters/SpaghettiKart"
+      }
+    ]
+  },
+  {
+    "id": "paperboat-paper-mario",
+    "game": "Paper Mario",
+    "console": "N64",
+    "project": "PaperBoat",
+    "url": "https://github.com/HarbourMasters/PaperBoat",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Harbour Masters port on the Paper Mario DX / pmret decompilation. 1.0 since Sep 2026; needs your own US ROM, assets extracted on first launch.",
+    "added": "2026-10-19",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/paper-mario-pc/",
+    "sources": [
+      {
+        "label": "PaperBoat README and releases (checked 2026-10-19)",
+        "url": "https://github.com/HarbourMasters/PaperBoat"
+      }
+    ]
+  },
+  {
+    "id": "snap64recomp-pokemon-snap",
+    "game": "Pokémon Snap",
+    "console": "N64",
+    "project": "Snap64 Recomp",
+    "url": "https://github.com/JackandBeans/Snap64Recomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "N64Recomp port with RT64; plays like the cartridge by default, with optional widescreen, high frame rate, gyro/mouse aim and photo export. Needs your own US ROM.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Snap64Recomp README (checked 2026-10-21)",
+        "url": "https://github.com/JackandBeans/Snap64Recomp"
+      }
+    ]
+  },
+  {
+    "id": "roadrash64-recompiled",
+    "game": "Road Rash 64",
+    "console": "N64",
+    "project": "Road Rash 64 Recompiled",
+    "url": "https://github.com/linkssy2/RoadRash64Recompiled",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "N64Recomp port with 60 fps, widescreen, max LOD, split-screen upgrades and experimental online play and MK64 track import. Linux build experimental. Needs your own USA v1.0 ROM.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "RoadRash64Recompiled README (checked 2026-10-21)",
+        "url": "https://github.com/linkssy2/RoadRash64Recompiled"
+      }
+    ]
+  },
+  {
+    "id": "rush2-recompiled",
+    "game": "Rush 2: Extreme Racing USA",
+    "console": "N64",
+    "project": "Rush 2 Recompiled",
+    "url": "https://github.com/bryantmh/rush2recompiled",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "Rush 2 recomp with widescreen, interpolated high frame rates, online races and mods. Add your own Rush 1, Rush 2049 or California Speed ROMs to play their tracks too. Own Rush 2 ROM.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "rush2recompiled README (checked 2026-10-21)",
+        "url": "https://github.com/bryantmh/rush2recompiled"
+      }
+    ]
+  },
+  {
+    "id": "snowboard-kids-2-recompiled",
+    "game": "Snowboard Kids 2",
+    "console": "N64",
+    "project": "Snowboard Kids 2: Recompiled",
+    "url": "https://github.com/cdlewis/snowboardkids2-recomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "N64Recomp + RT64 port: widescreen, high frame rates, mods and texture packs, Steam Deck support. Stable v2.0.2 releases. Needs your own North American copy.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "snowboardkids2-recomp README (checked 2026-10-21)",
+        "url": "https://github.com/cdlewis/snowboardkids2-recomp"
+      }
+    ]
+  },
+  {
+    "id": "starfox64recomp",
+    "game": "Star Fox 64",
+    "console": "N64",
+    "project": "Starfox 64: Recompiled",
+    "url": "https://github.com/sonicdcer/Starfox64Recomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "N64Recomp port with RT64 and mod support; v1.0.3 is the latest release. Sibling project to Starship. Needs your own copy of the game.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Starfox64Recomp README (checked 2026-10-17)",
+        "url": "https://github.com/sonicdcer/Starfox64Recomp"
+      }
+    ]
+  },
+  {
+    "id": "starship-star-fox-64",
+    "game": "Star Fox 64",
+    "console": "N64",
+    "project": "Starship",
+    "url": "https://github.com/HarbourMasters/Starship",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Switch"
+    ],
+    "note": "HarbourMasters port built on the SF64 decompilation; v2.0.0 release. Base asset extraction needs a US version; EU/JP voices can be added. Ships no copyrighted assets.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Starship README (checked 2026-10-17)",
+        "url": "https://github.com/HarbourMasters/Starship"
+      }
+    ]
+  },
+  {
+    "id": "ghostship-super-mario-64",
+    "game": "Super Mario 64",
+    "console": "N64",
+    "project": "Ghostship",
+    "url": "https://github.com/HarbourMasters/Ghostship",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Switch",
+      "Android",
+      "iOS"
+    ],
+    "note": "HarbourMasters port on libultraship; 3.0.0 adds Android and iOS. Supports US and JP versions. Ships no copyrighted assets; you supply your own copy of the game.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Ghostship README (checked 2026-10-17)",
+        "url": "https://github.com/HarbourMasters/Ghostship"
+      }
+    ]
+  },
+  {
+    "id": "sm64coopdx-super-mario-64",
+    "game": "Super Mario 64",
+    "console": "N64",
+    "project": "sm64coopdx",
+    "url": "https://github.com/coop-deluxe/sm64coopdx",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "PC port on the n64decomp source with online co-op for up to 16 players and Lua mods; regular releases (v1.5.1). Needs your own US ROM; ships no assets.",
+    "added": "2026-10-19",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/super-mario-64-pc/",
+    "sources": [
+      {
+        "label": "sm64coopdx README and releases (checked 2026-10-19)",
+        "url": "https://github.com/coop-deluxe/sm64coopdx"
+      }
+    ]
+  },
+  {
+    "id": "2ship2harkinian-majoras-mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "console": "N64",
+    "project": "2 Ship 2 Harkinian",
+    "url": "https://github.com/2ship2harkinian/2ship2harkinian",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Decomp-based PC port in the Ship of Harkinian family; stable releases (5.0.1) with DX11, OpenGL and Metal renderers. Ships no assets; you supply a supported copy of the game.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "2ship2harkinian README (checked 2026-10-17)",
+        "url": "https://github.com/2ship2harkinian/2ship2harkinian"
+      }
+    ]
+  },
+  {
+    "id": "zelda64recomp-majoras-mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "console": "N64",
+    "project": "Zelda 64: Recompiled",
+    "url": "https://github.com/Zelda64Recomp/Zelda64Recomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Built with N64Recomp and the RT64 renderer; stable releases with widescreen, high frame rates and mod support. Needs your own copy of the game. Ocarina of Time support is planned.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Zelda64Recomp README (checked 2026-10-17)",
+        "url": "https://github.com/Zelda64Recomp/Zelda64Recomp"
+      }
+    ]
+  },
+  {
+    "id": "shipwright-ocarina-of-time",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "console": "N64",
+    "project": "Ship of Harkinian",
+    "url": "https://github.com/HarbourMasters/Shipwright",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "PC port built on the OoT decompilation and libultraship, with frequent stable releases (9.3.1, 18 October 2026) and many enhancements. Ships no assets; you supply a supported copy of the game.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/zelda-ocarina-of-time-pc/",
+    "sources": [
+      {
+        "label": "Shipwright README (checked 2026-10-20)",
+        "url": "https://github.com/HarbourMasters/Shipwright"
+      }
+    ]
+  },
+  {
+    "id": "wave-race-64-recomp",
+    "game": "Wave Race 64",
+    "console": "N64",
+    "project": "Wave Race 64: Recompiled",
+    "url": "https://github.com/danielgomesvieira2000/wave-race-64-recomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "N64Recomp port on RT64 with widescreen, high frame rates, extended draw distance and an optional modern water renderer. 1.0 releases. Needs your own USA Rev A ROM.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "wave-race-64-recomp README (checked 2026-10-21)",
+        "url": "https://github.com/danielgomesvieira2000/wave-race-64-recomp"
+      }
+    ]
+  },
+  {
+    "id": "banjo-tooie-scurvy-dog-port",
+    "game": "Banjo-Tooie",
+    "console": "N64",
+    "project": "Banjo-Tooie: Scurvy Dog Port",
+    "url": "https://github.com/some-scurvy-dog/banjo-tooie-scurvy-dog-port",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Unofficial N64Recomp and RT64 port, not from the BanjoRecomp team. Alpha 4 releases; much of the code is AI-generated (disclosed). Needs your own NTSC-U 1.0 ROM.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "banjo-tooie-scurvy-dog-port README (checked 2026-10-21)",
+        "url": "https://github.com/some-scurvy-dog/banjo-tooie-scurvy-dog-port"
+      }
+    ]
+  },
+  {
+    "id": "goemon64recomp",
+    "game": "Mystical Ninja Starring Goemon",
+    "console": "N64",
+    "project": "Goemon 64: Recompiled",
+    "url": "https://github.com/klorfmorf/Goemon64Recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "N64Recomp port with RT64, widescreen and high frame rates. Releases are still tagged dev (v0.2.0-dev). Needs your own copy of the game; Goemon's Great Adventure is planned.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Goemon64Recomp README (checked 2026-10-17)",
+        "url": "https://github.com/klorfmorf/Goemon64Recomp"
+      }
+    ]
+  },
+  {
+    "id": "ogre-battle-64-recomp",
+    "game": "Ogre Battle 64: Person of Lordly Caliber",
+    "console": "N64",
+    "project": "Ogre Battle 64 PC port",
+    "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Web"
+    ],
+    "note": "N64Recomp port of the USA Rev A cartridge; PLAN.md says the game runs end to end with saves. Releases for Win/Linux/macOS plus a browser build. Needs your own ROM.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "ogre-battle-64-recomp README (checked 2026-10-21)",
+        "url": "https://github.com/lfarroco/ogre-battle-64-recomp"
+      }
+    ]
+  },
+  {
+    "id": "perfect-dark-pc-port",
+    "game": "Perfect Dark",
+    "console": "N64",
+    "project": "Perfect Dark port",
+    "url": "https://github.com/perfect-dark-pc-port/perfect_dark",
+    "method": "Decompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Switch"
+    ],
+    "note": "WIP port of the PD decomp: single player and split-screen work, with mouselook, widescreen and 60 FPS. Minor bugs and occasional crashes; only CI dev builds. Needs your own copy.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "perfect_dark README (checked 2026-10-17)",
+        "url": "https://github.com/perfect-dark-pc-port/perfect_dark"
+      }
+    ]
+  },
+  {
+    "id": "ctr-nitrofueled-pc",
+    "game": "Crash Team Racing Nitro-Fueled",
+    "console": "PS4",
+    "project": "CTR-NitroFueled-PC",
+    "url": "https://github.com/GetLostIn/CTR-NitroFueled-PC",
+    "method": "Game-specific runtime",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "Windows fork of SacredFire on bbport/shadPS4. v0.4: FSR 4, frame gen, ultrawide, EU edition. Offline only. Needs your own CUSA13795/CUSA14876 dump + 1.21 update.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/crash-team-racing-nitro-fueled-pc/",
+    "sources": [
+      {
+        "label": "CTR-NitroFueled-PC README (checked 2026-10-20)",
+        "url": "https://github.com/GetLostIn/CTR-NitroFueled-PC"
+      }
+    ]
+  },
+  {
+    "id": "dragons-crown-pro-pc",
+    "game": "Dragon's Crown Pro",
+    "console": "PS4",
+    "project": "Dragon's Crown Pro PC Port",
+    "url": "https://github.com/saulob/dragons-crown-pro-pc",
+    "method": "Game-specific runtime",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "Runs the PS4 game's own code with replacement system libraries and a shadPS4-based Vulkan renderer. Up to 4K, local co-op. Installs from your own decrypted PKG; Linux experimental.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "dragons-crown-pro-pc README (checked 2026-10-21)",
+        "url": "https://github.com/saulob/dragons-crown-pro-pc"
+      }
+    ]
+  },
+  {
+    "id": "gow3-pc",
+    "game": "God of War III Remastered",
+    "console": "PS4",
+    "project": "gow3_pc",
+    "url": "https://github.com/FelipePrado0/SpartanPort",
+    "method": "Game-specific runtime",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "Runs the PS4 game's own code with a runtime written for this game and a shadPS4-derived Vulkan renderer. Frequent releases; known crashes listed in the README.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/god-of-war-3-pc/",
+    "sources": [
+      {
+        "label": "gow3_pc README (checked 2026-10-17)",
+        "url": "https://github.com/FelipePrado0/SpartanPort"
+      }
+    ]
+  },
+  {
+    "id": "infamous-second-son",
+    "game": "inFAMOUS Second Son",
+    "console": "PS4",
+    "project": "shadPS4-AYOUB1080p",
+    "url": "https://github.com/weshayoub92/shadPS4-AYOUB1080p",
+    "method": "Emulator fork",
+    "stage": "Working",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "A shadPS4 fork with patches for this game (EU release). One release (v1.0), not updated since.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/infamous-second-son-pc/",
+    "sources": [
+      {
+        "label": "shadPS4-AYOUB1080p README (checked 2026-10-17)",
+        "url": "https://github.com/weshayoub92/shadPS4-AYOUB1080p"
+      }
+    ]
+  },
+  {
+    "id": "medievil-2019-pc-port",
+    "game": "MediEvil (2019 remake)",
+    "console": "PS4",
+    "project": "MediEvil (PS4) for PC",
+    "url": "https://github.com/bc160201983/medievil_2019_pc_port",
+    "method": "Game-specific runtime",
+    "stage": "Working",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Built on the gow3_pc runtime with shadPS4 graphics: 60 FPS (higher experimental), up to 4K, all languages. Needs your own US or EU copy as a folder or fake PKG.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "medievil_2019_pc_port README (checked 2026-10-21)",
+        "url": "https://github.com/bc160201983/medievil_2019_pc_port"
+      }
+    ]
+  },
+  {
+    "id": "pt-pc",
+    "game": "P.T.",
+    "console": "PS4",
+    "project": "pt-pc (Hallway Engine)",
+    "url": "https://github.com/LoreanXavier/pt-pc",
+    "method": "Game-specific runtime",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "C++ and Vulkan rebuild that loads the data from your own PS4 copy.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/pt-pc/",
+    "sources": [
+      {
+        "label": "pt-pc README (checked 2026-10-17)",
+        "url": "https://github.com/LoreanXavier/pt-pc"
+      }
+    ]
+  },
+  {
+    "id": "bbport",
+    "game": "Bloodborne",
+    "console": "PS4",
+    "project": "bbport (bloodborne_pc) and Supermedo's Windows fork",
+    "url": "https://github.com/deadinside28/bloodborne_pc",
+    "method": "Game-specific runtime",
+    "stage": "Beta",
+    "platforms": [
+      "Linux",
+      "Windows"
+    ],
+    "note": "Native Linux runtime; Windows build in Supermedo's fork. A full play-through is not verified per the README.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/bloodborne-pc/",
+    "sources": [
+      {
+        "label": "bbport README (checked 2026-10-17)",
+        "url": "https://github.com/deadinside28/bloodborne_pc"
+      }
+    ]
+  },
+  {
+    "id": "rygt",
+    "game": "Gran Turismo Sport",
+    "console": "PS4",
+    "project": "RyGT",
+    "url": "https://github.com/mlgprorektm8/RyGT",
+    "method": "Game-specific runtime",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Menus and races work offline; no online play. Fork of Ryty with a shadPS4-derived renderer.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/gran-turismo-pc/",
+    "sources": [
+      {
+        "label": "RyGT README (checked 2026-10-17)",
+        "url": "https://github.com/mlgprorektm8/RyGT"
+      }
+    ]
+  },
+  {
+    "id": "gr2-pc",
+    "game": "Gravity Rush 2",
+    "console": "PS4",
+    "project": "gr2_pc",
+    "url": "https://github.com/HayatoG/gr2_pc",
+    "method": "Game-specific runtime",
+    "stage": "Beta",
+    "platforms": [
+      "Linux",
+      "Windows"
+    ],
+    "note": "Same core as tlg_pc: game code runs natively, PS4 system reimplemented, GPU translated to Vulkan. 30 fps gameplay on Linux; saves/open world still in testing, Windows untested.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "gr2_pc README (checked 2026-10-21)",
+        "url": "https://github.com/HayatoG/gr2_pc"
+      }
+    ]
+  },
+  {
+    "id": "pink-shadps4-shadow-of-the-colossus",
+    "game": "Shadow of the Colossus (PS4 remake)",
+    "console": "PS4",
+    "project": "Pink-shadPS4",
+    "url": "https://github.com/luizgustavs/Pink-shadPS4",
+    "method": "Emulator fork",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "shadPS4 fork and launcher with fixes for this game, tuned for NVIDIA on Windows. 0.5.0 is faster but flickers more than 0.4.0. Needs your own game dump.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Pink-shadPS4 README (checked 2026-10-21)",
+        "url": "https://github.com/luizgustavs/Pink-shadPS4"
+      }
+    ]
+  },
+  {
+    "id": "uncharted-pc",
+    "game": "Uncharted: The Nathan Drake Collection",
+    "console": "PS4",
+    "project": "uncharted_pc (SuperMedo); separate beta by BilalReloaded",
+    "url": "https://github.com/Supermedo/uncharted_pc",
+    "method": "Game-specific runtime",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "All three games from one launcher; DLSS / FSR and frame generation. Known crashes in Uncharted 2 and 3.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/uncharted-nathan-drake-collection-pc/",
+    "sources": [
+      {
+        "label": "uncharted_pc README (checked 2026-10-17)",
+        "url": "https://github.com/Supermedo/uncharted_pc"
+      }
+    ]
+  },
+  {
+    "id": "unicorn-overlord-pc",
+    "game": "Unicorn Overlord",
+    "console": "PS4",
+    "project": "Unicorn Overlord PC (vwport)",
+    "url": "https://github.com/hachi23/unicorn_overlord_pc",
+    "method": "Game-specific runtime",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "Runs the PS4 executable natively with about 700 reimplemented system functions and shadPS4's video core. Played through chapter 1, not to the end. Needs your own CUSA36381 1.04 dump.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "unicorn_overlord_pc README (checked 2026-10-21)",
+        "url": "https://github.com/hachi23/unicorn_overlord_pc"
+      }
+    ]
+  },
+  {
+    "id": "driveclub-native",
+    "game": "Driveclub",
+    "console": "PS4",
+    "project": "Driveclub Native (DCport)",
+    "url": "https://github.com/BlackLineInteractive/Driveclub-Port",
+    "method": "Game-specific runtime",
+    "stage": "Early",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "note": "PS4 code runs natively; Sony libraries reimplemented, graphics via shadPS4's Vulkan renderer (Windows) or a custom Metal renderer (Intel Mac). Needs your own dump.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/driveclub-pc/",
+    "sources": [
+      {
+        "label": "Driveclub-Port README (checked 2026-10-17)",
+        "url": "https://github.com/BlackLineInteractive/Driveclub-Port#readme"
+      }
+    ]
+  },
+  {
+    "id": "driveclub-pc-wrapper",
+    "game": "Driveclub",
+    "console": "PS4",
+    "project": "Driveclub-PC (Driveclub-pc-wrapper)",
+    "url": "https://github.com/ondrejeder/Driveclub-pc-wrapper",
+    "method": "Emulator fork",
+    "stage": "Early",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "shadPS4 fork tuned for Driveclub: launcher, 30/60/120 FPS, ultrawide. Needs your own dump and system files from your own console.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/driveclub-pc/",
+    "sources": [
+      {
+        "label": "Driveclub-pc-wrapper README (checked 2026-10-17)",
+        "url": "https://github.com/ondrejeder/Driveclub-pc-wrapper#readme"
+      }
+    ]
+  },
+  {
+    "id": "driveclub-recomp",
+    "game": "Driveclub",
+    "console": "PS4",
+    "project": "DriveClub Recomp",
+    "url": "https://github.com/OverkillLabs3/driveclub-recomp",
+    "method": "Game-specific runtime",
+    "stage": "Early",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Despite the name, native execution with reimplemented PS4 libraries and Vulkan, not a static recompilation. Races playable per README; no online.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/driveclub-pc/",
+    "sources": [
+      {
+        "label": "driveclub-recomp README (checked 2026-10-17)",
+        "url": "https://github.com/OverkillLabs3/driveclub-recomp#readme"
+      }
+    ]
+  },
+  {
+    "id": "tlg-pc",
+    "game": "The Last Guardian",
+    "console": "PS4",
+    "project": "tlg_pc",
+    "url": "https://github.com/HayatoG/tlg_pc",
+    "method": "Game-specific runtime",
+    "stage": "Early",
+    "platforms": [
+      "Linux",
+      "Windows"
+    ],
+    "note": "Built on the gow3_pc / bloodborne_pc runtime with shadPS4 graphics. Gameplay works in 10+ minute sessions; Windows not yet tested in game.",
+    "added": "2026-10-19",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/the-last-guardian-pc/",
+    "sources": [
+      {
+        "label": "tlg_pc README (checked 2026-10-19)",
+        "url": "https://github.com/HayatoG/tlg_pc"
+      }
+    ]
+  },
+  {
+    "id": "redriver2",
+    "game": "Driver 2",
+    "console": "PS1",
+    "project": "REDRIVER2",
+    "url": "https://github.com/OpenDriver2/REDRIVER2",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "PS1 code reverse-engineered back to C, no emulation; fully playable since 2020, build 8.0 (July 2026). Needs your own discs.",
+    "added": "2026-10-18",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/redriver2/",
+    "sources": [
+      {
+        "label": "REDRIVER2 README and 8.0 release notes (checked 2026-10-18)",
+        "url": "https://github.com/OpenDriver2/REDRIVER2"
+      }
+    ]
+  },
+  {
+    "id": "tekken-3-recomp",
+    "game": "Tekken 3",
+    "console": "PS1",
+    "project": "Tekken3Recomp",
+    "url": "https://github.com/fabioap-cpu/Tekken3Recomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "psxrecomp-based; boots and plays with rendering, input and memory-card saves, plus a CD-audio stutter fix. Windows releases (v2.1). Needs your own copy of the USA game.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Tekken3Recomp README (checked 2026-10-17)",
+        "url": "https://github.com/fabioap-cpu/Tekken3Recomp"
+      }
+    ]
+  },
+  {
+    "id": "severed-chains-legend-of-dragoon",
+    "game": "The Legend of Dragoon",
+    "console": "PS1",
+    "project": "Severed Chains",
+    "url": "https://github.com/Legend-of-Dragoon-Modding/Severed-Chains",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Steam Deck"
+    ],
+    "note": "Java reimplementation of the disassembled PS1 code (not a matching decomp). 3.0.0 out, fully playable per README. Needs your own four US discs.",
+    "added": "2026-10-19",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/legend-of-dragoon-pc/",
+    "sources": [
+      {
+        "label": "Severed Chains README (checked 2026-10-19)",
+        "url": "https://github.com/Legend-of-Dragoon-Modding/Severed-Chains"
+      },
+      {
+        "label": "Release 3.0.0, 2026-10-17",
+        "url": "https://github.com/Legend-of-Dragoon-Modding/Severed-Chains/releases/tag/release-3.0.0"
+      }
+    ]
+  },
+  {
+    "id": "ape-escape-recomp",
+    "game": "Ape Escape",
+    "console": "PS1",
+    "project": "ApeEscapeRecomp",
+    "url": "https://github.com/mstan/ApeEscapeRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "psxrecomp showcase title; the author calls releases in-development previews with rough edges (known issues listed). Needs your own copy of the USA game.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "ApeEscapeRecomp README (checked 2026-10-17)",
+        "url": "https://github.com/mstan/ApeEscapeRecomp"
+      }
+    ]
+  },
+  {
+    "id": "symphony-recomp-blacklabelhq",
+    "game": "Castlevania: Symphony of the Night",
+    "console": "PS1",
+    "project": "SymphonyRecomp",
+    "url": "https://github.com/BlackLabelHQ/SymphonyRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Open beta (v0.5.1b) made with BlackLabelHQ's RecompOne, using the SOTN decomp for naming and patches. Widescreen, randomizer and mods; 1.0 not out yet. Needs your own copy of the USA PS1 version.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/castlevania-symphony-of-the-night-pc/",
+    "sources": [
+      {
+        "label": "SymphonyRecomp README (checked 2026-10-20)",
+        "url": "https://github.com/BlackLabelHQ/SymphonyRecomp"
+      },
+      {
+        "label": "Release v0.5.1b, 2026-08-19",
+        "url": "https://github.com/BlackLabelHQ/SymphonyRecomp/releases/tag/v0.5.1b"
+      }
+    ]
+  },
+  {
+    "id": "crash-bandicoot-launcher",
+    "game": "Crash Bandicoot",
+    "console": "PS1",
+    "project": "Crash Bandicoot Launcher",
+    "url": "https://github.com/Matteo842/CrashBandicoot-Launcher",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "note": "RecompOne-based recomp built on first launch from your own USA disc (SCUS-94900, .chd or .cue/.bin). Widescreen, up to 240 fps, mods; widescreen still shows edges in some levels.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/crash-bandicoot-pc/",
+    "sources": [
+      {
+        "label": "CrashBandicoot-Launcher README (checked 2026-10-21)",
+        "url": "https://github.com/Matteo842/CrashBandicoot-Launcher"
+      }
+    ]
+  },
+  {
+    "id": "ctr-native",
+    "game": "Crash Team Racing",
+    "console": "PS1",
+    "project": "CTR Native",
+    "url": "https://github.com/CTR-tools/ctr-native",
+    "method": "Decompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "Native SDL3/OpenGL port on the CTR-ModSDK decompilation. Playtest betas (beta-7.1, July 2026) with open bugs. Needs your own NTSC-U disc image.",
+    "added": "2026-10-19",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/crash-team-racing-pc/",
+    "sources": [
+      {
+        "label": "ctr-native README (checked 2026-10-19)",
+        "url": "https://github.com/CTR-tools/ctr-native"
+      },
+      {
+        "label": "ctr-native beta-7.1 release, 2026-07-07",
+        "url": "https://github.com/CTR-tools/ctr-native/releases/tag/beta-7.1"
+      }
+    ]
+  },
+  {
+    "id": "hercules-recompiled",
+    "game": "Disney's Hercules",
+    "console": "PS1",
+    "project": "Hercules Recompiled",
+    "url": "https://github.com/obaidr1/hercules-recompiled",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "Native port of the five PAL releases: 1080p, true 16:9, HD sprites and textures, CRT filter, save states. Program code ships translated; graphics and sound come from your own disc.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "hercules-recompiled README (checked 2026-10-21)",
+        "url": "https://github.com/obaidr1/hercules-recompiled"
+      }
+    ]
+  },
+  {
+    "id": "medievil-recomp-blacklabelhq",
+    "game": "MediEvil",
+    "console": "PS1",
+    "project": "MediEvil Recomp",
+    "url": "https://github.com/BlackLabelHQ/MediEvilRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Open beta (v0.2b) made with RecompOne, using the MediEvil decomp for naming and patches. Expect game-breaking bugs before 1.0. Needs your own copy of the USA PS1 version.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "MediEvilRecomp README (checked 2026-10-17)",
+        "url": "https://github.com/BlackLabelHQ/MediEvilRecomp"
+      }
+    ]
+  },
+  {
+    "id": "medievil-recompiled-alexbeav",
+    "game": "MediEvil",
+    "console": "PS1",
+    "project": "MediEvil Recompiled",
+    "url": "https://github.com/alexbeavs-ps1-ports/medievil-recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Separate psxrecomp-based project (v0.1.3, release-candidate builds). Needs your own copy of the USA game plus a retail SCPH-1001 BIOS dump; OpenBIOS is not supported.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "medievil-recomp README (checked 2026-10-17)",
+        "url": "https://github.com/alexbeavs-ps1-ports/medievil-recomp"
+      }
+    ]
+  },
+  {
+    "id": "megamanx4recomp",
+    "game": "Mega Man X4",
+    "console": "PS1",
+    "project": "Mega Man X4 Recompiled",
+    "url": "https://github.com/mstan/MegaManX4Recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "psxrecomp port of the USA release with widescreen and an alpha X + Zero two-player co-op mod, local or netplay. Playtest builds; needs your own disc image, OpenBIOS included.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "MegaManX4Recomp README (checked 2026-10-21)",
+        "url": "https://github.com/mstan/MegaManX4Recomp"
+      }
+    ]
+  },
+  {
+    "id": "recompone",
+    "game": "PlayStation games (tool)",
+    "console": "PS1",
+    "project": "RecompOne",
+    "url": "https://github.com/BlackLabelHQ/RecompOne",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Recompiler and runtime that turn PS1 executables into C#; needs no BIOS. A developer tool, not a playable port. Powers the MediEvil and Symphony of the Night recomp betas.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "RecompOne README (checked 2026-10-21)",
+        "url": "https://github.com/BlackLabelHQ/RecompOne"
+      }
+    ]
+  },
+  {
+    "id": "rage-racer-pc",
+    "game": "Rage Racer",
+    "console": "PS1",
+    "project": "Rage Racer PC",
+    "url": "https://github.com/khasinski/rage-racer-pc",
+    "method": "Decompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Source port of the PAL release (SCES-00650) on a PSY-Z compatibility layer, with a modern renderer and widescreen. Alpha releases; assets imported from your own disc.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "rage-racer-pc README (checked 2026-10-21)",
+        "url": "https://github.com/khasinski/rage-racer-pc"
+      }
+    ]
+  },
+  {
+    "id": "silent-hill-pc-port",
+    "game": "Silent Hill",
+    "console": "PS1",
+    "project": "Silent Hill PC Port",
+    "url": "https://github.com/SlickAmogus/silent-hill-decomp",
+    "method": "Decompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android",
+      "iOS"
+    ],
+    "note": "Native port compiled from the PS1 decompilation via PsyCross, AI-assisted. Fully playable per README; Linux and macOS still in progress. Needs your own copy.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/silent-hill-pc/",
+    "sources": [
+      {
+        "label": "silent-hill-decomp README, pc-port branch (checked 2026-10-17)",
+        "url": "https://github.com/SlickAmogus/silent-hill-decomp#readme"
+      },
+      {
+        "label": "GenerationAmiga, 2026-07-09",
+        "url": "https://www.generationamiga.com/2026/07/09/silent-hill-1-pc-port-adds-high-resolutions-and-unlocked-frame-rates/"
+      }
+    ]
+  },
+  {
+    "id": "yfm-recompiled",
+    "game": "Yu-Gi-Oh! Forbidden Memories",
+    "console": "PS1",
+    "project": "Yu-Gi-Oh! Forbidden Memories Recompiled (YFM Re-Decomp)",
+    "url": "https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled",
+    "method": "Decompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "note": "Byte-matching decompilation of the USA game ported to PC: up to 4x resolution, widescreen, 3D monsters, mods and a card editor. Needs your own USA disc image.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Yu-Gi-Oh-Forbidden-Memories-Recompiled README (checked 2026-10-21)",
+        "url": "https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled"
+      }
+    ]
+  },
+  {
+    "id": "pepsiman-recompiled",
+    "game": "Pepsiman",
+    "console": "PS1",
+    "project": "Pepsiman Recompiled",
+    "url": "https://github.com/kem0x/RepsiMan",
+    "method": "Static recompilation",
+    "stage": "Offline",
+    "platforms": [
+      "Web"
+    ],
+    "note": "psxrecomp-based browser build by Kem0x, first at pepsiman.ol.mr, later on his VL.MR site. On 2026-10-21 the site, repo and VL.MR page were all gone; no takedown notice found.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/pepsiman/",
+    "sources": [
+      {
+        "label": "Original repository kem0x/RepsiMan: 404 when checked 2026-10-17",
+        "url": "https://github.com/kem0x/RepsiMan"
+      },
+      {
+        "label": "VL.MR about page (checked 2026-10-17)",
+        "url": "https://vl.mr/about/"
+      }
+    ]
+  },
+  {
+    "id": "opengoal",
+    "game": "Jak and Daxter: The Precursor Legacy (plus Jak II, Jak 3)",
+    "console": "PS2",
+    "project": "OpenGOAL (jak-project)",
+    "url": "https://github.com/open-goal/jak-project",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Decompiled GOAL code rebuilt with the team's own compiler for x86-64. Jak 1 complete; Jak II and Jak 3 in beta but completable. Needs your own PS2 disc.",
+    "added": "2026-10-19",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/jak-and-daxter-pc/",
+    "sources": [
+      {
+        "label": "jak-project README (checked 2026-10-19)",
+        "url": "https://github.com/open-goal/jak-project"
+      },
+      {
+        "label": "OpenGOAL FAQ",
+        "url": "https://opengoal.dev/docs/faq"
+      }
+    ]
+  },
+  {
+    "id": "fukami-ridge-racer-v",
+    "game": "Ridge Racer V",
+    "console": "PS2",
+    "project": "Fukami",
+    "url": "https://github.com/danisandoval/fukami",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "note": "MIPS code translated to C++ with PCSX2's GS underneath: native 60 fps, real widescreen, up to 8x resolution. Steam Deck installer included. Needs your own USA disc (SLUS-20002).",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "fukami README (checked 2026-10-21)",
+        "url": "https://github.com/danisandoval/fukami"
+      }
+    ]
+  },
+  {
+    "id": "tenkaichi3decomp",
+    "game": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "console": "PS2",
+    "project": "Tenkaichi3Decomp",
+    "url": "https://github.com/z3xox/Tenkaichi3Decomp",
+    "method": "Decompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "PC port built on the BT3-Decompiled decompilation; full game loop, Vulkan/OpenGL renderer, experimental online play with rollback. Needs your own USA disc image (SLUS-21678).",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/budokai-tenkaichi-3-pc/",
+    "sources": [
+      {
+        "label": "Tenkaichi3Decomp README (checked 2026-10-21)",
+        "url": "https://github.com/z3xox/Tenkaichi3Decomp"
+      }
+    ]
+  },
+  {
+    "id": "bt3-recomp",
+    "game": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "console": "PS2",
+    "project": "BT3-Recomp",
+    "url": "https://github.com/z3xox/BT3-Recomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Menus and fights playable per README; no releases yet, so it must be built from source with your own copy. Linux first, macOS experimental.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "BT3-Recomp README (checked 2026-10-17)",
+        "url": "https://github.com/z3xox/BT3-Recomp"
+      }
+    ]
+  },
+  {
+    "id": "god-of-war-ps2-recomp",
+    "game": "God of War",
+    "console": "PS2",
+    "project": "God of War PS2 Static Recompilation",
+    "url": "https://github.com/KIexster/god-of-war-recomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "PS2Recomp-based, using Waffle565's native runtime. Boots to the ship fight; full playthrough still pending. Source only, no releases. Needs your own copy (NTSC-U).",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "god-of-war-recomp README (checked 2026-10-17)",
+        "url": "https://github.com/KIexster/god-of-war-recomp"
+      }
+    ]
+  },
+  {
+    "id": "ps2-web-recomp",
+    "game": "Gran Turismo 4, God of War II (PS2)",
+    "console": "PS2",
+    "project": "ps2-web-recomp",
+    "url": "https://github.com/snuri00/ps2-web-recomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Browser (WebGPU, built locally)",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Toolchain: turns your own disc into a page you run in your own browser (WebGPU). Two games brought up so far. Nothing playable online.",
+    "added": "2026-10-19",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "ps2-web-recomp README (checked 2026-10-19)",
+        "url": "https://github.com/snuri00/ps2-web-recomp"
+      },
+      {
+        "label": "Show HN: PS2 games statically recompiled to WebAssembly (12 Oct 2026)",
+        "url": "https://news.ycombinator.com/item?id=50052251"
+      }
+    ]
+  },
+  {
+    "id": "ps2recomp",
+    "game": "PlayStation 2 games (tool)",
+    "console": "PS2",
+    "project": "PS2Recomp",
+    "url": "https://github.com/ran-j/PS2Recomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "Experimental recompiler and runtime that turns PS2 ELF code into C++; a developer tool, not a playable port. Per-game projects build on it.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "PS2Recomp README (checked 2026-10-17)",
+        "url": "https://github.com/ran-j/PS2Recomp"
+      }
+    ]
+  },
+  {
+    "id": "drakengard-3-recomp",
+    "game": "Drakengard 3",
+    "console": "PS3",
+    "project": "Drakengard 3 Recompiled",
+    "url": "https://github.com/soyjxck/dod3-recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "note": "BLUS31197 recompiled on ps3recomp with D3D12/Metal/Vulkan rendering. README reports chapter 1 playable at 60 fps; tested on few machines so far. Bring your own copy.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "soyjxck/dod3-recomp README (checked 2026-10-17)",
+        "url": "https://github.com/soyjxck/dod3-recomp"
+      }
+    ]
+  },
+  {
+    "id": "gh3-ps3recomp",
+    "game": "Guitar Hero III: Legends of Rock",
+    "console": "PS3",
+    "project": "gh3 (ps3recomp)",
+    "url": "https://github.com/sp00nznet/gh3",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Furthest-along PS3 recomp: the game's own bot cleared all 45 Quickplay songs. 30-40 fps in songs, no guitar controller support yet. Source only, you build it yourself.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "sp00nznet/gh3 README (checked 2026-10-17)",
+        "url": "https://github.com/sp00nznet/gh3"
+      },
+      {
+        "label": "ps3recomp toolkit README (checked 2026-10-17)",
+        "url": "https://github.com/sp00nznet/ps3recomp"
+      }
+    ]
+  },
+  {
+    "id": "yakumo-mhp3rd-hd",
+    "game": "Monster Hunter Portable 3rd HD Ver.",
+    "console": "PS3",
+    "project": "Yakumo",
+    "url": "https://github.com/TeamGDB/Yakumo",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "note": "Recompiles the PSP game code inside the PS3 HD release (NPJB-40001) and runs it on a PSP system reimplementation. Hunts, saves, ad hoc multiplayer work. Bring your own image.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/monster-hunter-portable-3rd-pc/",
+    "sources": [
+      {
+        "label": "Yakumo README (checked 2026-10-21)",
+        "url": "https://github.com/TeamGDB/Yakumo"
+      }
+    ]
+  },
+  {
+    "id": "simpsons-arcade-ps3recomp",
+    "game": "The Simpsons Arcade Game",
+    "console": "PS3",
+    "project": "simpsonsarcade-ps3",
+    "url": "https://github.com/sp00nznet/simpsonsarcade-ps3",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "PSN title recompiled with ps3recomp. Menus, saves and the arcade game play, plus online co-op via a PSN stand-in. Gameplay runs 35-57 fps. Source only.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "sp00nznet/simpsonsarcade-ps3 README (checked 2026-10-17)",
+        "url": "https://github.com/sp00nznet/simpsonsarcade-ps3"
+      }
+    ]
+  },
+  {
+    "id": "flow-ps3recomp",
+    "game": "flOw",
+    "console": "PS3",
+    "project": "flOw static recompilation",
+    "url": "https://github.com/sp00nznet/flow",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "thatgamecompany's PSN debut, every function lifted to C on ps3recomp. Engine loop and D3D12 level rendering work; not yet a normal playable build. Linux planned.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "sp00nznet/flow README (checked 2026-10-17)",
+        "url": "https://github.com/sp00nznet/flow"
+      }
+    ]
+  },
+  {
+    "id": "gow2-recomp",
+    "game": "God of War II",
+    "console": "PS3",
+    "project": "GoW2 Recomp",
+    "url": "https://github.com/andrebrumdev/gow2-recomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "macOS"
+    ],
+    "note": "God of War II HD (PS3, NPUA80491) recompiled to native Apple silicon with Metal; Rhodes gameplay works. Kit builds from your own copy; no Windows build yet.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/god-of-war-2-pc/",
+    "sources": [
+      {
+        "label": "gow2-recomp README (checked 2026-10-20)",
+        "url": "https://github.com/andrebrumdev/gow2-recomp"
+      }
+    ]
+  },
+  {
+    "id": "black-xberecomp",
+    "game": "Black",
+    "console": "Xbox",
+    "project": "BLACK XBE Recomp",
+    "url": "https://github.com/TGP482/BLACK-XBERecomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Made with TGP482's Xbox XBE Recomp; game code is compiled on first start. Mouse/keyboard, any resolution, uncapped FPS, FOV 45-140. Needs your own USA or EU Xbox copy.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/black-pc/",
+    "sources": [
+      {
+        "label": "BLACK-XBERecomp README (checked 2026-10-20)",
+        "url": "https://github.com/TGP482/BLACK-XBERecomp"
+      }
+    ]
+  },
+  {
+    "id": "takedawn-burnout-3",
+    "game": "Burnout 3: Takedown",
+    "console": "Xbox",
+    "project": "Takedawn",
+    "url": "https://github.com/xenophobentx/takedawn",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "note": "xboxrecomp-based port of the NTSC-U Xbox release: up to 4x resolution, ultrawide, HDR, 60 fps split screen. Grew out of sp00nznet/burnout3. Needs your own US disc image.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/burnout-3-pc/",
+    "sources": [
+      {
+        "label": "takedawn README (checked 2026-10-21)",
+        "url": "https://github.com/xenophobentx/takedawn"
+      }
+    ]
+  },
+  {
+    "id": "finest-hour-remastered",
+    "game": "Call of Duty: Finest Hour",
+    "console": "Xbox",
+    "project": "Finest Hour Remastered",
+    "url": "https://github.com/crazyriddler/FinestHourRemastered",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "x86 recomp with a new D3D12 renderer (PBR, shadows, reflections). Needs your own PAL Xbox copy; the 5 GB release also bundles AI-upscaled versions of the game's textures.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "FinestHourRemastered README (checked 2026-10-21)",
+        "url": "https://github.com/crazyriddler/FinestHourRemastered"
+      }
+    ]
+  },
+  {
+    "id": "scda-xberecomp",
+    "game": "Tom Clancy's Splinter Cell: Double Agent",
+    "console": "Xbox",
+    "project": "SCDA-XBERecomp",
+    "url": "https://github.com/TGP482/SCDA-XBERecomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Original Xbox version recompiled with the author's XboxXBE-Recomp tool; D3D12, high FPS, mouse and keyboard, online co-op. Code is compiled on first run from your own ISO.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "SCDA-XBERecomp README (checked 2026-10-21)",
+        "url": "https://github.com/TGP482/SCDA-XBERecomp"
+      }
+    ]
+  },
+  {
+    "id": "doaxvb-re",
+    "game": "Dead or Alive Xtreme Beach Volleyball",
+    "console": "Xbox",
+    "project": "DOAXVB Native PC Port (doaxvb-re)",
+    "url": "https://github.com/NoRain211/doaxvb-re",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "note": "Recompiled to C with a hand-written runtime; fully playable since 0.4 Beta, some rendering incomplete. Setup builds the game on your PC from your own USA ISO.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "doaxvb-re README (checked 2026-10-21)",
+        "url": "https://github.com/NoRain211/doaxvb-re"
+      }
+    ]
+  },
+  {
+    "id": "opence-halo-ce",
+    "game": "Halo: Combat Evolved",
+    "console": "Xbox",
+    "project": "OpenCE (Open Community Edition)",
+    "url": "https://github.com/OpenCommunityEdition/OpenCE",
+    "method": "Decompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android",
+      "Web"
+    ],
+    "note": "Port of the Halo CE Xbox decompilation (bnunu/punpckhdq lineage), rebuilt for every platform on each commit, with an arm64 Android target. Game data not included.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "OpenCommunityEdition/OpenCE README (checked 2026-10-17)",
+        "url": "https://github.com/OpenCommunityEdition/OpenCE"
+      }
+    ]
+  },
+  {
+    "id": "ninja-gaiden-black-recomp",
+    "game": "Ninja Gaiden Black",
+    "console": "Xbox",
+    "project": "Ninja Gaiden Black Recompiled",
+    "url": "https://github.com/gamboozino/ngbrecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Linux",
+      "Windows",
+      "macOS"
+    ],
+    "note": "USA retail release recompiled with its own Vulkan renderer: steady 60 fps, widescreen, keyboard and mouse, Steam Deck ready. Preview builds; macOS experimental. Needs your own disc.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "ngbrecomp README (checked 2026-10-21)",
+        "url": "https://github.com/gamboozino/ngbrecomp"
+      }
+    ]
+  },
+  {
+    "id": "ssx-tricky-pc",
+    "game": "SSX Tricky",
+    "console": "Xbox",
+    "project": "SSX Tricky: PC Port",
+    "url": "https://github.com/MatiasRiveraC/SSX-Tricky-PC",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "USA Xbox release recompiled with xboxrecomp to D3D11. Frontend, races at 60 fps and saves work; marked work in progress. Repo holds no game code. Bring your own disc.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "MatiasRiveraC/SSX-Tricky-PC README (checked 2026-10-17)",
+        "url": "https://github.com/MatiasRiveraC/SSX-Tricky-PC"
+      }
+    ]
+  },
+  {
+    "id": "burnout3-xboxrecomp",
+    "game": "Burnout 3: Takedown",
+    "console": "Xbox",
+    "project": "burnout3 (xboxrecomp)",
+    "url": "https://github.com/sp00nznet/burnout3",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Reference title for xboxrecomp. Every mode boots and plays, split-screen too, but the GPU is emulated in software: races run at 2-4 fps. Installer builds it from your own ISO.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "burnout3 README (checked 2026-10-21)",
+        "url": "https://github.com/sp00nznet/burnout3"
+      }
+    ]
+  },
+  {
+    "id": "fifa-street-2-xbox-recomp",
+    "game": "FIFA Street 2",
+    "console": "Xbox",
+    "project": "fifastreet2-recomp",
+    "url": "https://github.com/jv36/fifastreet2-recomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Attempt at recompiling the original Xbox FIFA Street 2 with xboxrecomp. Reaches the recompiled entry point but opens no window yet. Not the 2012 FIFA Street PC port.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "jv36/fifastreet2-recomp README (checked 2026-10-17)",
+        "url": "https://github.com/jv36/fifastreet2-recomp"
+      }
+    ]
+  },
+  {
+    "id": "hl2-xbox-recomp",
+    "game": "Half-Life 2 (Xbox)",
+    "console": "Xbox",
+    "project": "hl2-recomp",
+    "url": "https://github.com/sp00nznet/hl2-recomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "The 2005 Xbox version recompiled with xboxrecomp. Boots to its own main menu background with real textures, but the README says it is not playable yet.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "sp00nznet/hl2-recomp README (checked 2026-10-17)",
+        "url": "https://github.com/sp00nznet/hl2-recomp"
+      }
+    ]
+  },
+  {
+    "id": "halo2-decomp",
+    "game": "Halo 2",
+    "console": "Xbox",
+    "project": "Halo 2 Decompilation",
+    "url": "https://github.com/kirklandsig/halo2-decompiled",
+    "method": "Decompilation",
+    "stage": "Early",
+    "platforms": [],
+    "note": "Matching decompilation of the retail Xbox Halo 2; about 45% of game code matched byte for byte. No native PC port yet, so nothing to play.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "halo2-decompiled README (checked 2026-10-17)",
+        "url": "https://github.com/kirklandsig/halo2-decompiled"
+      }
+    ]
+  },
+  {
+    "id": "xboxrecomp",
+    "game": "Original Xbox games (tool)",
+    "console": "Xbox",
+    "project": "xboxrecomp",
+    "url": "https://github.com/sp00nznet/xboxrecomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Toolkit that lifts a retail XBE's x86 code to C and links it to a kernel/D3D8 runtime; a developer tool, not a playable port. Used by Burnout 3, SSX Tricky and HL2 recomps.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "xboxrecomp README (checked 2026-10-21)",
+        "url": "https://github.com/sp00nznet/xboxrecomp"
+      }
+    ]
+  },
+  {
+    "id": "xboxxberecomp",
+    "game": "Original Xbox games (tool)",
+    "console": "Xbox",
+    "project": "Xbox XBE Recomp",
+    "url": "https://github.com/TGP482/XboxXBERecomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "SDK that recompiles original Xbox XBE code to C++ with D3D8 on D3D12; a developer tool, not a playable port. Used for the BLACK and Splinter Cell: Double Agent ports.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "XboxXBERecomp README (checked 2026-10-21)",
+        "url": "https://github.com/TGP482/XboxXBERecomp"
+      }
+    ]
+  },
+  {
+    "id": "luigis-mansion-recompiled",
+    "game": "Luigi's Mansion",
+    "console": "GameCube",
+    "project": "Luigi's Mansion Recompiled",
+    "url": "https://github.com/rob646464/luigis-mansion-recompiled",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "Recomp with Aurora-based rendering, high frame rates, ultrawide, optional enhanced lighting and restored cut content. Builds itself on first start from your own USA or PAL disc.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/luigis-mansion-pc/",
+    "sources": [
+      {
+        "label": "luigis-mansion-recompiled README (checked 2026-10-21)",
+        "url": "https://github.com/rob646464/luigis-mansion-recompiled"
+      }
+    ]
+  },
+  {
+    "id": "metroid-prime-port",
+    "game": "Metroid Prime",
+    "console": "GameCube",
+    "project": "MetroidPrimePort",
+    "url": "https://github.com/Odrannnn/MetroidPrimePort",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android",
+      "macOS"
+    ],
+    "note": "Native port built on the PrimeDecomp decomp with the Aurora layer. Near-daily releases; macOS build very experimental. NOTICE says src/ is Nintendo's code. Needs your own USA or PAL disc.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/metroid-prime-pc/",
+    "sources": [
+      {
+        "label": "Odrannnn/MetroidPrimePort README and NOTICE (checked 2026-10-20)",
+        "url": "https://github.com/Odrannnn/MetroidPrimePort"
+      }
+    ]
+  },
+  {
+    "id": "dusklight-twilight-princess",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "console": "GameCube",
+    "project": "Dusklight (formerly Dusk)",
+    "url": "https://github.com/TwilitRealm/dusklight",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android",
+      "iOS"
+    ],
+    "note": "Native port built on the zeldaret TP decomp and the Aurora layer, by the Twilit Realm team. Stable 2.x releases; accepts GameCube and Wii discs but uses the GameCube HUD. Bring your own disc.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "TwilitRealm/dusklight README (checked 2026-10-17)",
+        "url": "https://github.com/TwilitRealm/dusklight"
+      },
+      {
+        "label": "Official site (checked 2026-10-17)",
+        "url": "https://twilitrealm.dev/"
+      }
+    ]
+  },
+  {
+    "id": "acgc-pc-port-animal-crossing",
+    "game": "Animal Crossing",
+    "console": "GameCube",
+    "project": "ACGC-PC-Port",
+    "url": "https://github.com/flyngmt/ACGC-PC-Port",
+    "method": "Decompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Native Windows port on the ac-decomp decompilation, GX translated to OpenGL 3.3. Playtest builds (v0.9.3); needs your own US disc. AI-assisted port code (disclosed).",
+    "added": "2026-10-19",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/animal-crossing-pc/",
+    "sources": [
+      {
+        "label": "ACGC-PC-Port README (checked 2026-10-19)",
+        "url": "https://github.com/flyngmt/ACGC-PC-Port"
+      },
+      {
+        "label": "v0.9.3 playtest release notes",
+        "url": "https://github.com/flyngmt/ACGC-PC-Port/releases/tag/v0.9.3-playtest"
+      }
+    ]
+  },
+  {
+    "id": "eternal-darkness-recomp",
+    "game": "Eternal Darkness: Sanity's Requiem",
+    "console": "GameCube",
+    "project": "Eternal Darkness Recomp",
+    "url": "https://github.com/griches/EternalDarknessRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Built with DolRecomp and a GX runtime; v0.8.1 adds save-anywhere slots and HD texture support. Only the European disc (GEDP01) is accepted. Bring your own disc.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "griches/EternalDarknessRecomp README (checked 2026-10-17)",
+        "url": "https://github.com/griches/EternalDarknessRecomp"
+      }
+    ]
+  },
+  {
+    "id": "ringout-soulcalibur-2",
+    "game": "Soulcalibur II",
+    "console": "GameCube",
+    "project": "Ring Out",
+    "url": "https://github.com/jackpoison-prog/RingOut",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Linux",
+      "Windows",
+      "Steam Deck"
+    ],
+    "note": "PowerPC-to-C recomp on a Dolphin-derived Vulkan runtime; playable start to finish, widescreen, delay-based netplay. Recompiles from your own disc on first run. Windows build is a test build.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "RingOut README (checked 2026-10-21)",
+        "url": "https://github.com/jackpoison-prog/RingOut"
+      }
+    ]
+  },
+  {
+    "id": "sms-pc-port-super-mario-sunshine",
+    "game": "Super Mario Sunshine",
+    "console": "GameCube",
+    "project": "sms-port (SMS PC Port)",
+    "url": "https://github.com/chasem-dev/sms-pc-port",
+    "method": "Decompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "note": "Native port of the NTSC-U release built from a matching decomp. Plays on Linux and macOS; Windows still being checked. SMS Launcher builds it from your own disc.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "chasem-dev/sms-pc-port README (checked 2026-10-17)",
+        "url": "https://github.com/chasem-dev/sms-pc-port"
+      },
+      {
+        "label": "SMS Launcher README (checked 2026-10-21)",
+        "url": "https://github.com/chasem-dev/sms-launcher"
+      }
+    ]
+  },
+  {
+    "id": "sunpad-super-mario-sunshine",
+    "game": "Super Mario Sunshine",
+    "console": "GameCube",
+    "project": "SunPad",
+    "url": "https://github.com/chrissotraidis/sunpad",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "iOS",
+      "iPadOS",
+      "macOS",
+      "tvOS"
+    ],
+    "note": "DolRecomp AOT recomp on a Dolphin-derived Metal runtime, with touch controls. The release app has no game code; PadMint builds your IPA from your own GMSE01 disc. Apple TV experimental.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "sunpad README (checked 2026-10-21)",
+        "url": "https://github.com/chrissotraidis/sunpad"
+      }
+    ]
+  },
+  {
+    "id": "melee-pc",
+    "game": "Super Smash Bros. Melee",
+    "console": "GameCube",
+    "project": "melee-pc",
+    "url": "https://github.com/999sian/melee-pc",
+    "method": "Decompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android",
+      "iOS"
+    ],
+    "note": "Native port of NTSC-U 1.02 from the doldecomp Melee decomp on Aurora. Self-described beta for testing; all modes boot, rollback netplay still in development. Bring your own disc.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "999sian/melee-pc README (checked 2026-10-17)",
+        "url": "https://github.com/999sian/melee-pc"
+      }
+    ]
+  },
+  {
+    "id": "bluewake-wind-waker",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "console": "GameCube",
+    "project": "BlueWake (The Wind Waker Recompiled; absorbed Wind Waker Recomp)",
+    "url": "https://github.com/chrissotraidis/bluewake",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Linux",
+      "Android"
+    ],
+    "note": "DolRecomp-based recompilation with a Dolphin-derived runtime. The ready-made Windows build includes translated game code; other platforms are built from your disc. US GZLE01 only.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/zelda-wind-waker-pc/",
+    "sources": [
+      {
+        "label": "chrissotraidis/bluewake README (checked 2026-10-20)",
+        "url": "https://github.com/chrissotraidis/bluewake"
+      }
+    ]
+  },
+  {
+    "id": "new-super-paper-bros",
+    "game": "Super Paper Mario",
+    "console": "Wii",
+    "project": "New Super Paper Bros.",
+    "url": "https://github.com/josiahg2502-glitch/NewSuperPaperBros",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "WiiCompiled recomp with up to 4K, cinematic widescreen and 120 fps interpolation. Release bundles community HQ music and HD texture mods. Needs your own USA or EUR disc image.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "NewSuperPaperBros README (checked 2026-10-21)",
+        "url": "https://github.com/josiahg2502-glitch/NewSuperPaperBros"
+      }
+    ]
+  },
+  {
+    "id": "kartpad-mario-kart-wii",
+    "game": "Mario Kart Wii",
+    "console": "Wii",
+    "project": "KartPad",
+    "url": "https://github.com/chrissotraidis/kartpad",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Android",
+      "iOS",
+      "macOS"
+    ],
+    "note": "Mario Kart Wii and Retro Rewind on Android (ready-made APK with translated game code) and iPhone/iPad/Mac (built from your disc with PadMint). Built on WiiCompiled. Own PAL disc.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/mario-kart-wii-pc/",
+    "sources": [
+      {
+        "label": "chrissotraidis/kartpad README and releases (checked 2026-10-20)",
+        "url": "https://github.com/chrissotraidis/kartpad"
+      }
+    ]
+  },
+  {
+    "id": "wiicompiled-mario-kart-wii",
+    "game": "Mario Kart Wii",
+    "console": "Wii",
+    "project": "WiiCompiled",
+    "url": "https://github.com/patchzyy/Wiicompiled",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "First Wii static recompilation, by patchzyy (Retro Rewind / Wheel Wizard). Translation runs locally against your own PAL disc. Interpolated high frame rates, any aspect ratio, Retro Rewind support.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/mario-kart-wii-pc/",
+    "sources": [
+      {
+        "label": "patchzyy/Wiicompiled README (checked 2026-10-17)",
+        "url": "https://github.com/patchzyy/Wiicompiled"
+      }
+    ]
+  },
+  {
+    "id": "nsmbw-multiplayer-recomp",
+    "game": "New Super Mario Bros. Wii",
+    "console": "Wii",
+    "project": "NSMB Wii Multiplayer Recompilation",
+    "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Android",
+      "Windows"
+    ],
+    "note": "Built on WiiCompiled; v0.1.1 (14 Oct 2026) adds LAN/Tailscale co-op, touch controls and ultrawide. USA SMNE01 rev 1 disc only. Downloads include the game's code in translated form.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "NSMB-Wii-Multiplayer-Recompilation README (checked 2026-10-20)",
+        "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation"
+      },
+      {
+        "label": "v0.1.1 release, 14 Oct 2026",
+        "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation/releases/tag/v0.1.1"
+      }
+    ]
+  },
+  {
+    "id": "nebula-smg",
+    "game": "Super Mario Galaxy",
+    "console": "Wii",
+    "project": "Nebula",
+    "url": "https://github.com/keepvaibin/nebula",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "1.0 released 13 Oct 2026; playable from the start, work in progress. Compiled on your PC from your own US disc; no Nintendo code shipped.",
+    "added": "2026-10-19",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/super-mario-galaxy-pc/",
+    "sources": [
+      {
+        "label": "Nebula README and releases (checked 2026-10-19)",
+        "url": "https://github.com/keepvaibin/nebula"
+      }
+    ]
+  },
+  {
+    "id": "wind-waker-hd-recomp",
+    "game": "The Legend of Zelda: The Wind Waker HD",
+    "console": "Wii U",
+    "project": "Zelda Wind Waker HD Recomp",
+    "url": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android"
+    ],
+    "note": "Wii U version (USA/EUR) recompiled with GX2 reimplemented on Metal/Vulkan. v0.3.0 adds a mod SDK and quest mods; an experimental decomp build exists. Bring your own copy.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "ZeldaWWHDRecomp/ZeldaWWHDRecomp README (checked 2026-10-17)",
+        "url": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp"
+      }
+    ]
+  },
+  {
+    "id": "lasrecomp",
+    "game": "The Legend of Zelda: Link's Awakening (2019)",
+    "console": "Switch",
+    "project": "LAS Recomp",
+    "url": "https://github.com/peiikai/LASRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Switch remake, v1.0.0 files. README says nearly all code was written by Claude, directed by a human. Built-in randomizer, ultrawide. Bring your own copy.",
+    "added": "2026-10-19",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/zelda-links-awakening-pc/",
+    "sources": [
+      {
+        "label": "peiikai/LASRecomp README (checked 2026-10-19)",
+        "url": "https://github.com/peiikai/LASRecomp"
+      },
+      {
+        "label": "XDA Developers: the Switch Link's Awakening remake just got a native PC port (2026-10-14)",
+        "url": "https://www.xda-developers.com/switch-zelda-link-awakening-remake-just-got-native-pc-port-nintendo-probably-isnt-thrilled/"
+      }
+    ]
+  },
+  {
+    "id": "skyrecomp",
+    "game": "The Legend of Zelda: Skyward Sword HD",
+    "console": "Switch",
+    "project": "Sky Recomp",
+    "url": "https://github.com/Apolinario-coder/SkyRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Released as v1.0.3 on 2026-10-18, a day after the repo appeared. Vulkan / Metal, 60 FPS, mouse and keyboard. Needs your own v1.0.0 files.",
+    "added": "2026-10-19",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Apolinario-coder/SkyRecomp README and releases (checked 2026-10-19)",
+        "url": "https://github.com/Apolinario-coder/SkyRecomp"
+      },
+      {
+        "label": "DSOGaming: Skyward Sword HD unofficial PC port released (2026-10-17)",
+        "url": "https://www.dsogaming.com/news/the-legend-of-zelda-skyward-sword-hd-unofficial-pc-port-released/"
+      }
+    ]
+  },
+  {
+    "id": "b2recomp-bayonetta-2",
+    "game": "Bayonetta 2",
+    "console": "Switch",
+    "project": "B2recomp",
+    "url": "https://github.com/K0NL/B2recomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Translates the game on your PC from your own v1.2 ExeFS/RomFS dump; the release is only a builder. Prologue and early chapter 1 played; later chapters untested. Linux build in testing.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/bayonetta-2-pc/",
+    "sources": [
+      {
+        "label": "B2recomp README (checked 2026-10-21)",
+        "url": "https://github.com/K0NL/B2recomp"
+      }
+    ]
+  },
+  {
+    "id": "super-mario-wonder-recomp",
+    "game": "Super Mario Bros. Wonder",
+    "console": "Switch",
+    "project": "Super Mario Bros. Wonder Recomp",
+    "url": "https://github.com/BelmanteGu/SuperMarioWonderRecomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "macOS",
+      "Windows",
+      "Linux",
+      "Android"
+    ],
+    "note": "AArch64-to-C++ recomp with NVN reimplemented on Vulkan. Title, menus, world map and course 1-1 run at 60 fps. No releases: build from your own 1.0.0 dump, keys and firmware.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/super-mario-wonder-pc/",
+    "sources": [
+      {
+        "label": "SuperMarioWonderRecomp README (checked 2026-10-21)",
+        "url": "https://github.com/BelmanteGu/SuperMarioWonderRecomp"
+      }
+    ]
+  },
+  {
+    "id": "smo-recomp",
+    "game": "Super Mario Odyssey",
+    "console": "Switch",
+    "project": "smo-recomp",
+    "url": "https://github.com/Coz-0/smo-recomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "Built on the ssbu-recomp runtime with a Vulkan renderer. README says early: played up to Cascade Kingdom. No releases; build from source with your own 1.0.0 dump.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "smo-recomp README (checked 2026-10-17)",
+        "url": "https://github.com/Coz-0/smo-recomp"
+      }
+    ]
+  },
+  {
+    "id": "opensmash-ultimate",
+    "game": "Super Smash Bros. Ultimate",
+    "console": "Switch",
+    "project": "OpenSmash-Ultimate (ssbu-recomp)",
+    "url": "https://github.com/Denkishi/ssbu-recomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows"
+    ],
+    "note": "AArch64-to-C recomp with a Vulkan renderer; version 13.0.4/13.0.5, your own dump and keys. 1v1 matches work; AI-built per README.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/super-smash-bros-ultimate-pc/",
+    "sources": [
+      {
+        "label": "ssbu-recomp README (checked 2026-10-20)",
+        "url": "https://github.com/Denkishi/ssbu-recomp"
+      }
+    ]
+  },
+  {
+    "id": "windowsmash-ssbu",
+    "game": "Super Smash Bros. Ultimate",
+    "console": "Switch",
+    "project": "WindowSmash",
+    "url": "https://github.com/SNO2207/WindowSmash",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "ARM64-to-C recompiler plus D3D11 runtime, built on your PC from your own copy, keys and firmware. Menus and matches run; Local Wireless online experimental.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/super-smash-bros-ultimate-pc/",
+    "sources": [
+      {
+        "label": "WindowSmash README (checked 2026-10-20)",
+        "url": "https://github.com/SNO2207/WindowSmash"
+      }
+    ]
+  },
+  {
+    "id": "lcs-recomp",
+    "game": "Grand Theft Auto: Liberty City Stories (PSP)",
+    "console": "Other",
+    "project": "LCS Recomp",
+    "url": "https://github.com/elmasas/lcs-recomp",
+    "method": "Static recompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "PSPRecomp port of the US PSP release (v1.05, ULUS-10041); mouse and keyboard, 60 fps. Needs your own decrypted EBOOT and PSP_GAME folder; PS2 version not supported.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/gta-liberty-city-stories-pc/",
+    "sources": [
+      {
+        "label": "lcs-recomp README (checked 2026-10-20)",
+        "url": "https://github.com/elmasas/lcs-recomp"
+      }
+    ]
+  },
+  {
+    "id": "gen2recomped",
+    "game": "Pokémon Gold, Silver and Crystal (Game Boy Color)",
+    "console": "Other",
+    "project": "Gen2Recomped",
+    "url": "https://github.com/UNDERdecoded/Gen2Recomped",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android",
+      "iOS",
+      "Switch",
+      "Xbox (Dev Mode)"
+    ],
+    "note": "Fork of Gen1Recomp with its own Gen 2 engine: Johto, day/night, breeding. Also imports FireRed, Emerald and DS games (alpha). Your own ROMs only.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Gen2Recomped README (checked 2026-10-21)",
+        "url": "https://github.com/UNDERdecoded/Gen2Recomped"
+      }
+    ]
+  },
+  {
+    "id": "gen1recomp",
+    "game": "Pokémon Red, Blue and Yellow (Game Boy)",
+    "console": "Other",
+    "project": "G1R Deluxe (Gen1Recomp)",
+    "url": "https://github.com/bryanthaboi/gen1recomp",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS",
+      "Android",
+      "iOS",
+      "Switch",
+      "PS4",
+      "Xbox (Dev Mode)"
+    ],
+    "note": "Not a true recompilation: a hand-written Lua engine ported from the pret disassemblies. Data is decoded from your own US ROM. Gold to Emerald support added, still in beta.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/pokemon-red-blue-pc/",
+    "sources": [
+      {
+        "label": "gen1recomp README (checked 2026-10-21)",
+        "url": "https://github.com/bryanthaboi/gen1recomp"
+      }
+    ]
+  },
+  {
+    "id": "sonic-mania-decompilation",
+    "game": "Sonic Mania",
+    "console": "Other",
+    "project": "Sonic Mania Decompilation (RSDKv5)",
+    "url": "https://github.com/RSDKModding/Sonic-Mania-Decompilation",
+    "method": "Decompilation",
+    "stage": "Working",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Switch",
+      "Android"
+    ],
+    "note": "Full source rebuild of Mania and its Retro Engine v5. Uses data from an official release (PC, Switch, PS4, Xbox One). Adds a built-in mod loader and builds for systems the game never shipped on.",
+    "added": "2026-10-17",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "Sonic-Mania-Decompilation README (checked 2026-10-17)",
+        "url": "https://github.com/RSDKModding/Sonic-Mania-Decompilation"
+      }
+    ]
+  },
+  {
+    "id": "daytona-usa-recomp",
+    "game": "Daytona USA (arcade, Sega Model 2)",
+    "console": "Other",
+    "project": "Daytona USA static recompilation",
+    "url": "https://github.com/alphanu1/daytona-arcade-recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS",
+      "PS Vita"
+    ],
+    "note": "i960, TGP and sound code recompiled to C++, video hardware rewritten natively. No releases: setup builds it from your own MAME ROM set (daytona93 or daytona). Vita port near full speed.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "daytona-arcade-recomp README (checked 2026-10-21)",
+        "url": "https://github.com/alphanu1/daytona-arcade-recomp"
+      }
+    ]
+  },
+  {
+    "id": "megaman-x-snes-recomp",
+    "game": "Mega Man X (SNES)",
+    "console": "Other",
+    "project": "Mega Man X Recompiled",
+    "url": "https://github.com/mstan/MegaManXSNESRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "snesrecomp port with adaptive widescreen, playable Zero, co-op, rollback netplay and X2/X3 weapons. Frequent alpha releases. Needs your own Mega Man X (USA) Rev 1 ROM.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "MegaManXSNESRecomp README (checked 2026-10-21)",
+        "url": "https://github.com/mstan/MegaManXSNESRecomp"
+      }
+    ]
+  },
+  {
+    "id": "metroidprimehuntersrecomp",
+    "game": "Metroid Prime Hunters (Nintendo DS)",
+    "console": "Other",
+    "project": "MetroidPrimeHuntersRecomp",
+    "url": "https://github.com/mstan/MetroidPrimeHuntersRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "ndsrecomp port of the USA rev 0 release: widescreen, mouse aim, Wiimmfi online (experimental). Public alpha with known crashes; needs your own ROM, no BIOS dump required.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "MetroidPrimeHuntersRecomp README (checked 2026-10-21)",
+        "url": "https://github.com/mstan/MetroidPrimeHuntersRecomp"
+      }
+    ]
+  },
+  {
+    "id": "nfsu2-recompiled",
+    "game": "Need for Speed: Underground 2 (PC)",
+    "console": "Other",
+    "project": "NFSU2 Recompiled (Android Evolved)",
+    "url": "https://github.com/codepdbh/nfsu2-recompiled",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Android",
+      "Windows"
+    ],
+    "note": "SPEED2.EXE recompiled to C with a pcrecomp fork; Android APKs with touch controls and DXVK on Vulkan. Quick races and free roam load; needs your own PC game files.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "nfsu2-recompiled README (checked 2026-10-21)",
+        "url": "https://github.com/codepdbh/nfsu2-recompiled"
+      }
+    ]
+  },
+  {
+    "id": "cps2recomp",
+    "game": "Street Fighter Alpha 2, Vampire Savior and other CPS-2 games (Arcade)",
+    "console": "Other",
+    "project": "CPS-2 Recomp",
+    "url": "https://github.com/tmcleroy/cps2recomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "One launcher for ten Capcom CPS-2/CPS-1 games, each with training modes and widescreen. Fighters play start to finish; needs your own ROM set of the exact listed version.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "cps2recomp README (checked 2026-10-21)",
+        "url": "https://github.com/tmcleroy/cps2recomp"
+      }
+    ]
+  },
+  {
+    "id": "super-mario-world-snes-recomp",
+    "game": "Super Mario World (SNES)",
+    "console": "Other",
+    "project": "SuperMarioWorldRecomp",
+    "url": "https://github.com/mstan/SuperMarioWorldRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "65816 CPU code recompiled to C with snesrecomp; PPU and audio run on a LakeSnes-derived core. Believed fully playable, verified through World 3. Needs your own USA ROM.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "SuperMarioWorldRecomp README (checked 2026-10-21)",
+        "url": "https://github.com/mstan/SuperMarioWorldRecomp"
+      }
+    ]
+  },
+  {
+    "id": "super-metroid-snesrecomp",
+    "game": "Super Metroid (SNES)",
+    "console": "Other",
+    "project": "SuperMetroidSNESRecomp",
+    "url": "https://github.com/mstan/SuperMetroidRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "note": "Recompiles the 65816 CPU code with snesrecomp; PPU and audio still emulated. Boots, plays and saves; optional widescreen mod. Releases for Win/Linux/macOS. Bring your own ROM.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "SuperMetroidRecomp README (checked 2026-10-21)",
+        "url": "https://github.com/mstan/SuperMetroidRecomp"
+      }
+    ]
+  },
+  {
+    "id": "alttp-snesrecomp",
+    "game": "The Legend of Zelda: A Link to the Past (SNES)",
+    "console": "Other",
+    "project": "ZeldaAlttPSNESRecomp",
+    "url": "https://github.com/mstan/ZeldaAlttPSNESRecomp",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "snesrecomp preview: CPU code recompiled to C, PPU and audio via an embedded snes9x core. Verified through the early dungeon. Windows releases (older Linux AppImage). Own USA ROM needed.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "ZeldaAlttPSNESRecomp README (checked 2026-10-21)",
+        "url": "https://github.com/mstan/ZeldaAlttPSNESRecomp"
+      }
+    ]
+  },
+  {
+    "id": "triaevum-oot3d",
+    "game": "The Legend of Zelda: Ocarina of Time 3D (3DS)",
+    "console": "Other",
+    "project": "TriAevum: Echoes of Time",
+    "url": "https://github.com/coccofresco/TriAevum",
+    "method": "Static recompilation",
+    "stage": "Beta",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "note": "AOT recomp of the 3DS remake with a Vulkan renderer, single-screen UI and 60/90 fps interpolation. Alpha/beta pre-releases; tested mainly in early areas. Needs your own decrypted ROM.",
+    "added": "2026-10-21",
+    "lastChecked": "2026-10-21",
+    "entry": "https://portedgames.com/zelda-ocarina-of-time-3d-pc/",
+    "sources": [
+      {
+        "label": "TriAevum README (checked 2026-10-21)",
+        "url": "https://github.com/coccofresco/TriAevum"
+      }
+    ]
+  },
+  {
+    "id": "psp-web-recomp",
+    "game": "God of War: Chains of Olympus, Ghost of Sparta (PSP)",
+    "console": "Other",
+    "project": "psp-web-recomp",
+    "url": "https://github.com/snuri00/psp-web-recomp",
+    "method": "Static recompilation",
+    "stage": "Early",
+    "platforms": [
+      "Browser (WebGL2, built locally)"
+    ],
+    "note": "Same author as ps2-web-recomp: your own PSP disc becomes a local browser page. Two God of War games run; needs your own decrypted EBOOT.",
+    "added": "2026-10-19",
+    "lastChecked": "2026-10-21",
+    "entry": null,
+    "sources": [
+      {
+        "label": "psp-web-recomp README (checked 2026-10-19)",
+        "url": "https://github.com/snuri00/psp-web-recomp"
+      },
+      {
+        "label": "Hacker News: God of War on PSP recompiled to WebAssembly (7 Oct 2026)",
+        "url": "https://news.ycombinator.com/item?id=49991243"
+      }
+    ]
+  }
+]
