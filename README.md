@@ -8,6 +8,8 @@ Overview page with charts and download links: **[wangxiaoxiang5599.github.io/rec
 
 None of these projects include the game. Every one needs files from your own copy, and nothing here hosts or links game files, ROMs or ISOs.
 
+Archived on Zenodo: [doi:10.5281/zenodo.23555376](https://doi.org/10.5281/zenodo.23555376) (snapshot v1.0.0; each GitHub release is archived automatically).
+
 ## The list
 
 <!-- list:start -->
