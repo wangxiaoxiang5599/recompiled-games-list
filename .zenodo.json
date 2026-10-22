@@ -1,0 +1,13 @@
+{
+  "title": "Recompiled games list: fan native PC ports of console games (dataset)",
+  "upload_type": "dataset",
+  "description": "<p>An open list of fan projects that turn console games into native PC programs instead of running them in an emulator: static recompilations (N64Recomp, XenonRecomp, ReXGlue, DolRecomp), decompilations, game-specific runtimes and single-game emulator forks. Each row has the game, console, project repository, method, status, PC platforms, dates and sources. JSON and CSV.</p><p>It is the data behind <a href=\"https://portedgames.com/recompiled-games/\">portedgames.com/recompiled-games</a>, part of <a href=\"https://portedgames.com/\">PortedGames</a>, where every project's status is re-checked daily. No game files are included or linked.</p>",
+  "creators": [{"name": "PortedGames"}],
+  "license": "cc-by-4.0",
+  "keywords": ["video games", "static recompilation", "decompilation", "game preservation", "PC ports", "N64Recomp", "XenonRecomp"],
+  "related_identifiers": [
+    {"identifier": "https://portedgames.com/recompiled-games/", "relation": "isSupplementTo", "resource_type": "dataset"},
+    {"identifier": "https://portedgames.com/", "relation": "isPartOf"},
+    {"identifier": "https://wangxiaoxiang5599.github.io/recompiled-games-list/", "relation": "isDocumentedBy"}
+  ]
+}
