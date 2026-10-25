@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Recompiled Games List: Open Data</title>
-<meta name="description" content="Open list of 244 fan projects that turn console games into native PC programs (static recompilations, decompilations and game-specific runtimes), with status checked daily. JSON and CSV, CC BY 4.0.">
+<meta name="description" content="Open list of 250 fan projects that turn console games into native PC programs (static recompilations, decompilations and game-specific runtimes), with status checked daily. JSON and CSV, CC BY 4.0.">
 <style>
 :root{--bg:#f7f6f2;--card:#fff;--ink:#1b1d22;--muted:#5d626d;--line:#e3e0d8;--accent:#1c7ed6;--bar:#c5dcf3}
 @media (prefers-color-scheme:dark){:root{--bg:#0f1115;--card:#171a20;--ink:#e9eaee;--muted:#a0a5b0;--line:#2a2e37;--accent:#4dabf7;--bar:#1f3a55}}
@@ -37,25 +37,25 @@ footer{margin-top:48px;padding-top:16px;border-top:1px solid var(--line);color:v
 <body>
 <div class="wrap">
 <h1>Recompiled games: open data</h1>
-<p class="lead">Fan projects that turn old console games into native PC programs instead of running them in an emulator: static recompilations, decompilations, game-specific runtimes and single-game emulator forks. This is the data behind the <a href="https://portedgames.com/recompiled-games/">PortedGames recompiled games list</a>, where every project is listed with its status and what you need to run it. Re-checked daily; last update Oct 24, 2026.</p>
+<p class="lead">Fan projects that turn old console games into native PC programs instead of running them in an emulator: static recompilations, decompilations, game-specific runtimes and single-game emulator forks. This is the data behind the <a href="https://portedgames.com/recompiled-games/">PortedGames recompiled games list</a>, where every project is listed with its status and what you need to run it. Re-checked daily; last update Oct 25, 2026.</p>
 
 <div class="stats">
-<div class="stat"><b>244</b><span>projects across 12 platforms</span></div>
-<div class="stat"><b>76</b><span>marked working, plus 112 in beta</span></div>
+<div class="stat"><b>250</b><span>projects across 12 platforms</span></div>
+<div class="stat"><b>77</b><span>marked working, plus 117 in beta</span></div>
 <div class="stat"><b>Xbox 360</b><span>most projects (62)</span></div>
-<div class="stat"><b>213 / 134 / 94</b><span>build for Windows / Linux / macOS</span></div>
+<div class="stat"><b>218 / 137 / 96</b><span>build for Windows / Linux / macOS</span></div>
 </div>
 
 <h2>By console</h2>
 <div class="bars">
 <div class="bar"><span><a href="https://portedgames.com/recompiled-games/xbox-360/">Xbox 360</a></span><i><span style="width:100%"></span></i><span>62</span></div>
 <div class="bar"><span><a href="https://portedgames.com/recompiled-games/n64/">N64</a></span><i><span style="width:56%"></span></i><span>35</span></div>
+<div class="bar"><span><a href="https://portedgames.com/recompiled-games/xbox/">Xbox</a></span><i><span style="width:40%"></span></i><span>25</span></div>
 <div class="bar"><span><a href="https://portedgames.com/recompiled-games/">PS2</a></span><i><span style="width:37%"></span></i><span>23</span></div>
 <div class="bar"><span><a href="https://portedgames.com/recompiled-games/ps1/">PS1</a></span><i><span style="width:32%"></span></i><span>20</span></div>
 <div class="bar"><span><a href="https://portedgames.com/recompiled-games/ps4/">PS4</a></span><i><span style="width:32%"></span></i><span>20</span></div>
 <div class="bar"><span><a href="https://portedgames.com/recompiled-games/">Switch</a></span><i><span style="width:32%"></span></i><span>20</span></div>
 <div class="bar"><span><a href="https://portedgames.com/recompiled-games/">Other</a></span><i><span style="width:31%"></span></i><span>19</span></div>
-<div class="bar"><span><a href="https://portedgames.com/recompiled-games/xbox/">Xbox</a></span><i><span style="width:31%"></span></i><span>19</span></div>
 <div class="bar"><span><a href="https://portedgames.com/recompiled-games/gamecube/">GameCube</a></span><i><span style="width:19%"></span></i><span>12</span></div>
 <div class="bar"><span><a href="https://portedgames.com/recompiled-games/ps3/">PS3</a></span><i><span style="width:11%"></span></i><span>7</span></div>
 <div class="bar"><span><a href="https://portedgames.com/recompiled-games/">Wii</a></span><i><span style="width:8%"></span></i><span>5</span></div>
@@ -64,35 +64,35 @@ footer{margin-top:48px;padding-top:16px;border-top:1px solid var(--line);color:v
 
 <h2>By method</h2>
 <div class="bars">
-<div class="bar"><span>Static recompilation</span><i><span style="width:100%"></span></i><span>178</span></div>
-<div class="bar"><span>Decompilation</span><i><span style="width:20%"></span></i><span>35</span></div>
-<div class="bar"><span>Game-specific runtime</span><i><span style="width:16%"></span></i><span>28</span></div>
+<div class="bar"><span>Static recompilation</span><i><span style="width:100%"></span></i><span>184</span></div>
+<div class="bar"><span>Decompilation</span><i><span style="width:19%"></span></i><span>35</span></div>
+<div class="bar"><span>Game-specific runtime</span><i><span style="width:15%"></span></i><span>28</span></div>
 <div class="bar"><span>Emulator fork</span><i><span style="width:2%"></span></i><span>3</span></div>
 </div>
 <p>Static recompilation translates the console's machine code into C or C++ ahead of time (N64Recomp, XenonRecomp, ReXGlue). Decompilation rebuilds readable source that compiles back into the game. PS4 projects mostly run the game's own x86-64 code with a runtime written for that one game. How each method works: <a href="https://portedgames.com/how-it-works/">how fan ports work</a>.</p>
 
 <h2>By status</h2>
 <div class="bars">
-<div class="bar"><span>Working</span><i><span style="width:68%"></span></i><span>76</span></div>
-<div class="bar"><span>Beta</span><i><span style="width:100%"></span></i><span>112</span></div>
-<div class="bar"><span>Early</span><i><span style="width:46%"></span></i><span>51</span></div>
-<div class="bar"><span>Offline</span><i><span style="width:4%"></span></i><span>5</span></div>
+<div class="bar"><span>Working</span><i><span style="width:66%"></span></i><span>77</span></div>
+<div class="bar"><span>Beta</span><i><span style="width:100%"></span></i><span>117</span></div>
+<div class="bar"><span>Early</span><i><span style="width:43%"></span></i><span>50</span></div>
+<div class="bar"><span>Offline</span><i><span style="width:5%"></span></i><span>6</span></div>
 </div>
 
 <h2>Newest projects</h2>
 <ul class="latest">
+<li><a href="https://portedgames.com/black-pc/">Black</a><small>Xbox · Black-Android · Static recompilation · Beta · added Oct 24, 2026</small></li>
+<li><a href="https://portedgames.com/darkwatch-pc/">Darkwatch</a><small>Xbox · Arizona Vamp Recomp · Static recompilation · Beta · added Oct 24, 2026</small></li>
+<li><a href="https://portedgames.com/darkwatch-pc/">Darkwatch</a><small>Xbox · Darkwatch: Darker Edition · Static recompilation · Beta · added Oct 24, 2026</small></li>
 <li><a href="https://portedgames.com/ea-sports-ufc-pc/">EA Sports UFC 3</a><small>PS4 · UFC 3 native PS4 port (UFC3Native) · Game-specific runtime · Working · added Oct 24, 2026</small></li>
 <li><a href="https://portedgames.com/ea-sports-ufc-pc/">EA Sports UFC 4</a><small>PS4 · UFC4-PC-Port · Game-specific runtime · Early · added Oct 24, 2026</small></li>
+<li><a href="https://portedgames.com/xrevive/">Jet Set Radio Future</a><small>Xbox · JSRF Unleashed · Static recompilation · Beta · added Oct 24, 2026</small></li>
+<li><a href="https://portedgames.com/midnight-club-3-pc/">Midnight Club 3: DUB Edition</a><small>Xbox · mcdub3-nx · Static recompilation · Beta · added Oct 24, 2026</small></li>
+<li><a href="https://portedgames.com/midnight-club-3-pc/">Midnight Club 3: DUB Edition Remix</a><small>Xbox · xrevive · Static recompilation · Working · added Oct 24, 2026</small></li>
 <li><a href="https://portedgames.com/mortal-kombat-shaolin-monks-pc/">Mortal Kombat: Shaolin Monks</a><small>Xbox · ShaolinMonks-Android · Static recompilation · Early · added Oct 24, 2026</small></li>
 <li><a href="https://portedgames.com/mvp-baseball-2005-pc/">MVP Baseball 2005</a><small>Xbox · MVP-Baseball-2005-XBERecomp · Static recompilation · Beta · added Oct 24, 2026</small></li>
-<li><a href="https://portedgames.com/mvp-baseball-2005-pc/">MVP Baseball 2005</a><small>GameCube · mvp2005-decomp · Static recompilation · Beta · added Oct 24, 2026</small></li>
-<li><a href="https://portedgames.com/ncaa-football-10-browser/">NCAA Football 10</a><small>Other · NCAA 10 PSP Web Recomp · Static recompilation · Beta · added Oct 24, 2026</small></li>
-<li><a href="https://portedgames.com/tekken-tag-tournament-2-pc/">Tekken Tag Tournament 2 (Wii U Edition)</a><small>Wii U · Tekken Tag 2 Ultimate Edition · Static recompilation · Early · added Oct 24, 2026</small></li>
-<li><a href="https://portedgames.com/the-order-1886-pc/">The Order: 1886</a><small>PS4 · theorder1886-port · Game-specific runtime · Beta · added Oct 24, 2026</small></li>
-<li><a href="https://portedgames.com/nxnative/">Animal Crossing: New Horizons</a><small>Switch · nxnative · Game-specific runtime · Working · added Oct 23, 2026</small></li>
-<li><a href="https://github.com/fliperama86/cvlod_recomp">Castlevania: Legacy of Darkness</a><small>N64 · LodRecomp · Static recompilation · Early · added Oct 23, 2026</small></li>
 </ul>
-<p><a href="https://portedgames.com/recompiled-games/">All 244 projects on PortedGames →</a></p>
+<p><a href="https://portedgames.com/recompiled-games/">All 250 projects on PortedGames →</a></p>
 
 <h2>Download</h2>
 <div class="dl">
