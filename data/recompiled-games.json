@@ -15,7 +15,7 @@
     ],
     "note": "ReXGlue recomp with its own plume renderer; races, Crash mode, audio and videos work, plus online play. Installer needs your own EU or US disc image.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -38,7 +38,7 @@
     ],
     "note": "XenonRecomp build of the 360 version: campaign, multiplayer, split screen, private matches over Steam or LAN. Needs a v1.0.557 disc; no public matchmaking.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/modern-warfare-2-xbox-360-recomp/",
     "sources": [
       {
@@ -61,7 +61,7 @@
     ],
     "note": "Recompiles the 2007 XBLA release with the ReXGlue SDK, not the PS1 original. v1.4.5 (Aug 2026), with title-update builds and Linux ARM64. Needs your own dumped XBLA package.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -89,7 +89,7 @@
     ],
     "note": "XenonRecomp port, playable start to finish; online co-op via the XenonLive launcher. v1.1.2 is the author's final build. Needs your own XBLA package.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -113,7 +113,7 @@
     ],
     "note": "XenonRecomp port of the XBLA prologue, completed start to finish solo and in online co-op. v1.1.3 is the final release; the author has stopped work. Needs your own package.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -136,7 +136,7 @@
     ],
     "note": "ReXGlue recomp with input-lag patches (3 to 1 frame), arcade-tuned slowdown and a boss training mode. Needs your own disc or GoD ISO plus Title Update 1.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -159,7 +159,7 @@
     ],
     "note": "ReXGlue port with its own launcher, mod kit, online versus (beta) and extra modes. Needs your own default.xex and region data or the full ISO; several new modes are still beta.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -183,7 +183,7 @@
     ],
     "note": "Native recompilation with its own D3D12 / Vulkan renderer since v2.0 (more than twice the frame rate of the emulated renderer, per README). Needs your own Xbox 360 copy.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -206,7 +206,7 @@
     ],
     "note": "The first XenonRecomp port: high resolution and frame rates, ultrawide, mod loader. Stable 1.0.x releases. Unofficial Android port by SansNope (APK, Adreno GPUs).",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/sonic-unleashed-pc/",
     "sources": [
       {
@@ -234,7 +234,7 @@
     ],
     "note": "Unofficial port of the Xbox 360 version with graphics settings, native mouse and keyboard aiming, and wide controller support. v1.0.0 is out. Bring your own game files.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -256,7 +256,7 @@
     ],
     "note": "ReXGlue recomp built from your own USA/Europe Rev 1 disc image, with GGPO rollback, ranked lobbies and practice mode. Versus only; based on mahmoud-mess/tekken6-recomp.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/tekken-6-pc/",
     "sources": [
       {
@@ -279,7 +279,7 @@
     ],
     "note": "ReXGlue port up to 4K/60 with ultrawide, custom entrance music and movies, a Mod Maker and an Android build. Installs from your own Xbox 360 disc image.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -301,7 +301,7 @@
     ],
     "note": "ReXGlue-based port with 60 FPS, resolution scaling, ultrawide and mouse controls. Beta releases; README warns of bugs and crashes. US version of the game only.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -324,7 +324,7 @@
     ],
     "note": "ReXGlue recompilation with a native renderer and online play through Epic Online Services. Releases are still betas; leaderboards don't work and Linux builds are untested.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -346,7 +346,7 @@
     ],
     "note": "Never on PC. XenonRecomp with its own D3D11 renderer; all 15 levels play, unlocked fps, mouse and keyboard. Pre-release, campaign only.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/call-of-duty-3-pc/",
     "sources": [
       {
@@ -368,7 +368,7 @@
     ],
     "note": "Second CoD3 port, ReXGlue and D3D12. v2.0 adds recompiled multiplayer with system link and a server list; README says only the first mission was verified.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/call-of-duty-3-pc/",
     "sources": [
       {
@@ -390,7 +390,7 @@
     ],
     "note": "ReXGlue recompilation with keyboard and mouse controls. The README says it is playable but a work in progress, so expect bugs and crashes.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -413,7 +413,7 @@
     ],
     "note": "ReXGlue port with its own Vulkan renderer; README says fully playable start to finish, with DLC and up to 240 fps. Beta releases for Windows; Linux via source or Proton. Own ISO needed.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/dantes-inferno-pc/",
     "sources": [
       {
@@ -436,7 +436,7 @@
     ],
     "note": "US (NTSC-U) release only. Installs from your own ISO; ultrawide, up to unlocked fps, DLSS/FSR, in-game settings and online lobby. Linux package runs the Windows build through Wine.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -459,7 +459,7 @@
     ],
     "note": "ReXGlue port with the TRG launcher (display, graphics, controls, achievements, cheats). Installs from your own XBLA package, exact xex 1.0.0.11 only.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -484,7 +484,7 @@
     ],
     "note": "Prebuilt releases play with your own Xbox 360 or PS3 copy, any region; building it yourself needs the Xbox 360 PAL version. Mod manager and overlays. Same author as NocturneRecomp.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -506,7 +506,7 @@
     ],
     "note": "ReXGlue recompilation of the GOTY release that can be played to the end. Has a launcher, uncapped frame rate and keyboard/mouse. Higher resolution, Vulkan and Linux are still to come.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -528,7 +528,7 @@
     ],
     "note": "ReXGlue recompile; 2.0 renderer based on AnDr3zF's Deck port (D3D12/Vulkan). Free online beta on community servers (EU/SA). Needs your own Xbox 360 ISO.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/fifa-street-pc/",
     "sources": [
       {
@@ -551,7 +551,7 @@
     ],
     "note": "Launcher builds the game from your own copy (GoD package or disc 1 ISO). Single player played through; self-hostable online server. Windows build only tested under Proton.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -575,7 +575,7 @@
     ],
     "note": "Playable preview built on your PC from your own disc (USA release only); rendering bugs, AMD and Intel GPUs not qualified.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/forza-horizon-pc/",
     "sources": [
       {
@@ -597,7 +597,7 @@
     ],
     "note": "Vulkan recomp with launcher; races hold 60 fps (120 optional) and System Link online works. Career and split-screen need more testing. Needs your own EU or US disc image.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -619,7 +619,7 @@
     ],
     "note": "ReXGlue port of the Ultimate Collection (USA): menus, Free Play and races at 60 FPS; full career untested, no Xbox Live. Launcher installs from your own two discs.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -641,7 +641,7 @@
     ],
     "note": "Experimental alpha built with a ReXGlue fork: menus, races, saves and early career work; stutter and rendering issues.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/forza-motorsport-4-pc/",
     "sources": [
       {
@@ -663,7 +663,7 @@
     ],
     "note": "ReXGlue port with a launcher for both discs, Project Forza Plus 4 support and experimental wheel force feedback. Menus and races work; career untested. Needs your own USA Rev 1 discs.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -686,7 +686,7 @@
     ],
     "note": "ReXGlue SDK recomp with a launcher, high frame rates, local achievements and offline leaderboards. Linux and Steam Deck experimental. Needs your own XBLA package.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -709,7 +709,7 @@
     ],
     "note": "AOT recompilation for ARM64 iPhone and iPad with a direct Metal renderer; no JIT needed. Unsigned IPA for sideloading. Needs your own USA retail copy plus Title Update 8.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -731,7 +731,7 @@
     ],
     "note": "ReXGlue recomp based on re-gh2; XInput guitars work. Test version with audio lag and 720p lock; no updates since March 2026.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/guitar-hero-warriors-of-rock-pc/",
     "sources": [
       {
@@ -753,7 +753,7 @@
     ],
     "note": "Recomp of TU23 with a Windows installer that needs your own extracted disc and TU23 file; DLC and real or emulated Toy Pad supported. Public beta, D3D12 only.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -778,7 +778,7 @@
     ],
     "note": "Self-described experimental native port. Imports your own four-disc set, with disc swapping, HDR, upscalers and frame-rate options. Ships no game data.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -800,7 +800,7 @@
     ],
     "note": "Separate ReXGlue project for the Complete Edition: menus, free roam and races work, correct physics above 30 FPS. No releases; build it yourself with your own extracted game.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -823,7 +823,7 @@
     ],
     "note": "Complete Edition only. Recompiled code is generated on your machine by a build script. Career and races play on D3D12. Vulkan is barely tested.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -846,7 +846,7 @@
     ],
     "note": "Closed-source XenonRecomp port aimed at phones (Mali/Adreno, Vulkan), fights at 30 fps; also a Windows build. Needs your own US disc files with the exact default.xex.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -868,7 +868,7 @@
     ],
     "note": "ReXGlue port with a native D3D12 renderer at 60/120 fps, DLC support and a launcher. Work in progress: bugs and crashes expected. Installer imports your own Xbox 360 ISO.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -891,7 +891,7 @@
     ],
     "note": "ReXGlue recompilation, not SpeedBreaker. Playable with rough edges; multiplayer broken. Needs your own ISO, though releases ship nfsmw.exe and an Android APK.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -916,7 +916,7 @@
     ],
     "note": "XenonRecomp-based; up to 4K and ultrawide. Needs your own US Xbox 360 disc (not the PC version). Windows coming soon.",
     "added": "2026-10-19",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/need-for-speed-most-wanted-recomp/",
     "sources": [
       {
@@ -938,7 +938,7 @@
     ],
     "note": "Native Windows port with a launcher that installs from your own disc image; up to 8K, 240 fps, FSR/NIS. Gets past the VENTURE freeze that stops Xenia. Linux via Proton only.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -960,7 +960,7 @@
     ],
     "note": "ReXGlue recomp; races, AI and graphics work, but one car freezes the game and Geometry Wars crashes. Run via a .bat pointing at your own extracted disc. v2 planned.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -983,7 +983,7 @@
     ],
     "note": "ReXGlue port with up to 4x resolution and ultrawide. Early test releases, tested on one PC so far; Linux build experimental. Needs your own USA Xbox 360 disc image.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1005,7 +1005,7 @@
     ],
     "note": "ReXGlue port of the Xbox 360 game: Free Skate, career and replays, unlocked FPS, 2x rendering. One game revision only; needs your own extracted files.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/skate-2-pc/",
     "sources": [
       {
@@ -1031,7 +1031,7 @@
     ],
     "note": "Kinect is emulated so a pad works; real Kinect and webcam motion on Windows. Menus and races play, much still untested. Installs from your own USA/EU disc image.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1053,7 +1053,7 @@
     ],
     "note": "XenonRecomp port, up to 4K/60, all 59 fighters, rollback over Steam and Ranked on community servers (v0.1.7). Installer builds it from your own USA/Europe disc image plus Title Update 3.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/tekken-tag-tournament-2-pc/",
     "sources": [
       {
@@ -1075,7 +1075,7 @@
     ],
     "note": "A separate ReXGlue/XenonRecomp port. 0.9.8 pre-release (12 Oct 2026); README says the whole campaign is playable. USA/Europe disc, no title update. Download includes translated game code.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1101,7 +1101,7 @@
     ],
     "note": "Native x64 port with a D3D11 renderer. The README reports full gameplay with mouse look, video settings and saves. Releases are still 0.1.x pre-releases.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1124,7 +1124,7 @@
     ],
     "note": "ReXGlue port that the README calls playable on Linux, Steam Deck and Windows, with Vulkan and D3D12 renderers. Still 0.0.x releases with known issues listed.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1146,7 +1146,7 @@
     ],
     "note": "ReXGlue recompilation with a native Vulkan renderer and a launcher. Matches and entrances run at 60 fps; beta releases with GPU-specific glitches listed in the README.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1169,7 +1169,7 @@
     ],
     "note": "ReXGlue port of the Xbox 360 version with a launcher. v1.0.0 out, a few days old, with known lighting and frame-rate issues. Needs your own game plus title update 1.0.3.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1192,7 +1192,7 @@
     ],
     "note": "Earlier, separate ReXGlue attempt. Gets in-game with likely bugs per README; source only, no releases, no commits since March 2026.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1214,7 +1214,7 @@
     ],
     "note": "Bare-bones ReXGlue recompilation, build from source only. The README says it reaches in-game but is not playable yet.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1236,7 +1236,7 @@
     ],
     "note": "ReXGlue recompilation of the XBLA version: boots and is drivable, no in-game audio yet. No release; build it with your own XBLA package.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1259,7 +1259,7 @@
     ],
     "note": "A separate group's ReXGlue project based on GOTY TU1. Source only, with no releases. The README lists goals rather than a playable state.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1282,7 +1282,7 @@
     ],
     "note": "ReXGlue port aimed at Android phones: boots, menus and races, but frame rate is far below the console's. Preview APKs; reads your own disc image (.iso).",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1306,7 +1306,7 @@
     ],
     "note": "README says early development and not meant for public use. GTA IV also has an official 2008 PC version.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/gta-iv-xbox-360-recomp/",
     "sources": [
       {
@@ -1328,7 +1328,7 @@
     ],
     "note": "ReXGlue recompilation; early but playable, arcade mode tested at 60 FPS on one PC. v0.2.1 (23 Sep). Needs your own retail XEX.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1351,7 +1351,7 @@
     ],
     "note": "Closed-source XenonRecomp-based port aimed at Android phones (Vulkan, touch controls), plus a Windows build. Fights at 30 FPS per README. Needs your own NTSC-U copy.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1375,7 +1375,7 @@
     ],
     "note": "XenonRecomp/XenosRecomp port of the Xbox 360 game. No releases yet: README says it is not meant for public use until an official release. Needs your own game files.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/sonic-06-pc/",
     "sources": [
       {
@@ -1397,7 +1397,7 @@
     ],
     "note": "ReXGlue port of the 2007 game: 60 fps, up to 4K, ultrawide, mouse and keyboard, System Link co-op. Launcher installs from your own disc dump; Crackdown 2 support in beta.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1419,7 +1419,7 @@
     ],
     "note": "ReXGlue port of the 2008 original by TheSaltTrader, released Sept 2026. The original repository now returns 404; copies by others keep the source but have no release builds.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1451,7 +1451,7 @@
     ],
     "note": "N64Recomp-based native port with RT64 rendering, widescreen, high frame rates and mods; v1.0.x releases. Needs your own copy of the game.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1475,7 +1475,7 @@
     ],
     "note": "N64Recomp port on RT64 with widescreen, high frame rates, mouse/gyro aiming and mods. Played through to the end; US ROM only. Ready-made builds need your own ROM.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/conkers-bad-fur-day-pc/",
     "sources": [
       {
@@ -1498,7 +1498,7 @@
     ],
     "note": "N64Recomp port with Classic and Modern modes: widescreen, high frame rate, free camera, twin-stick aiming. Needs your own US ROM; no macOS build yet.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1524,7 +1524,7 @@
     ],
     "note": "Recomp with widescreen, interpolated frame rates, online play, custom tracks and a built-in mod store. Needs your own US v1.0 or Rev A ROM.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/diddy-kong-racing-pc/",
     "sources": [
       {
@@ -1548,7 +1548,7 @@
     ],
     "note": "N64Recomp port with the RT64 renderer: widescreen, high frame rates, in-game menus and gyro aim. Not built from the DK64 decomp, though it uses its research. Needs your own copy.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1572,7 +1572,7 @@
     ],
     "note": "Built from the GoldenEye decompilation. Full solo campaign and 2-4 player split-screen; pre-1.0, US ROM only. AI-assisted per README.",
     "added": "2026-10-19",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/goldeneye-007-pc/",
     "sources": [
       {
@@ -1596,7 +1596,7 @@
     ],
     "note": "N64Recomp port with mod support. v1.2.2 (25 Sep) for Windows, Linux and macOS; an Android fork exists. Needs your own US ROM.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1620,7 +1620,7 @@
     ],
     "note": "N64Recomp port with RT64: widescreen, high frame rates, mods and texture packs. Releases (v0.9.2) are on GitLab; needs your own US ROM.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/mario-kart-64-pc/",
     "sources": [
       {
@@ -1645,7 +1645,7 @@
     ],
     "note": "HarbourMasters port on libultraship; first stable 1.0.0 release in Feb 2026. Only the US version is supported. Ships no copyrighted assets; you supply your own copy.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1669,7 +1669,7 @@
     ],
     "note": "Harbour Masters port on the Paper Mario DX / pmret decompilation. 1.0 since Sep 2026; needs your own US ROM, assets extracted on first launch.",
     "added": "2026-10-19",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/paper-mario-pc/",
     "sources": [
       {
@@ -1693,7 +1693,7 @@
     ],
     "note": "Builds the Pilotwings 64 decompilation from your own ROM on first start. v1.5.1 (21 Oct): 21:9, high refresh, gamepads, split screen; Android experimental.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1717,7 +1717,7 @@
     ],
     "note": "N64Recomp port with RT64; plays like the cartridge by default, with optional widescreen, high frame rate, gyro/mouse aim and photo export. Needs your own US ROM.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1740,7 +1740,7 @@
     ],
     "note": "N64Recomp port with 60 fps, widescreen, max LOD, split-screen upgrades and experimental online play and MK64 track import. Linux build experimental. Needs your own USA v1.0 ROM.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1763,7 +1763,7 @@
     ],
     "note": "Rush 2 recomp with widescreen, interpolated high frame rates, online races and mods. Add your own Rush 1, Rush 2049 or California Speed ROMs to play their tracks too. Own Rush 2 ROM.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1787,7 +1787,7 @@
     ],
     "note": "N64Recomp + RT64 port: widescreen, high frame rates, mods and texture packs, Steam Deck support. Stable v2.0.2 releases. Needs your own North American copy.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1811,7 +1811,7 @@
     ],
     "note": "N64Recomp port with RT64 and mod support; v1.0.3 is the latest release. Sibling project to Starship. Needs your own copy of the game.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1835,7 +1835,7 @@
     ],
     "note": "HarbourMasters port built on the SF64 decompilation; v2.0.0 release. Base asset extraction needs a US version; EU/JP voices can be added. Ships no copyrighted assets.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1862,7 +1862,7 @@
     ],
     "note": "HarbourMasters port on libultraship; 3.0.0 adds Android and iOS. Supports US and JP versions. Ships no copyrighted assets; you supply your own copy of the game.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1886,7 +1886,7 @@
     ],
     "note": "PC port on the n64decomp source with online co-op for up to 16 players and Lua mods; regular releases (v1.5.1). Needs your own US ROM; ships no assets.",
     "added": "2026-10-19",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/super-mario-64-pc/",
     "sources": [
       {
@@ -1910,7 +1910,7 @@
     ],
     "note": "Decomp-based PC port in the Ship of Harkinian family; stable releases (5.0.1) with DX11, OpenGL and Metal renderers. Ships no assets; you supply a supported copy of the game.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1934,7 +1934,7 @@
     ],
     "note": "Built with N64Recomp and the RT64 renderer; stable releases with widescreen, high frame rates and mod support. Needs your own copy of the game. Ocarina of Time support is planned.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -1958,7 +1958,7 @@
     ],
     "note": "PC port built on the OoT decompilation and libultraship, with frequent stable releases (9.3.1, 18 October 2026) and many enhancements. Ships no assets; you supply a supported copy of the game.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/zelda-ocarina-of-time-pc/",
     "sources": [
       {
@@ -1982,7 +1982,7 @@
     ],
     "note": "N64Recomp port on RT64 with widescreen, high frame rates, extended draw distance and an optional modern water renderer. 1.0 releases. Needs your own USA Rev A ROM.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2004,7 +2004,7 @@
     ],
     "note": "Unofficial N64Recomp and RT64 port, not from the BanjoRecomp team. Alpha 4 releases; much of the code is AI-generated (disclosed). Needs your own NTSC-U 1.0 ROM.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2028,7 +2028,7 @@
     ],
     "note": "N64Recomp port with RT64, widescreen and high frame rates. Releases are still tagged dev (v0.2.0-dev). Needs your own copy of the game; Goemon's Great Adventure is planned.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2053,7 +2053,7 @@
     ],
     "note": "N64Recomp port of the USA Rev A cartridge; PLAN.md says the game runs end to end with saves. Releases for Win/Linux/macOS plus a browser build. Needs your own ROM.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2077,7 +2077,7 @@
     ],
     "note": "Harbour Masters' PaperBoat with Apple touch controls. Releases hold no app: PadMint builds an unsigned IPA on your Mac; you sideload it and import your own US ROM.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2102,7 +2102,7 @@
     ],
     "note": "WIP port of the PD decomp: single player and split-screen work, with mouselook, widescreen and 60 FPS. Minor bugs and occasional crashes; only CI dev builds. Needs your own copy.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2124,7 +2124,7 @@
     ],
     "note": "Japan-only sequel to VPW64, same author and N64Recomp + RT64 stack; beta, pre-release builds. Needs your own ROM.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2146,7 +2146,7 @@
     ],
     "note": "Japan-only AKI wrestler, recompiled with N64Recomp + RT64 by the World Tour author; beta, pre-release builds. Needs your own ROM.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2168,7 +2168,7 @@
     ],
     "note": "N64Recomp + RT64; playable end to end with local 4-player, widescreen and saves. Pre-release builds. Needs your own USA ROM.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2190,7 +2190,7 @@
     ],
     "note": "Same author and N64Recomp + RT64 stack as the World Tour recomp; beta, pre-release builds. Needs your own ROM.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2212,7 +2212,7 @@
     ],
     "note": "N64Recomp + RT64; menus, matches, sound, rumble and flash saves work. Pre-release builds. Needs your own ROM.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2234,7 +2234,7 @@
     ],
     "note": "Part of the same author's AKI wrestling recomp family (N64Recomp + RT64); beta, pre-release builds. Needs your own ROM.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2258,7 +2258,7 @@
     ],
     "note": "N64Recomp-based, with the Zelda64Recomp menu. Work in progress toward stable gameplay; v0.2.28 (22 Oct) builds for Windows, Linux, macOS. Needs your own ROM.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2281,7 +2281,7 @@
     ],
     "note": "Windows fork of SacredFire on bbport/shadPS4. v0.4: FSR 4, frame gen, ultrawide, EU edition. Offline only. Needs your own CUSA13795/CUSA14876 dump + 1.21 update.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/crash-team-racing-nitro-fueled-pc/",
     "sources": [
       {
@@ -2304,7 +2304,7 @@
     ],
     "note": "Runs the PS4 game's own code with replacement system libraries and a shadPS4-based Vulkan renderer. Up to 4K, local co-op. Installs from your own decrypted PKG; Linux experimental.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2327,7 +2327,7 @@
     ],
     "note": "Built on SacredFire/bbport with a shadPS4-derived Vulkan renderer. Career, saves, private online. v0.1.14 (21 Oct). Needs your own CUSA06534 dump + 1.14 update.",
     "added": "2026-10-24",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/ea-sports-ufc-pc/",
     "sources": [
       {
@@ -2350,7 +2350,7 @@
     ],
     "note": "Runs the PS4 game's own code with a runtime written for this game and a shadPS4-derived Vulkan renderer. Frequent releases; known crashes listed in the README.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/god-of-war-3-pc/",
     "sources": [
       {
@@ -2372,7 +2372,7 @@
     ],
     "note": "A shadPS4 fork with patches for this game (EU release). One release (v1.0), not updated since.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/infamous-second-son-pc/",
     "sources": [
       {
@@ -2394,7 +2394,7 @@
     ],
     "note": "Built on the gow3_pc runtime with shadPS4 graphics: 60 FPS (higher experimental), up to 4K, all languages. Needs your own US or EU copy as a folder or fake PKG.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2418,7 +2418,7 @@
     ],
     "note": "C++ and Vulkan rebuild that loads the data from your own PS4 copy.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/pt-pc/",
     "sources": [
       {
@@ -2440,7 +2440,7 @@
     ],
     "note": "Native Windows runtime on the bloodborne_pc loader with shadPS4 graphics; playable to the credits (0.60.3). Needs your own CUSA08809 dump and two sound modules from your console.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/shadow-of-the-colossus-pc/",
     "sources": [
       {
@@ -2463,7 +2463,7 @@
     ],
     "note": "Native Linux runtime; Windows build in Supermedo's fork. A full play-through is not verified per the README.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/bloodborne-pc/",
     "sources": [
       {
@@ -2508,7 +2508,7 @@
     ],
     "note": "Same core as tlg_pc: game code runs natively, PS4 system reimplemented, GPU translated to Vulkan. 30 fps gameplay on Linux; saves/open world still in testing, Windows untested.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2530,7 +2530,7 @@
     ],
     "note": "shadPS4 fork and launcher with fixes for this game, tuned for NVIDIA on Windows. 0.5.0 is faster but flickers more than 0.4.0. Needs your own game dump.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2552,7 +2552,7 @@
     ],
     "note": "Runs the game's own x86-64 code with a game-specific runtime and shadPS4 graphics; forked from the God of War III port. Prologue verified so far.",
     "added": "2026-10-24",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/the-order-1886-pc/",
     "sources": [
       {
@@ -2574,7 +2574,7 @@
     ],
     "note": "All three games from one launcher; DLSS / FSR and frame generation. Known crashes in Uncharted 2 and 3.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/uncharted-nathan-drake-collection-pc/",
     "sources": [
       {
@@ -2597,7 +2597,7 @@
     ],
     "note": "Runs the PS4 executable natively with about 700 reimplemented system functions and shadPS4's video core. Played through chapter 1, not to the end. Needs your own CUSA36381 1.04 dump.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2620,7 +2620,7 @@
     ],
     "note": "PS4 code runs natively; Sony libraries reimplemented, graphics via shadPS4's Vulkan renderer (Windows) or a custom Metal renderer (Intel Mac). Needs your own dump.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/driveclub-pc/",
     "sources": [
       {
@@ -2642,7 +2642,7 @@
     ],
     "note": "shadPS4 fork tuned for Driveclub: launcher, 30/60/120 FPS, ultrawide. Needs your own dump and system files from your own console.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/driveclub-pc/",
     "sources": [
       {
@@ -2664,7 +2664,7 @@
     ],
     "note": "Despite the name, native execution with reimplemented PS4 libraries and Vulkan, not a static recompilation. Races playable per README; no online.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/driveclub-pc/",
     "sources": [
       {
@@ -2686,7 +2686,7 @@
     ],
     "note": "Experimental preview on the UFC 3 port's runtime; Fight Now and early Career tested by the author. One release, 0.0.11-preview.1 (17 Oct). Needs your own CUSA14209 v28.00 dump.",
     "added": "2026-10-24",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/ea-sports-ufc-pc/",
     "sources": [
       {
@@ -2709,7 +2709,7 @@
     ],
     "note": "Built on the gow3_pc / bloodborne_pc runtime with shadPS4 graphics. Gameplay works in 10+ minute sessions; Windows not yet tested in game.",
     "added": "2026-10-19",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/the-last-guardian-pc/",
     "sources": [
       {
@@ -2732,7 +2732,7 @@
     ],
     "note": "PS1 code reverse-engineered back to C, no emulation; fully playable since 2020, build 8.0 (July 2026). Needs your own discs.",
     "added": "2026-10-18",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/redriver2/",
     "sources": [
       {
@@ -2757,7 +2757,7 @@
     ],
     "note": "Java reimplementation of the disassembled PS1 code (not a matching decomp). 3.0.0 out, fully playable per README. Needs your own four US discs.",
     "added": "2026-10-19",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/legend-of-dragoon-pc/",
     "sources": [
       {
@@ -2784,7 +2784,7 @@
     ],
     "note": "psxrecomp showcase title; the author calls releases in-development previews with rough edges (known issues listed). Needs your own copy of the USA game.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2808,7 +2808,7 @@
     ],
     "note": "Open beta (v0.5.1b) made with BlackLabelHQ's RecompOne, using the SOTN decomp for naming and patches. Widescreen, randomizer and mods; 1.0 not out yet. Needs your own copy of the USA PS1 version.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/castlevania-symphony-of-the-night-pc/",
     "sources": [
       {
@@ -2836,7 +2836,7 @@
     ],
     "note": "RecompOne-based recomp built on first launch from your own USA disc (SCUS-94900, .chd or .cue/.bin). Widescreen, up to 240 fps, mods; widescreen still shows edges in some levels.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/crash-bandicoot-pc/",
     "sources": [
       {
@@ -2859,7 +2859,7 @@
     ],
     "note": "Native SDL3/OpenGL port on the CTR-ModSDK decompilation. Playtest betas (beta-7.1, July 2026) with open bugs. Needs your own NTSC-U disc image.",
     "added": "2026-10-19",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/crash-team-racing-pc/",
     "sources": [
       {
@@ -2886,7 +2886,7 @@
     ],
     "note": "PC port built from the matching decompilation; beta releases for Windows and Linux. Needs your own disc image. Same team runs a DW2 Online project.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2909,7 +2909,7 @@
     ],
     "note": "Native port of the five PAL releases: 1080p, true 16:9, HD sprites and textures, CRT filter, save states. Program code ships translated; graphics and sound come from your own disc.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2933,7 +2933,7 @@
     ],
     "note": "Open beta (v0.2b) made with RecompOne, using the MediEvil decomp for naming and patches. Expect game-breaking bugs before 1.0. Needs your own copy of the USA PS1 version.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2957,7 +2957,7 @@
     ],
     "note": "Separate psxrecomp-based project (v0.1.3, release-candidate builds). Needs your own copy of the USA game plus a retail SCPH-1001 BIOS dump; OpenBIOS is not supported.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -2980,7 +2980,7 @@
     ],
     "note": "psxrecomp port of the USA release with widescreen and an alpha X + Zero two-player co-op mod, local or netplay. Playtest builds; needs your own disc image, OpenBIOS included.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3004,7 +3004,7 @@
     ],
     "note": "Recompiler and runtime that turn PS1 executables into C#; needs no BIOS. A developer tool, not a playable port. Powers the MediEvil and Symphony of the Night recomp betas.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3028,7 +3028,7 @@
     ],
     "note": "Source port of the PAL release (SCES-00650) on a PSY-Z compatibility layer, with a modern renderer and widescreen. Alpha releases; assets imported from your own disc.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3054,7 +3054,7 @@
     ],
     "note": "Native port compiled from the PS1 decompilation via PsyCross, AI-assisted. Fully playable per README; Linux and macOS still in progress. Needs your own copy.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/silent-hill-pc/",
     "sources": [
       {
@@ -3083,7 +3083,7 @@
     ],
     "note": "Byte-matching decompilation of the USA game ported to PC: up to 4x resolution, widescreen, 3D monsters, mods and a card editor. Needs your own USA disc image.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3107,7 +3107,7 @@
     ],
     "note": "PSXRecomp-based port, release candidate v0.1.1 (30 Sep) for Windows, Linux and macOS; gameplay not confirmed yet. Needs your own disc and a PS1 BIOS.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3130,7 +3130,7 @@
     ],
     "note": "Builds on the FoxdieTeam mgs_reversing work. alpha.1 (10 Oct), gameplay untested by the author. Needs your own USA discs.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3154,7 +3154,7 @@
     ],
     "note": "PSXRecomp port, v0.1.1 (30 Sep); builds and launches, the release notes make no claim about gameplay. Needs your own disc (SLES-02529) and a PS1 BIOS.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3202,7 +3202,7 @@
     ],
     "note": "psxrecomp-based; boots and plays with rendering, input and memory-card saves, plus a CD-audio stutter fix. Windows releases (v2.1). Needs your own copy of the USA game.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3225,7 +3225,7 @@
     ],
     "note": "Playable start to finish on Vulkan at up to 4x resolution, with save states. No release; the installer builds it from your own European disc (SLES-54627).",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/burnout-dominator-pc/",
     "sources": [
       {
@@ -3247,7 +3247,7 @@
     ],
     "note": "PS2Recomp + paraLLEl-GS on Vulkan: up to 16x resolution, widescreen matches, 4 players. The release is a setup tool that builds the game from your USA disc (SLUS-20639).",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3271,7 +3271,7 @@
     ],
     "note": "Decompiled GOAL code rebuilt with the team's own compiler for x86-64. Jak 1 complete; Jak II and Jak 3 in beta but completable. Needs your own PS2 disc.",
     "added": "2026-10-19",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/jak-and-daxter-pc/",
     "sources": [
       {
@@ -3299,7 +3299,7 @@
     ],
     "note": "PS2Recomp with the PCSX2 renderer: 60 fps, up to 8x resolution, DLSS, online play on a community server. Browser build experimental. Needs your own USA ISO.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3323,7 +3323,7 @@
     ],
     "note": "MIPS code translated to C++ with PCSX2's GS underneath: native 60 fps, real widescreen, up to 8x resolution. Steam Deck installer included. Needs your own USA disc (SLUS-20002).",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3346,7 +3346,7 @@
     ],
     "note": "PC port built on the BT3-Decompiled decompilation; full game loop, Vulkan/OpenGL renderer, experimental online play with rollback. Needs your own USA disc image (SLUS-21678).",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/budokai-tenkaichi-3-pc/",
     "sources": [
       {
@@ -3368,7 +3368,7 @@
     ],
     "note": "PS2Recomp with native VU1, GS, IOP and sound layers; 60 fps in the tested zones. Experimental, no releases or licence; build from your own disc. Switch planned.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/god-of-war-1-pc/",
     "sources": [
       {
@@ -3391,7 +3391,7 @@
     ],
     "note": "Built on KIexster's god-of-war-recomp, adding a Qt launcher, Hor+ widescreen and mouse lock-on. No releases: the installer builds it from your own USA disc image.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/god-of-war-1-pc/",
     "sources": [
       {
@@ -3415,7 +3415,7 @@
     ],
     "note": "Adventure mode and Quick Race playable; widescreen, 120 Hz and upscalers. The app recompiles the game on your device from your own USA disc (SLUS-20398).",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3438,7 +3438,7 @@
     ],
     "note": "PS2Recomp with a native Metal renderer: gameplay at 60 fps on Apple Silicon; Vita build at 18-25 fps. No release; build from your own USA disc. Not the PS4 remake port.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3460,7 +3460,7 @@
     ],
     "note": "Fights playable at 60 fps with native rendering, sound and Hor+ widescreen; some graphics bugs left. No release; build from your own USA disc (SCUS-97197).",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3482,7 +3482,7 @@
     ],
     "note": "Alpha PS2Recomp port; playable development builds near 53 fps. Releases are source kits only; a clean public build is not yet verified through gameplay.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3504,7 +3504,7 @@
     ],
     "note": "Versus battles playable with a controller and every mode runs; saving and 60 fps battles still in progress. No release; needs your own USA disc (SLUS-21441).",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3528,7 +3528,7 @@
     ],
     "note": "Menus and fights playable per README; no releases yet, so it must be built from source with your own copy. Linux first, macOS experimental.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3550,7 +3550,7 @@
     ],
     "note": "PS2Recomp-based, using Waffle565's native runtime. Boots to the ship fight; full playthrough still pending. Source only, no releases. Needs your own copy (NTSC-U).",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/god-of-war-1-pc/",
     "sources": [
       {
@@ -3570,7 +3570,7 @@
     "platforms": [],
     "note": "Planned native port built on the gt4-decomp decompilation. Only tooling and a bootstrap so far; the README says no playable build exists yet.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3594,7 +3594,7 @@
     ],
     "note": "Toolchain: turns your own disc into a page you run in your own browser (WebGPU). Two games brought up so far. Nothing playable online.",
     "added": "2026-10-19",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3620,7 +3620,7 @@
     ],
     "note": "PS2Recomp plus PCSX2's renderer. Alpha (v0.1.3, 22 Oct): menus and first mission work; mouse aim, 120+ fps, ultrawide. Needs your own NTSC-U disc (SCUS-97402).",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3643,7 +3643,7 @@
     ],
     "note": "Experimental recompiler and runtime that turns PS2 ELF code into C++; a developer tool, not a playable port. Per-game projects build on it.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3665,7 +3665,7 @@
     ],
     "note": "Alpha: reaches the first scenario on PS2Recomp but runs about 35x slower than real time, with no sound yet. No release; build from your own disc.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3685,7 +3685,7 @@
     "platforms": [],
     "note": "Matching decompilation, about 70% of the game modules in C so far; the native PC port has not started. Nothing to play yet.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3707,7 +3707,7 @@
     ],
     "note": "Boots into missions from your own disc; online rounds work on the project's test server, but two-player online and full frame rate are not done. No public download yet.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3729,7 +3729,7 @@
     ],
     "note": "PS2Recomp to native Linux; not playable yet (reaches the title screen and main menu). No releases; build it with your own USA disc (SCUS-971.77).",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3752,7 +3752,7 @@
     ],
     "note": "BLUS31197 recompiled on ps3recomp with D3D12/Metal/Vulkan rendering. README reports chapter 1 playable at 60 fps; tested on few machines so far. Bring your own copy.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3774,7 +3774,7 @@
     ],
     "note": "Furthest-along PS3 recomp: the game's own bot cleared all 45 Quickplay songs. 30-40 fps in songs, no guitar controller support yet. Source only, you build it yourself.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3803,7 +3803,7 @@
     ],
     "note": "Recompiles the PSP game code inside the PS3 HD release (NPJB-40001) and runs it on a PSP system reimplementation. Hunts, saves, ad hoc multiplayer work. Bring your own image.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/monster-hunter-portable-3rd-pc/",
     "sources": [
       {
@@ -3825,7 +3825,7 @@
     ],
     "note": "PSN title recompiled with ps3recomp. Menus, saves and the arcade game play, plus online co-op via a PSN stand-in. Gameplay runs 35-57 fps. Source only.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3848,7 +3848,7 @@
     ],
     "note": "PS3 code converted to run natively. Playable from the start through Boletarian Palace 1-1. No release yet: build from source with your own US copy (BLUS30443).",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3870,7 +3870,7 @@
     ],
     "note": "thatgamecompany's PSN debut, every function lifted to C on ps3recomp. Engine loop and D3D12 level rendering work; not yet a normal playable build. Linux planned.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3892,7 +3892,7 @@
     ],
     "note": "God of War II HD (PS3, NPUA80491) recompiled to native Apple silicon with Metal; Rhodes gameplay works. Kit builds from your own copy; no Windows build yet.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/god-of-war-2-pc/",
     "sources": [
       {
@@ -3914,7 +3914,7 @@
     ],
     "note": "Made with TGP482's Xbox XBE Recomp; game code is compiled on first start. Mouse/keyboard, any resolution, uncapped FPS, FOV 45-140. Needs your own USA or EU Xbox copy.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/black-pc/",
     "sources": [
       {
@@ -3939,7 +3939,7 @@
     ],
     "note": "xboxrecomp-based port of the NTSC-U Xbox release: up to 4x resolution, ultrawide, HDR, 60 fps split screen. Grew out of sp00nznet/burnout3. Needs your own US disc image.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/burnout-3-pc/",
     "sources": [
       {
@@ -3961,7 +3961,7 @@
     ],
     "note": "x86 recomp with a new D3D12 renderer (PBR, shadows, reflections). Needs your own PAL Xbox copy; the 5 GB release also bundles AI-upscaled versions of the game's textures.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -3986,7 +3986,7 @@
     ],
     "note": "Xbox version recompiled to native code; the author calls it mature. v0.10.7 (22 Oct) for Windows, macOS and Linux. Needs your own USA Xbox dump. No licence file.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4009,7 +4009,7 @@
     ],
     "note": "Closed-source launcher downloads a precompiled EXE for your own Remix disc; online on fan-run XB Online, save editor. Linux via Wine/Proton. No source published.",
     "added": "2026-10-24",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/midnight-club-3-pc/",
     "sources": [
       {
@@ -4054,7 +4054,7 @@
     ],
     "note": "Original Xbox version recompiled with the author's XboxXBE-Recomp tool; D3D12, high FPS, mouse and keyboard, online co-op. Code is compiled on first run from your own ISO.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4076,7 +4076,7 @@
     ],
     "note": "Separate arm64 Android port with XboxXBE-Recomp; Vulkan, touch + gyro aim, controller. v1.7.0 (24 Oct); crash reports open. Needs your own US/EU Xbox copy.",
     "added": "2026-10-24",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/black-pc/",
     "sources": [
       {
@@ -4098,7 +4098,7 @@
     ],
     "note": "Static recomp on TGP482's XboxXBERecomp, Direct3D 12; restores the PS2-only two-player co-op. Beta; release has no game code, built on first start. Needs your own USA Xbox copy.",
     "added": "2026-10-24",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/darkwatch-pc/",
     "sources": [
       {
@@ -4120,7 +4120,7 @@
     ],
     "note": "Separate XboxXBERecomp port: HD texture pack, playable Cassidy, beta co-op, Proton test build for Linux. The Windows exe contains recompiled game code. Needs your NTSC-U Xbox ISO.",
     "added": "2026-10-24",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/darkwatch-pc/",
     "sources": [
       {
@@ -4144,7 +4144,7 @@
     ],
     "note": "Recompiled to C with a hand-written runtime; fully playable since 0.4 Beta, some rendering incomplete. Setup builds the game on your PC from your own USA ISO.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4169,7 +4169,7 @@
     ],
     "note": "Port of the Halo CE Xbox decompilation (bnunu/punpckhdq lineage), rebuilt for every platform on each commit, with an arm64 Android target. Game data not included.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4195,7 +4195,7 @@
     ],
     "note": "xboxrecomp port of the US disc; playable but early, not yet played start to finish. Mac main build; Windows tested under Wine. Also offered inside xrevive. v0.5.5 (24 Oct).",
     "added": "2026-10-24",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/xrevive/",
     "sources": [
       {
@@ -4220,7 +4220,7 @@
     ],
     "note": "xboxrecomp port of the original DUB Edition (US/EU). Switch playable to 100% at 20-25 fps; Mac/Linux 30 fps; Windows experimental. Releases are Switch .nro only; PC builds from your disc.",
     "added": "2026-10-24",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/midnight-club-3-pc/",
     "sources": [
       {
@@ -4242,7 +4242,7 @@
     ],
     "note": "Native Windows recompilation of the Xbox version, built with XboxXBERecomp. Public beta v0.1.0; needs your own Xbox game files; no further development planned.",
     "added": "2026-10-24",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/mvp-baseball-2005-pc/",
     "sources": [
       {
@@ -4266,7 +4266,7 @@
     ],
     "note": "Pre-release builds (v0.9.29, 23 Oct) for Windows and Linux; Mac build compiled yourself. GPL-3.0. US disc (title ID 5443000D). Also offered inside xrevive.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/xrevive/",
     "sources": [
       {
@@ -4288,7 +4288,7 @@
     ],
     "note": "USA Xbox release recompiled with xboxrecomp to D3D11. Frontend, races at 60 fps and saves work; marked work in progress. Repo holds no game code. Bring your own disc.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4310,7 +4310,7 @@
     ],
     "note": "Reference title for xboxrecomp. Every mode boots and plays, split-screen too, but the GPU is emulated in software: races run at 2-4 fps. Installer builds it from your own ISO.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4332,7 +4332,7 @@
     ],
     "note": "Windows port (Vulkan, xboxrecomp) despite the PS5 name; lightmaps and multiplayer missing. Release has no files, but a prebuilt exe is committed to the repo. No updates since 10-18.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/darkwatch-pc/",
     "sources": [
       {
@@ -4354,7 +4354,7 @@
     ],
     "note": "Attempt at recompiling the original Xbox FIFA Street 2 with xboxrecomp. Reaches the recompiled entry point but opens no window yet. Not the 2012 FIFA Street PC port.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4376,7 +4376,7 @@
     ],
     "note": "The 2005 Xbox version recompiled with xboxrecomp. Boots to its own main menu background with real textures, but the README says it is not playable yet.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4396,7 +4396,7 @@
     "platforms": [],
     "note": "Matching decompilation of the retail Xbox Halo 2; about 45% of game code matched byte for byte. No native PC port yet, so nothing to play.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4442,7 +4442,7 @@
     ],
     "note": "Toolkit that lifts a retail XBE's x86 code to C and links it to a kernel/D3D8 runtime; a developer tool, not a playable port. Used by Burnout 3, SSX Tricky and HL2 recomps.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4464,7 +4464,7 @@
     ],
     "note": "SDK that recompiles original Xbox XBE code to C++ with D3D8 on D3D12; a developer tool, not a playable port. Used for the BLACK and Splinter Cell: Double Agent ports.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4487,7 +4487,7 @@
     ],
     "note": "Recomp with Aurora-based rendering, high frame rates, ultrawide, optional enhanced lighting and restored cut content. Builds itself on first start from your own USA or PAL disc.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/luigis-mansion-pc/",
     "sources": [
       {
@@ -4512,7 +4512,7 @@
     ],
     "note": "Native port built on the PrimeDecomp decomp with the Aurora layer. Near-daily releases; macOS build very experimental. NOTICE says src/ is Nintendo's code. Needs your own USA or PAL disc.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/metroid-prime-pc/",
     "sources": [
       {
@@ -4538,7 +4538,7 @@
     ],
     "note": "Built on Yannick Suter's decompilation with Aurora. v1.3.0 (22 Sep): widescreen, high FPS, texture packs, US/EU/JP discs. Needs your own disc image. No licence file.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4564,7 +4564,7 @@
     ],
     "note": "Native port built on the finished zeldaret TP decomp and Aurora. 2.0 (Sep 2026) added mods and a randomizer; takes all retail GameCube and Wii discs except Korean Wii, with the GameCube HUD. Own disc.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/zelda-twilight-princess-pc/",
     "sources": [
       {
@@ -4590,7 +4590,7 @@
     ],
     "note": "Native Windows port on the ac-decomp decompilation, GX translated to OpenGL 3.3. Playtest builds (v0.9.3); needs your own US disc. AI-assisted port code (disclosed).",
     "added": "2026-10-19",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/animal-crossing-pc/",
     "sources": [
       {
@@ -4618,7 +4618,7 @@
     ],
     "note": "Built with DolRecomp and a GX runtime; v0.8.1 adds save-anywhere slots and HD texture support. Only the European disc (GEDP01) is accepted. Bring your own disc.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4640,7 +4640,7 @@
     ],
     "note": "GameCube (GV4E69 rev 0) recompiled from PowerPC to WebAssembly with its own runtime. Full games and online play in a browser; self-hosted. README says it is driven by Claude.",
     "added": "2026-10-24",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/mvp-baseball-2005-pc/",
     "sources": [
       {
@@ -4664,7 +4664,7 @@
     ],
     "note": "PowerPC-to-C recomp on a Dolphin-derived Vulkan runtime; playable start to finish, widescreen, delay-based netplay. Recompiles from your own disc on first run. Windows build is a test build.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4688,7 +4688,7 @@
     ],
     "note": "Native port of the NTSC-U release built from a matching decomp. Plays on Linux and macOS; Windows still being checked. SMS Launcher builds it from your own disc.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4717,7 +4717,7 @@
     ],
     "note": "DolRecomp AOT recomp on a Dolphin-derived Metal runtime, with touch controls. The release app has no game code; PadMint builds your IPA from your own GMSE01 disc. Apple TV experimental.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4743,7 +4743,7 @@
     ],
     "note": "Native port of NTSC-U 1.02 from the doldecomp Melee decomp on Aurora. Self-described beta for testing; all modes boot, rollback netplay still in development. Bring your own disc.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4769,7 +4769,7 @@
     ],
     "note": "DolRecomp-based recompilation with a Dolphin-derived runtime. The ready-made Windows build includes translated game code; other platforms are built from your disc. US GZLE01 only.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/zelda-wind-waker-pc/",
     "sources": [
       {
@@ -4792,7 +4792,7 @@
     ],
     "note": "WiiCompiled recomp with up to 4K, cinematic widescreen and 120 fps interpolation. Release bundles community HQ music and HD texture mods. Needs your own USA or EUR disc image.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4816,7 +4816,7 @@
     ],
     "note": "Mario Kart Wii and Retro Rewind on Android (ready-made APK with translated game code) and iPhone/iPad/Mac (built from your disc with PadMint). Built on WiiCompiled. Own PAL disc.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/mario-kart-wii-pc/",
     "sources": [
       {
@@ -4840,7 +4840,7 @@
     ],
     "note": "First Wii static recompilation, by patchzyy (Retro Rewind / Wheel Wizard). Translation runs locally against your own PAL disc. Interpolated high frame rates, any aspect ratio, Retro Rewind support.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/mario-kart-wii-pc/",
     "sources": [
       {
@@ -4863,7 +4863,7 @@
     ],
     "note": "Built on WiiCompiled; v0.1.1 (14 Oct 2026) adds LAN/Tailscale co-op, touch controls and ultrawide. USA SMNE01 rev 1 disc only. Downloads include the game's code in translated form.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4889,7 +4889,7 @@
     ],
     "note": "1.0 released 13 Oct 2026; playable from the start, work in progress. Compiled on your PC from your own US disc; no Nintendo code shipped.",
     "added": "2026-10-19",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/super-mario-galaxy-pc/",
     "sources": [
       {
@@ -4914,7 +4914,7 @@
     ],
     "note": "Wii U version (USA/EUR) recompiled with GX2 reimplemented on Metal/Vulkan. v0.3.0 adds a mod SDK and quest mods; an experimental decomp build exists. Bring your own copy.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -4936,7 +4936,7 @@
     ],
     "note": "PowerPC-to-C++ recomp on a Wii U runtime with Vulkan; boots through arcade mode, 120 fps option. European v16 only, your own .wua; no online or GamePad screen yet.",
     "added": "2026-10-24",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/tekken-tag-tournament-2-pc/",
     "sources": [
       {
@@ -4960,7 +4960,7 @@
     ],
     "note": "nxnative: tested on iPhone with update 3.0.3, IPA about 10.5 GB. iOS 26 on iPhone 15 Pro+ or M1 iPad. Own NSP + prod.keys; no online play or amiibo.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/nxnative/",
     "sources": [
       {
@@ -4984,7 +4984,7 @@
     ],
     "note": "Runs the Switch 1.0.34.0 program natively on iPhone, iPad and Mac with a Metal layer; offline only, full touch UI. Bring your own game files.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/diablo-2-resurrected-iphone/",
     "sources": [
       {
@@ -5008,7 +5008,7 @@
     ],
     "note": "nxnative: tested on iPhone, IPA about 6.4 GB. iOS 26 on iPhone 15 Pro+ or M1 iPad. Own NSP + prod.keys; packed on a Mac, sideloaded.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/nxnative/",
     "sources": [
       {
@@ -5032,7 +5032,7 @@
     ],
     "note": "nxnative: tested on iPhone, IPA about 6 GB. iOS 26 on iPhone 15 Pro+ or M1 iPad. Own NSP + prod.keys; packed on a Mac, sideloaded. No online features.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/nxnative/",
     "sources": [
       {
@@ -5056,7 +5056,7 @@
     ],
     "note": "nxnative: tested on iPhone, IPA about 4 GB, 2D touch layout. iOS 26 on iPhone 15 Pro+ or M1 iPad. Own NSP + prod.keys; packed on a Mac, sideloaded.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/nxnative/",
     "sources": [
       {
@@ -5080,7 +5080,7 @@
     ],
     "note": "nxnative: tested on iPhone, IPA about 6 GB; shake the phone for motion moves. iOS 26 on iPhone 15 Pro+ or M1 iPad. Own NSP + prod.keys; packed on a Mac, sideloaded.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/nxnative/",
     "sources": [
       {
@@ -5104,7 +5104,7 @@
     ],
     "note": "nxnative: tested on iPhone, 60 fps (30 on Switch) with update 1.9.0, IPA about 16 GB. iOS 26 on iPhone 15 Pro+ or M1 iPad. Own NSP + prod.keys; sideloaded.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/nxnative/",
     "sources": [
       {
@@ -5128,7 +5128,7 @@
     ],
     "note": "Switch ARM64 code runs natively with NVN on Metal 4. Versions 1.0.0/1.2.1/1.4.3; iOS 26 on iPhone 14+ (1.4.3 tested). Build on a Mac from your own XCI/NSP and prod.keys.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/zelda-tears-of-the-kingdom-mac-iphone/",
     "sources": [
       {
@@ -5152,7 +5152,7 @@
     ],
     "note": "Multi-game native Switch runtime (48 games tested on iPhone); TOTK 60 fps with update 1.4.3. iOS 26 on iPhone 15 Pro+ or M1 iPad. Own NSP + prod.keys. Mac via the LumaDock launcher.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/nxnative/",
     "sources": [
       {
@@ -5176,7 +5176,7 @@
     ],
     "note": "Switch code runs natively on Apple devices with a Metal graphics layer. Build it on an Apple silicon Mac from your own dump, keys and firmware. Local and LAN multiplayer.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/mario-kart-8-deluxe-iphone/",
     "sources": [
       {
@@ -5222,7 +5222,7 @@
     ],
     "note": "Switch remake, v1.0.0 files. README says nearly all code was written by Claude, directed by a human. Built-in randomizer, ultrawide. Bring your own copy.",
     "added": "2026-10-19",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/zelda-links-awakening-pc/",
     "sources": [
       {
@@ -5250,7 +5250,7 @@
     ],
     "note": "Released as v1.0.3 on 2026-10-18, a day after the repo appeared. Vulkan / Metal, 60 FPS, mouse and keyboard. Needs your own v1.0.0 files.",
     "added": "2026-10-19",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5276,7 +5276,7 @@
     ],
     "note": "Translates the game on your PC from your own v1.2 ExeFS/RomFS dump; the release is only a builder. Prologue and early chapter 1 played; later chapters untested. Linux build in testing.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/bayonetta-2-pc/",
     "sources": [
       {
@@ -5302,7 +5302,7 @@
     ],
     "note": "Launcher recompiles the game from your own 3.0.3 dump, keys and firmware. Course World runs on a self-hosted server; adds the 100 Mario Challenge from the first game.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/super-mario-maker-2-pc/",
     "sources": [
       {
@@ -5324,7 +5324,7 @@
     ],
     "note": "Built on the ssbu-recomp runtime with a Vulkan renderer. README says early: played up to Cascade Kingdom. No releases; build from source with your own 1.0.0 dump.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5346,7 +5346,7 @@
     ],
     "note": "AArch64-to-C recomp with Vulkan; 13.0.4/13.0.5, your own dump and keys, no firmware, prebuilt runtime. 1v1 matches work; AI-built per README.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/super-smash-bros-ultimate-pc/",
     "sources": [
       {
@@ -5370,7 +5370,7 @@
     ],
     "note": "ARM64-to-C recompiler plus D3D11 runtime, built on your PC from your own 13.0.5 copy, keys and firmware. Menus and matches run; Linux/macOS and online experimental.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/super-smash-bros-ultimate-pc/",
     "sources": [
       {
@@ -5393,7 +5393,7 @@
     ],
     "note": "Switch v1.8.2 files. Built on LAS Recomp; README says nearly all code was written by Claude. Alpha: Great Plateau at 60 fps, up to 4K/120 FPS, mouse. Windows build; Linux from source.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/zelda-breath-of-the-wild-pc/",
     "sources": [
       {
@@ -5422,7 +5422,7 @@
     ],
     "note": "AArch64-to-C++ recomp with NVN reimplemented on Vulkan. Title, menus, world map and course 1-1 run at 60 fps. No releases: build from your own 1.0.0 dump, keys and firmware.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/super-mario-wonder-pc/",
     "sources": [
       {
@@ -5444,7 +5444,7 @@
     ],
     "note": "Long-running open-source remake of the Dungeon Keeper engine with fixes and new features. v1.4.0 (4 Jul). Needs the original Dungeon Keeper data (e.g. GOG).",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5467,7 +5467,7 @@
     ],
     "note": "The 2006 Windows game, every x86 function translated to C, then WebAssembly; Direct3D 8 rebuilt on WebGPU. Online 1v1. The play site downloads the game files itself.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/cricket-07/",
     "sources": [
       {
@@ -5490,7 +5490,7 @@
     ],
     "note": "PSPRecomp port of the US PSP release (v1.05, ULUS-10041); mouse and keyboard, 60 fps. Needs your own decrypted EBOOT and PSP_GAME folder; PS2 version not supported.",
     "added": "2026-10-20",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/gta-liberty-city-stories-pc/",
     "sources": [
       {
@@ -5518,7 +5518,7 @@
     ],
     "note": "Fork of Gen1Recomp with its own Gen 2 engine: Johto, day/night, breeding. Also imports FireRed, Emerald and DS games (alpha). Your own ROMs only.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5547,7 +5547,7 @@
     ],
     "note": "Not a true recompilation: a hand-written Lua engine ported from the pret disassemblies. Data is decoded from your own US ROM. Gold to Emerald support added, still in beta.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/pokemon-red-blue-pc/",
     "sources": [
       {
@@ -5572,7 +5572,7 @@
     ],
     "note": "Full source rebuild of Mania and its Retro Engine v5. Uses data from an official release (PC, Switch, PS4, Xbox One). Adds a built-in mod loader and builds for systems the game never shipped on.",
     "added": "2026-10-17",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5599,7 +5599,7 @@
     ],
     "note": "i960, TGP and sound code recompiled to C++, video hardware rewritten natively. No releases: setup builds it from your own MAME ROM set (daytona93 or daytona). Vita port near full speed.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5622,7 +5622,7 @@
     ],
     "note": "snesrecomp port with adaptive widescreen, playable Zero, co-op, rollback netplay and X2/X3 weapons. Frequent alpha releases. Needs your own Mega Man X (USA) Rev 1 ROM.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5645,7 +5645,7 @@
     ],
     "note": "ndsrecomp port of the USA rev 0 release: widescreen, mouse aim, Wiimmfi online (experimental). Public alpha with known crashes; needs your own ROM, no BIOS dump required.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5667,7 +5667,7 @@
     ],
     "note": "PSP version, translated ahead of time to C++ and WebAssembly on PSPRecomp. Play in a browser from your own US ISO (ULUS10440); drives reached at about 30 fps, stalls remain.",
     "added": "2026-10-24",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/ncaa-football-10-browser/",
     "sources": [
       {
@@ -5690,7 +5690,7 @@
     ],
     "note": "SPEED2.EXE recompiled to C with a pcrecomp fork; Android APKs with touch controls and DXVK on Vulkan. Quick races and free roam load; needs your own PC game files.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5714,7 +5714,7 @@
     ],
     "note": "One launcher for ten Capcom CPS-2/CPS-1 games, each with training modes and widescreen. Fighters play start to finish; needs your own ROM set of the exact listed version.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5737,7 +5737,7 @@
     ],
     "note": "65816 CPU code recompiled to C with snesrecomp; PPU and audio run on a LakeSnes-derived core. Believed fully playable, verified through World 3. Needs your own USA ROM.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5761,7 +5761,7 @@
     ],
     "note": "Recompiles the 65816 CPU code with snesrecomp; PPU and audio still emulated. Boots, plays and saves; optional widescreen mod. Releases for Win/Linux/macOS. Bring your own ROM.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5784,7 +5784,7 @@
     ],
     "note": "snesrecomp preview: CPU code recompiled to C, PPU and audio via an embedded snes9x core. Verified through the early dungeon. Windows releases (older Linux AppImage). Own USA ROM needed.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5807,7 +5807,7 @@
     ],
     "note": "AOT recomp of the 3DS remake with a Vulkan renderer, single-screen UI and 60/90 fps interpolation. Alpha/beta pre-releases; tested mainly in early areas. Needs your own decrypted ROM.",
     "added": "2026-10-21",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": "https://portedgames.com/zelda-ocarina-of-time-3d-pc/",
     "sources": [
       {
@@ -5829,7 +5829,7 @@
     ],
     "note": "Same author as ps2-web-recomp: your own PSP disc becomes a local browser page. Two God of War games run; needs your own decrypted EBOOT.",
     "added": "2026-10-19",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5855,7 +5855,7 @@
     ],
     "note": "Reverse-engineering of the PC game, about half done; builds a DLL loaded into the original 1.0 exe, not a standalone port. The only active San Andreas project.",
     "added": "2026-10-23",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
@@ -5879,7 +5879,7 @@
     ],
     "note": "MIT toolkit that turns PSP Allegrex MIPS code into C; a developer tool, not a playable port. No game renders on it yet.",
     "added": "2026-10-22",
-    "lastChecked": "2026-10-25",
+    "lastChecked": "2026-10-26",
     "entry": null,
     "sources": [
       {
