@@ -13,7 +13,7 @@ Archived on Zenodo: [doi:10.5281/zenodo.23555376](https://doi.org/10.5281/zenodo
 ## The list
 
 <!-- list:start -->
-**378 projects** across 12 platforms, last checked 2026-11-11. 103 working, 180 in beta, 80 early. 277 are static recompilations, 51 decompilations, 47 game-specific runtimes and 3 emulator forks.
+**378 projects** across 12 platforms, last checked 2026-11-12. 103 working, 179 in beta, 80 early. 277 are static recompilations, 51 decompilations, 47 game-specific runtimes and 3 emulator forks.
 
 [Xbox 360](#xbox-360) (77) · [N64](#n64) (41) · [PS4](#ps4) (26) · [PS1](#ps1) (27) · [PS2](#ps2) (47) · [PS3](#ps3) (11) · [Xbox](#xbox) (41) · [GameCube](#gamecube) (15) · [Wii](#wii) (8) · [Wii U](#wii-u) (5) · [Switch](#switch) (40) · [Other](#other) (40)
 
@@ -388,7 +388,6 @@ Archived on Zenodo: [doi:10.5281/zenodo.23555376](https://doi.org/10.5281/zenodo
 | [Super Mario Odyssey](https://portedgames.com/nx2android/) | [nx2android](https://github.com/shirai91/nx2android) | Game-specific runtime | 🟡 Beta | Android | Android port of nxnative: a Windows tool builds an APK from your own game and keys. Listed at 60 fps, tagged for the next release after v0.1.3. Adreno or Xclipse GPU only. |
 | [The Legend of Zelda: Breath of the Wild](https://portedgames.com/zelda-breath-of-the-wild-mac/) | [MacNativeGames](https://github.com/ly05010419/MacNativeGames) | Game-specific runtime | 🟡 Beta | macOS | Early native Mac port of Switch versions 1.6.0 and 1.9.0, DLC optional. Apple silicon, macOS 26; no iOS build yet. Needs your own game files and prod.keys. |
 | [The Legend of Zelda: Link's Awakening (2019)](https://portedgames.com/zelda-links-awakening-pc/) | [LAS Recomp](https://github.com/peiikai/LASRecomp) | Static recompilation | 🟡 Beta | Windows, Linux, macOS | Switch remake, v1.0.0 files. README says nearly all code was written by Claude, directed by a human. Built-in randomizer, ultrawide. Bring your own copy. |
-| The Legend of Zelda: Skyward Sword HD | [Sky Recomp](https://github.com/Apolinario-coder/SkyRecomp) | Static recompilation | 🟡 Beta | Windows, Linux, macOS | Released as v1.0.3 on 2026-10-18, a day after the repo appeared. Vulkan / Metal, 60 FPS, mouse and keyboard. Needs your own v1.0.0 files. |
 | The Legend of Zelda: Tears of the Kingdom | [Weeping of the Empire](https://github.com/daniel-madrid-07/weeping-of-the-empire) | Static recompilation | 🟡 Beta | Windows | Native Windows/Vulkan recomp built on your PC, no game files shared. Crash and graphics reports open; Proton experimental. v0.1.9 (3 Nov). Needs your own 1.0.0 dump and your own console keys. |
 | [Bayonetta 2](https://portedgames.com/bayonetta-2-pc/) | [B2recomp](https://github.com/K0NL/B2recomp) | Static recompilation | 🟠 Early | Windows | Translates the game on your PC from your own v1.2 ExeFS/RomFS dump; the release is only a builder. Prologue and early chapter 1 played; later chapters untested. Linux build in testing. |
 | Fire Emblem: Fortune's Weave | [fefw-recomp](https://github.com/Goldoire/fefw-recomp) | Static recompilation | 🟠 Early | Windows | Switch 2 game. 60 or 120 fps, ultrawide, any resolution; the launcher builds it on your PC. v0.1.5 (9 Nov). Needs your own dump at update 131072. |
@@ -409,6 +408,7 @@ Archived on Zenodo: [doi:10.5281/zenodo.23555376](https://doi.org/10.5281/zenodo
 | [The Legend of Zelda: Breath of the Wild](https://portedgames.com/zelda-breath-of-the-wild-pc/) | [BOTWRecompAndroid](https://github.com/mamcjr/BOTWRecompAndroid) | Static recompilation | ⚫ Offline | Android | Android app on the LAS Recomp engine, NVN to Vulkan; playable into the open world on one tested phone. v0.2.2-beta (28 Oct) adds a native mode. Needs your own 1.0.0/1.6.0/1.8.2 dump. |
 | [The Legend of Zelda: Breath of the Wild](https://portedgames.com/zelda-breath-of-the-wild-pc/) | [SavageWindRecomp-Android](https://github.com/deivid22srk/SavageWindRecomp-Android) | Static recompilation | ⚫ Offline | Android | Separate arm64 Android build of Savage Wind (1.8.2 files) via GitHub Actions. Not playable yet: on-device code generation needs unicorn/capstone wheels that don’t exist for Android. No APK release. |
 | [The Legend of Zelda: Breath of the Wild](https://portedgames.com/zelda-breath-of-the-wild-pc/) | [Savage Wind Recomp](https://github.com/Revivedx/SavageWindRecomp) | Static recompilation | ⚫ Offline | Windows, Linux | Switch v1.9.0 files (Alpha 3). Built on LAS Recomp; README says nearly all code was written by Claude. Great Plateau at 60 fps, up to 4K/120 FPS, ultrawide. Windows zip, Linux/Steam Deck AppImage. |
+| The Legend of Zelda: Skyward Sword HD | [Sky Recomp](https://github.com/Apolinario-coder/SkyRecomp) | Static recompilation | ⚫ Offline | Windows, Linux, macOS | Released as v1.0.3 on 2026-10-18, a day after the repo appeared. Vulkan / Metal, 60 FPS, mouse and keyboard. Needs your own v1.0.0 files. |
 
 ### Other
 
