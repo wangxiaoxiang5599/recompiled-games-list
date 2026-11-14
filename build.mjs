@@ -18,7 +18,7 @@ else {
 const { projects, updated } = body;
 if (!Array.isArray(projects) || projects.length === 0) throw new Error(`${SOURCE}: no rows`);
 
-export const consoles = ['Xbox 360', 'N64', 'PS4', 'PS1', 'PS2', 'PS3', 'Xbox', 'GameCube', 'Wii', 'Wii U', 'Switch', 'Other'];
+export const consoles = ['Xbox 360', 'N64', 'PS4', 'PS1', 'PS2', 'PS3', 'PSP', 'Xbox', 'GameCube', 'Wii', 'Wii U', 'Switch', 'Other'];
 const stageRank = { Working: 0, Beta: 1, Early: 2, Unconfirmed: 3, Offline: 4, 'Taken down': 5 };
 
 // Stable output: by console (in the order above), then stage, then game.
