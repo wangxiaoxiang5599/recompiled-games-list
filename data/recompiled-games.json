@@ -6347,7 +6347,7 @@
     ],
     "note": "The 2005 Xbox version recompiled with xboxrecomp. Boots to its own main menu background with real textures, but the README says it is not playable yet.",
     "added": "2026-10-17",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-14",
     "entry": null,
     "sources": [
       {
@@ -6512,32 +6512,6 @@
     ]
   },
   {
-    "id": "metroid-prime-port",
-    "game": "Metroid Prime",
-    "console": "GameCube",
-    "project": "MetroidPrimePort",
-    "url": "https://github.com/Odrannnn/MetroidPrimePort",
-    "method": "Decompilation",
-    "stage": "Working",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android",
-      "macOS",
-      "iOS"
-    ],
-    "note": "Native port built on the PrimeDecomp decomp with the Aurora layer. v0.36.0; near-daily releases. Runs GameCube and Wii Trilogy discs. NOTICE says src/ is Nintendo's code. Own disc.",
-    "added": "2026-10-20",
-    "lastChecked": "2026-11-13",
-    "entry": "https://portedgames.com/metroid-prime-pc/",
-    "sources": [
-      {
-        "label": "Odrannnn/MetroidPrimePort README and NOTICE (checked 2026-10-30)",
-        "url": "https://github.com/Odrannnn/MetroidPrimePort"
-      }
-    ]
-  },
-  {
     "id": "strikers-new-coke",
     "game": "Super Mario Strikers",
     "console": "GameCube",
@@ -6640,31 +6614,6 @@
       {
         "label": "griches/EternalDarknessRecomp README (checked 2026-10-17)",
         "url": "https://github.com/griches/EternalDarknessRecomp"
-      }
-    ]
-  },
-  {
-    "id": "metroid-prime-2-port",
-    "game": "Metroid Prime 2: Echoes",
-    "console": "GameCube",
-    "project": "Echoes Unbound (MetroidPrime2Port)",
-    "url": "https://github.com/Odrannnn/MetroidPrime2Port",
-    "method": "Decompilation",
-    "stage": "Beta",
-    "platforms": [
-      "Windows",
-      "Linux",
-      "Android",
-      "macOS"
-    ],
-    "note": "Same author and method as MetroidPrimePort: PrimeDecomp decomp plus Aurora. Pre-release v0.6.6; macOS and iOS experimental. NOTICE says src/ is Nintendo's code. Own GameCube or Trilogy disc.",
-    "added": "2026-10-30",
-    "lastChecked": "2026-11-13",
-    "entry": "https://portedgames.com/metroid-prime-2-echoes-pc/",
-    "sources": [
-      {
-        "label": "Odrannnn/MetroidPrime2Port README and NOTICE (checked 2026-10-30)",
-        "url": "https://github.com/Odrannnn/MetroidPrime2Port"
       }
     ]
   },
@@ -6861,6 +6810,57 @@
       {
         "label": "nflstreet2 README and releases (checked 2026-11-11)",
         "url": "https://github.com/mitsevox/nflstreet2"
+      }
+    ]
+  },
+  {
+    "id": "metroid-prime-port",
+    "game": "Metroid Prime",
+    "console": "GameCube",
+    "project": "MetroidPrimePort",
+    "url": "https://github.com/Odrannnn/MetroidPrimePort",
+    "method": "Decompilation",
+    "stage": "Offline",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android",
+      "macOS",
+      "iOS"
+    ],
+    "note": "Native port built on the PrimeDecomp decomp with the Aurora layer. v0.36.0; near-daily releases. Runs GameCube and Wii Trilogy discs. NOTICE says src/ is Nintendo's code. Own disc.",
+    "added": "2026-10-20",
+    "lastChecked": "2026-11-14",
+    "entry": "https://portedgames.com/metroid-prime-pc/",
+    "sources": [
+      {
+        "label": "Odrannnn/MetroidPrimePort README and NOTICE (checked 2026-10-30)",
+        "url": "https://github.com/Odrannnn/MetroidPrimePort"
+      }
+    ]
+  },
+  {
+    "id": "metroid-prime-2-port",
+    "game": "Metroid Prime 2: Echoes",
+    "console": "GameCube",
+    "project": "Echoes Unbound (MetroidPrime2Port)",
+    "url": "https://github.com/Odrannnn/MetroidPrime2Port",
+    "method": "Decompilation",
+    "stage": "Offline",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "Android",
+      "macOS"
+    ],
+    "note": "Same author and method as MetroidPrimePort: PrimeDecomp decomp plus Aurora. Pre-release v0.6.6; macOS and iOS experimental. NOTICE says src/ is Nintendo's code. Own GameCube or Trilogy disc.",
+    "added": "2026-10-30",
+    "lastChecked": "2026-11-14",
+    "entry": "https://portedgames.com/metroid-prime-2-echoes-pc/",
+    "sources": [
+      {
+        "label": "Odrannnn/MetroidPrime2Port README and NOTICE (checked 2026-10-30)",
+        "url": "https://github.com/Odrannnn/MetroidPrime2Port"
       }
     ]
   },
