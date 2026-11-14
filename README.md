@@ -13,9 +13,9 @@ Archived on Zenodo: [doi:10.5281/zenodo.23555376](https://doi.org/10.5281/zenodo
 ## The list
 
 <!-- list:start -->
-**392 projects** across 12 platforms, last checked 2026-11-13. 104 working, 190 in beta, 82 early. 288 are static recompilations, 54 decompilations, 47 game-specific runtimes and 3 emulator forks.
+**393 projects** across 13 platforms, last checked 2026-11-14. 104 working, 191 in beta, 81 early. 289 are static recompilations, 54 decompilations, 47 game-specific runtimes and 3 emulator forks.
 
-[Xbox 360](#xbox-360) (78) · [N64](#n64) (42) · [PS4](#ps4) (26) · [PS1](#ps1) (28) · [PS2](#ps2) (53) · [PS3](#ps3) (11) · [Xbox](#xbox) (41) · [GameCube](#gamecube) (15) · [Wii](#wii) (8) · [Wii U](#wii-u) (5) · [Switch](#switch) (42) · [Other](#other) (43)
+[Xbox 360](#xbox-360) (78) · [N64](#n64) (42) · [PS4](#ps4) (26) · [PS1](#ps1) (28) · [PS2](#ps2) (53) · [PS3](#ps3) (11) · [PSP](#psp) (1) · [Xbox](#xbox) (41) · [GameCube](#gamecube) (15) · [Wii](#wii) (8) · [Wii U](#wii-u) (5) · [Switch](#switch) (42) · [Other](#other) (43)
 
 ### Xbox 360
 
@@ -285,6 +285,12 @@ Archived on Zenodo: [doi:10.5281/zenodo.23555376](https://doi.org/10.5281/zenodo
 | [Killzone 2](https://portedgames.com/killzone-3-pc/) | [Project Pyrrhus](https://github.com/undecuple/project-pyrrhus) | Static recompilation | 🟠 Early | Windows | Same developer and method as Project Helghast. v0.1.6 pre-release: menus run, first level loads at about 23 fps, sky draws green. Needs US disc BCUS98116, 1.29 update and its decrypted EBOOT. |
 | [Killzone 3](https://portedgames.com/killzone-3-pc/) | [Project Helghast](https://github.com/undecuple/project-helghast) | Static recompilation | 🟠 Early | Windows | PS3 recompilation on D3D12. v0.1.7 pre-release: all 9 chapters load, about 16-23 fps (target 30), split-screen co-op works. Needs your disc dump, 1.14 update and decrypted EBOOT. |
 
+### PSP
+
+| Game | Project | Method | Status | PC platforms | Notes |
+|---|---|---|---|---|---|
+| Tekken: Dark Resurrection | [tkdr-recomp](https://github.com/gasparegas/tkdr-recomp) | Static recompilation | 🟡 Beta | macOS, Linux, Browser (WebGL 2) | README reports 60 fps at up to 4x in full matches. Native builds are from source. Needs your own US PSP dump (ULUS-10139). Ad hoc multiplayer and SAS reverb are missing. |
+
 ### Xbox
 
 | Game | Project | Method | Status | PC platforms | Notes |
@@ -407,7 +413,6 @@ Archived on Zenodo: [doi:10.5281/zenodo.23555376](https://doi.org/10.5281/zenodo
 | Super Mario Odyssey | [smo-recomp](https://github.com/Coz-0/smo-recomp) | Static recompilation | 🟠 Early | Windows | Built on the ssbu-recomp runtime with a Vulkan renderer. README says early: played up to Cascade Kingdom. No releases; build from source with your own 1.0.0 dump. |
 | [Super Smash Bros. Ultimate](https://portedgames.com/super-smash-bros-ultimate-pc/) | [ssbu-recomp (OpenSmash-Ultimate)](https://github.com/OpenSmash-Ultimate/ssbu-recomp) | Static recompilation | 🟠 Early | Windows | AArch64-to-C recomp with Vulkan; 13.0.4/13.0.5, your own dump and keys, no firmware, prebuilt runtime. 1v1 matches work; AI-built per README. |
 | [Super Smash Bros. Ultimate](https://portedgames.com/super-smash-bros-ultimate-pc/) | [WindowSmash](https://github.com/OpenSmash-Ultimate/WindowSmash) | Static recompilation | 🟠 Early | Windows, Linux, macOS | ARM64-to-C recompiler plus D3D11 runtime, built on your PC from your own 13.0.5 copy, keys and firmware. Menus and matches run; Linux/macOS and online experimental. |
-| The Legend of Zelda: Tears of the Kingdom | [SkyboundTOTK (NotRexed)](https://github.com/NotRexed/SkyboundTotk) | Static recompilation | 🟠 Early | Windows, Linux | Third TotK port, WebGPU renderer. Source only on 31 Oct 2026, no release: you compile it from your own extracted 1.0.0 ExeFS and RomFS (1.2.1 also builds). |
 | [The Legend of Zelda: Tears of the Kingdom](https://portedgames.com/totk-recomp/) | [TotK Recomp](https://github.com/valentderah/totk-pc-recomp) | Static recompilation | 🟠 Early | Windows | Second TotK PC port, separate from UltraTears. v0.1.6 pre-release: playable, 60 fps default, F1 menu, FSR 1; many AMD bug reports. Setup builds it from your base game plus 1.2.1 or 1.4.3. |
 | [The Legend of Zelda: Tears of the Kingdom](https://portedgames.com/zelda-tears-of-the-kingdom-pc/) | [TOTK-PS4](https://github.com/iHaiDeeZ/TOTK-PS4) | Static recompilation | 🟠 Early | PS4 (jailbroken) | ShiroKlein’s port of 1.0.0 to a jailbroken PS4 on the Mario Wonder recompiler. Great Sky Island at 2-10 fps; development stopped at v00.72 (24 Oct). Build it yourself; needs keys. |
 | [The Legend of Zelda: Tears of the Kingdom](https://portedgames.com/zelda-tears-of-the-kingdom-pc/) | [UltraTears](https://github.com/kuraeow/ultratears) | Static recompilation | 🟠 Early | Windows | Switch 1.4.3 recomp (LAS Recomp lifter, MacNativeGames NVN parts), built on your PC; no game code shipped. 0.1.0-beta (25 Oct): Great Sky Island at 30 fps on NVIDIA; AMD/Intel broken. |
@@ -420,6 +425,7 @@ Archived on Zenodo: [doi:10.5281/zenodo.23555376](https://doi.org/10.5281/zenodo
 | [The Legend of Zelda: Breath of the Wild](https://portedgames.com/zelda-breath-of-the-wild-pc/) | [SavageWindRecomp-Android](https://github.com/deivid22srk/SavageWindRecomp-Android) | Static recompilation | ⚫ Offline | Android | Separate arm64 Android build of Savage Wind (1.8.2 files) via GitHub Actions. Not playable yet: on-device code generation needs unicorn/capstone wheels that don’t exist for Android. No APK release. |
 | [The Legend of Zelda: Breath of the Wild](https://portedgames.com/zelda-breath-of-the-wild-pc/) | [Savage Wind Recomp](https://github.com/Revivedx/SavageWindRecomp) | Static recompilation | ⚫ Offline | Windows, Linux | Switch v1.9.0 files (Alpha 3). Built on LAS Recomp; README says nearly all code was written by Claude. Great Plateau at 60 fps, up to 4K/120 FPS, ultrawide. Windows zip, Linux/Steam Deck AppImage. |
 | The Legend of Zelda: Skyward Sword HD | [Sky Recomp](https://github.com/Apolinario-coder/SkyRecomp) | Static recompilation | ⚫ Offline | Windows, Linux, macOS | Released as v1.0.3 on 2026-10-18, a day after the repo appeared. Vulkan / Metal, 60 FPS, mouse and keyboard. Needs your own v1.0.0 files. |
+| The Legend of Zelda: Tears of the Kingdom | [SkyboundTOTK (NotRexed)](https://github.com/NotRexed/SkyboundTotk) | Static recompilation | ⚫ Offline | Windows, Linux | Third TotK port, WebGPU renderer. Source only on 31 Oct 2026, no release: you compile it from your own extracted 1.0.0 ExeFS and RomFS (1.2.1 also builds). |
 
 ### Other
 
