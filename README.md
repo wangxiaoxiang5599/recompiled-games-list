@@ -13,7 +13,7 @@ Archived on Zenodo: [doi:10.5281/zenodo.23555376](https://doi.org/10.5281/zenodo
 ## The list
 
 <!-- list:start -->
-**393 projects** across 13 platforms, last checked 2026-11-15. 103 working, 190 in beta, 80 early. 289 are static recompilations, 54 decompilations, 47 game-specific runtimes and 3 emulator forks.
+**393 projects** across 13 platforms, last checked 2026-11-16. 103 working, 190 in beta, 80 early. 289 are static recompilations, 54 decompilations, 47 game-specific runtimes and 3 emulator forks.
 
 [Xbox 360](#xbox-360) (78) · [N64](#n64) (42) · [PS4](#ps4) (26) · [PS1](#ps1) (28) · [PS2](#ps2) (53) · [PS3](#ps3) (11) · [PSP](#psp) (1) · [Xbox](#xbox) (41) · [GameCube](#gamecube) (15) · [Wii](#wii) (8) · [Wii U](#wii-u) (5) · [Switch](#switch) (42) · [Other](#other) (43)
 
