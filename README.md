@@ -13,7 +13,7 @@ Archived on Zenodo: [doi:10.5281/zenodo.23555376](https://doi.org/10.5281/zenodo
 ## The list
 
 <!-- list:start -->
-**423 projects** across 13 platforms, last checked 2026-11-26. 110 working, 211 in beta, 86 early. 315 are static recompilations, 56 decompilations, 49 game-specific runtimes and 3 emulator forks.
+**423 projects** across 13 platforms, last checked 2026-11-27. 110 working, 211 in beta, 86 early. 315 are static recompilations, 56 decompilations, 49 game-specific runtimes and 3 emulator forks.
 
 [Xbox 360](#xbox-360) (81) · [N64](#n64) (42) · [PS4](#ps4) (28) · [PS1](#ps1) (28) · [PS2](#ps2) (59) · [PS3](#ps3) (15) · [PSP](#psp) (1) · [Xbox](#xbox) (42) · [GameCube](#gamecube) (15) · [Wii](#wii) (8) · [Wii U](#wii-u) (5) · [Switch](#switch) (48) · [Other](#other) (51)
 
@@ -503,7 +503,7 @@ Archived on Zenodo: [doi:10.5281/zenodo.23555376](https://doi.org/10.5281/zenodo
 | PSP games (tool) | [psprecomp](https://github.com/sp00nznet/psprecomp) | Static recompilation | 🟠 Early | Windows, Linux, macOS | MIT toolkit that turns PSP Allegrex MIPS code into C; a developer tool, not a playable port. No game renders on it yet. |
 | Super Mario 3D Land | [super-mario-3d-land-recompiled](https://github.com/Okxmir/super-mario-3d-land-recompiled) | Static recompilation | 🟠 Early | Windows, Linux | 3DS game. v1.1.7 (25 Nov): the launcher builds it on your PC; only the title, world map and 1-1 checked. Optional fan HD texture packs. Needs your own decrypted European ROM. |
 | [Sonic Dream Team](https://portedgames.com/sonic-dream-team-pc/) | [Project Dream](https://gitlab.com/adokova1111/project-dream-release) | Game-specific runtime | ⚫ Offline | Windows, Android | Apple Arcade game: loads the Mac version's IL2CPP code on Windows through a replacement GameAssembly.dll; can also build an Android APK. Closed-source installer v1.0.0. Own Mac copy (1.10.1). |
-| Grand Theft Auto VI | [Leonida](https://github.com/ProjectLeonida/Leonida) | Static recompilation | 🔴 Taken down |  | Removed after Take-Two's DMCA notice of 24 Nov 2026, which also covers its 2,900+ forks. Never playable: the README said the game did not boot. Any ready-made download is fake. |
+| Grand Theft Auto VI | [Leonida](undefined) | Static recompilation | 🔴 Taken down |  | Removed after Take-Two's DMCA notice of 24 Nov 2026, which also covers its 2,900+ forks. Never playable: the README said the game did not boot. Any ready-made download is fake. |
 
 Game names link to the project's page on PortedGames when it has one. Full list with filters and per-console pages: [portedgames.com/recompiled-games](https://portedgames.com/recompiled-games/).
 <!-- list:end -->
